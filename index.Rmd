@@ -16,22 +16,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Bem vindos/as!
 
-Este é o site da disciplina "processo constitucional", do 6º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
+Este é o site da disciplina "direito internacional público", do 3º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
 
 # Informações básicas
 
 - **Período:** primeiro semestre, 2025
 - **Sala:** a definir
 - **Horários:**
-  - segundas, 21h00-22h35
-  - quartas, 19h00-20h40
+  - segundas, 19h00-20h40
+  - quartas, 21h00-22h35
 - **Professor:** Luccas Gissoni
 
 # Apresentação
 
-Todos nós conhecemos o direito constitucional: ele abriga os direitos fundamentais, a organização do Estado e a regulação da atividade econômica. Na intersecção dessas três áreas, está o programa de construção do Estado de bem estar social em nosso país. Contudo, como todo direito, não basta ao constitucional a positivação na lei: para ser efetivo, é necessária a previsão de ações judiciais que façam cumprir o direito.
-Assim, além de direitos subjetivos materiais, a Constituição da República prevê uma série de possibilidades de provocação do Poder Judiciário cujo objetico é fazer valer os preceitos constitucionais. Ao conjunto desses direito de ação e ao procedimento judicial específico que eles conformam, chamamos **processo constitucional**.
-O objetivo deste curso é entender esse processo. Mas, de início, iremos discutir o que é "processo", antes de adentrar o terreno do processo especificamente constitucional. O foco desta primeira parte do curso será teórico e histórico. Na segunda parte, apresentaremos procedimentos constitucionais especiais e praticaremos a redação de suas peças profissionais conforme as regras do Exame de Ordem da OAB.
+O direito internacional público é aquele que regula as relações em que adentram os Estados e organizações internacionais. Sua estrutura lógica é semelhante ao do direito interno, mas repousa sobre fundamentos distintos. Neste curso, vamos fazer uma breve introdução ao seu funcionamento.
 
 # Bibliografia
 
@@ -44,14 +42,14 @@ O objetivo deste curso é entender esse processo. Mas, de início, iremos discut
 
 ## Bibliografia básica
 
-
-@dimoulis_curso_2016
+@rezek_direito_2024
 
 ## Bibliografia complementar
 
-@mendes_curso_2024
-@moraes_direito_2023
-@padilha_como_2014
+@accioly_manual_2023
+@brasil_decreto_2009
+brasil_constituicao_1988
+@chimni_outline_2008
 
 # Estrutura do curso
 
@@ -65,7 +63,7 @@ A avaliação será dividida em dois bimestres, cada um dos quais contará com t
 
 ### PAP
 
-Na primeira parte do curso, as PAP terão cunho teórico-histórico; na segunda parte, elas serão constituídas pela prática de redação das peças profissionais do processo constitucional conforme o Exame de Ordem. As PAP serão realizadas em sala ou em casa, conforme o caso.
+As PAP constituirão atividades ou trabalhos escritos individuais. As PAP serão realizadas em casa. Em geral, o prazo de entrega da atividade será no domingo seguinte à sua explicação em sala. Os textos devem ser obrigatoriamente digitados e entregues (em pdf, odt ou doc) no email luccas.gissoni@gmail.com, com assunto "DIP - PAP x.y - NOME DO/A ESTUDANTE", onde "x.y" é a numeração da PAP.
 
 ### PAT
 
