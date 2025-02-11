@@ -1,7 +1,7 @@
 ---
 title: "Direito Internacional Público"
 description: |
-  Bacharelado em direito - Faculdade Zumbi dos Palmares
+  Bacharelado em direito - Universidade Zumbi dos Palmares
 site: distill::distill_website
 bibliography: bibliografia.bib
 ---
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Bem vindos/as!
 
-Este é o site da disciplina "direito internacional público", do 3º semestre do bacharelado em direito da Faculdade Zumbi dos Palmares
+Este é o site da disciplina "direito internacional público", do 3º semestre do bacharelado em direito da Universidade Zumbi dos Palmares
 
 # Informações básicas
 
