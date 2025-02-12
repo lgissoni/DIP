@@ -12,7 +12,7 @@ navbar:
       href: index.html
     - text: "Programa"
       href: programa.html
-    - text: "Notas de aula"
+    - text: "NOTAS DE AULA"
       menu:
         - text: "Semana 1"
           href: notas_1.html

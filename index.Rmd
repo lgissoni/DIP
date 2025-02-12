@@ -4,6 +4,7 @@ description: |
   Bacharelado em direito - Universidade Zumbi dos Palmares
 site: distill::distill_website
 bibliography: bibliografia.bib
+csl: abnt.csl
 ---
 
 ```{r setup, include=FALSE}
