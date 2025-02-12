@@ -1,0 +1,29 @@
+---
+title: "Notas de aula 1"
+description: "Introdução"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Sociedade descentralizada ou anárquica?
+
+- Sociedade internacional é descentralizada e não há autoridade superior aos Estados
+- Direito internacional público: ausência das comodidades próprias do direito interno
+- Menor objetividade e ausência de valores absolutos
+
+> No plano interno, a autoridade superior e o braço forte do Estado garantem a vigência da ordem jurídica, subordinando as proposições minoritárias à vontade da maioria, e fazendo valer, para todos, tanto o acervo legislativo quanto as situações e atos jurídicos que, mesmo no âmbito privado, se produzem na sua conformidade. [...] Não há representação, como no caso dos parlamentos nacionais que se propõem exprimir a voz dos povos, nem prevalece o princípio majoritário. A vontade singular de um Estado soberano somente sucumbe para dar lugar ao primado de outras vontades reunidas quando aquele mesmo Estado tenha, antes, concordado com a adoção de semelhante regra, qual sucede no quadro das organizações internacionais, a propósito de questões de importância secundária [@rezek_direito_2024, p. 7].
+
+|                     | **Direito Interno** | **Direito Internacional** |
+|---------------------|--------------------|--------------------------|
+| **Autoridade superior** | Presente           | Ausente                  |
+| **Criação de normas**   | Representação      | Obra dos destinatários   |
+| **Relações**           | Subordinação       | Coordenação              |
+| **Jurisdição**        | Aceitação obrigatória | Necessária aquiescência |
+
+> Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções, em razão da falta de uma autoridade central provida de força física e de legitimidade para tanto. [...] Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas [@rezek_direito_2024, p. 7].

@@ -1,0 +1,48 @@
+---
+title: "Notas de aula 2"
+description: "Fundamento do direito internacional público e confronto entre direito internacional e direito interno"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Fundamento do direito internacional público
+
+- Repousa sobre o consentimento
+- Estados subordinam-se unicamente ao direito com o qual **consentiram**
+
+> Vale destacar, por outro lado, certas regras consolidadas com vigor no século XX, tais a proscrição do uso da força e os princípios da não intervenção e da autodeterminação, ou ainda um pouco antes, qual a condenação da escravatura. [...] Assim, o tráfico de escravos e a guerra de conquista, lícitos outrora, estão hoje condenados, sendo seguro que não voltarão, amanhã, à condição de licitude [@rezek_direito_2024, p. 7].
+
+# Confronto entre direito internacional e direito interno
+
+## Dualismo
+
+- Carl Heinrich Triepel (Alemanha); Dionisio Anzilotti (Itália)
+- Direito internacional e direito interno de cada Estado são rigorosamente independentes e distintos
+- Validade da norma interna não se condiciona à sua sintonia com o direito internacional
+- Ênfase à diversidade das fontes de produção das normas jurídicas, aos limites de validade do direito nacional, e à circunstância de que a norma internacional não opera no interior do Estado nacional senão quando este, por tê-la aceitado, promove sua introdução no plano doméstico
+
+## Monismo
+
+- Unicidade da ordem jurídica interna e internacional
+
+### Monismo internacionalista
+
+- Hans Kelsen (Áustria)
+- Primado do direito internacional
+- Normas internas se ajustam a ele
+- Perspectiva idealista que um dia se instaure a ordem única internacional, e denúncia à ideia de que o Estado possa sobreviver de forma autárquica
+
+### Monismo nacionalista
+
+- Juristas soviéticos
+- Primado do direito nacional do Estado soberano
+- Adoção dos preceitos de direito internacional é faculdade do Estado nacional
+- Relevância da soberania e da descentralização da ordem internacional, bem como culto da constituição, cujo texto, ao qual nenhum outro pode-se sobrepor, afirmará o exato grau de prestígio das normas internacionais
+
+> Se é certo que pouquíssimos autores, fora do contexto soviético, comprometeram-se doutrinariamente com o monismo nacionalista, não menos certo é que essa ideia norteia as convicções judiciárias em inúmeros países do ocidente — incluídos o Brasil e os Estados Unidos da América —, quando os tribunais enfrentam o problema do conflito entre normas de direito internacional e de direito interno [@rezek_direito_2024, p. 8].
