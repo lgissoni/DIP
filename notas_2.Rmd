@@ -11,6 +11,49 @@ bibliography: bibliografia.bib
 csl: abnt.csl
 ---
 
+# Breve introdução às teorias das relações internacionais
+
+Durante o século XX, emergiram no campo anglógono de relações internacionais (RIs) algumas tradições teóricas que merecem nossa análise.
+
+> Cada uma dessas tradições teóricas atribui diferentes níveis de importância aos aspectos fundamentais para a compreensão das relações internacionais. Cada uma estabelece uma série de pressupostos e, a partir deles, direciona a atenção para diferentes forças motrizes a fim de dar sentido à complexidade da política mundial. Realistas e construtivistas, ou liberais e marxistas, observam o mesmo mundo, mas cada um enfatiza aspectos muito distintos ou, mais precisamente, mecanismos causais diferentes para compreendê-lo [@grieco_introduction_2015, p. 71, tradução própria].
+
+## Realismo
+
+Os realistas veem as relaçõe internacionais como uma competição entre os Estados por poder em segurança em um mundo perigoso. Esse mundo é caracterizado pela *anarquia*: cada Estado precisa cuidar de sua própria segurança, daí decorrendo a inevitabilidade da competição e do conflito
+
+### Pressupostos
+
+- Grupos humanos (atualmente Estados) existem em um mundo onde não há autoridade superior que possa assegurar a ordem ou o cumprimento das regras. Isto resulta numa permanência histórica - a competição e o conflito sempre estiveram presentes - a qual decorre não da natureza humana, mas da estrutura anárquica do sistema internacional.
+- Uma vez que anarquia cria insegurança, as pesssoas organizam-se em grupos conflitantes para proteger-se e enfrentar os grupos rivais. Atualmente, esses grupos são os Estados. Os Estados são os principais atores nas RIs, pois são eles que coletam e organizam recuros para imprimir segurança. Outros tipos de atores internacionais (organizaçõs internacionais, empresas multinacionais, igrejas) podem exister e florescer, mas são secudárias.
+- Estados são atores racionais que ponderam os custos e benefícios de suas ações ao fazer escolhas.
+- Segurança é o problema central da política internacional.
+- A luta pela segurança é um jogo de soma zero: se um Estado se fortalece, necessariamente outro(s) se enfraquece(m). Em política internacional, há ganhadores e perdedores.
+
+### Proposições
+
+- A dinâmica básica do sistema internacional é o *balanço de poder*. Se um Estado se fortalece construindo um exército poderoso, seu vizinho se sentirá ameaçado e passará a fortalecer seu prórpio exército para contrabalancear. Estados também podem se fortalecer formando coalizões contra um inimigo em comum; por exemplo, no século XIX a França napoleônica emergiu concentrando uma enorme quantidade de poder, o que levou à aliança entre outros Estados, como a Áustria-Hungria, a Grã-Bretanha, a Prússia e a Rússia, a qual eventualmente empurrou as tropas francesas novamente para dentro de suas fronteiras.
+- Um Estado nunca tem certeza sobre as intenções dos outros. Um Estado que aumenta seu poder o faz para se proteger porque se sente ameaçado, ou para subjugar seus vizinhos? Isso leva ao *dilema da segurança*: o Estado A sente-se ameaçado pelo B, o que o leva a aumentar seu poder, o que faz com que o Estado B sinta-se ameaçado e aumente o seu poder, o que leva o Estado A a se sentir mais ameaçado, e assim por diante, gerando uma corrida armamentista.
+- Estados preocupam-se mais com *ganhos relativos* de poder que com ganhos absolutos. Os ganhos relativos referem aos ganhos de um Estado em relação aos demais. Atualmente, por exemplos, alguns teóricos realistas argumentam que ao se relacionar comercialmente com a China, os Estados Unidos a estão ajudando a obter ganhos relativos que ameaçarão sua segurança no futuro, embora, em termos absolutos, eles estejam ganhando também.
+- Os realistas preocupam-se com as *transições de poder*, isto é, quando um Estado emergente aumenta seu poder até igualar ou ultrapassar o Estado anteriormente mais poderoso. Por exemplo, entre o final do século XIX e o início do século XX, a Alemanha emergiu e desafiou a hegemonia da Grã-Bretanha. Atualmente, a China ameaça a hegemonia estadunidense. Transições de poder são momentos perigosos que podem levar a uma guerra, como no caso da emergência da Alemanha, mas também podem ser pacíficas, como quando os Estados Unidos substituiram a Grã-Bretanha como potência hegemônica.
+- O *nacionalismo* é uma força dinâmica nas RIs. Nacionalismo é a percepção de um grupo de pessoas com uma história e cultura comuns de que compartilham o mesmo destino político. Estados contam com o nacionalismo ao pedir sacrifícios das pessoas, por exemplo cobrando delas impostos ou as convocando para o serviço militar e para a guerra.
+
+# Sociedade descentralizada e direito internacional
+
+- Sociedade internacional é descentralizada e não há autoridade superior aos Estados
+- Direito internacional público: ausência das comodidades próprias do direito interno
+- Menor objetividade e ausência de valores absolutos
+
+> No plano interno, a autoridade superior e o braço forte do Estado garantem a vigência da ordem jurídica, subordinando as proposições minoritárias à vontade da maioria, e fazendo valer, para todos, tanto o acervo legislativo quanto as situações e atos jurídicos que, mesmo no âmbito privado, se produzem na sua conformidade. [...] Não há representação, como no caso dos parlamentos nacionais que se propõem exprimir a voz dos povos, nem prevalece o princípio majoritário. A vontade singular de um Estado soberano somente sucumbe para dar lugar ao primado de outras vontades reunidas quando aquele mesmo Estado tenha, antes, concordado com a adoção de semelhante regra, qual sucede no quadro das organizações internacionais, a propósito de questões de importância secundária [@rezek_direito_2024, p. 7].
+
+|                     | **Direito Interno** | **Direito Internacional** |
+|---------------------|--------------------|--------------------------|
+| **Autoridade superior** | Presente           | Ausente                  |
+| **Criação de normas**   | Representação      | Obra dos destinatários   |
+| **Relações**           | Subordinação       | Coordenação              |
+| **Jurisdição**        | Aceitação obrigatória | Necessária aquiescência |
+
+> Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções, em razão da falta de uma autoridade central provida de força física e de legitimidade para tanto. [...] Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas [@rezek_direito_2024, p. 7].
+
 # Fundamento do direito internacional público
 
 - Repousa sobre o consentimento
