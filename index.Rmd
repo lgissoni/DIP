@@ -47,10 +47,10 @@ O direito internacional público é aquele que regula as relações em que adent
 
 ## Bibliografia complementar
 
-@accioly_manual_2023
-@brasil_decreto_2009
-brasil_constituicao_1988
-@chimni_outline_2008
+@accioly_manual_2023  
+@brasil_decreto_2009  
+@brasil_constituicao_1988  
+@chimni_outline_2008  
 
 # Estrutura do curso
 
