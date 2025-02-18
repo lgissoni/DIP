@@ -23,7 +23,7 @@ navbar:
         - text: "PAP 1.2"
           href: pap_12.html
     - icon: fab fa-github
-      href: https://github.com/lgissoni
+      href: https://github.com/lgissoni/DIP
 output:
   distill::distill_article:
     toc: TRUE
