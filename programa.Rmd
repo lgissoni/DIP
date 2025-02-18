@@ -2,6 +2,10 @@
 title: "Progama da disciplina"
 description: |
   1º semestre 2025
+author:
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
 output: distill::distill_article
 bibliography: bibliografia.bib
 csl: abnt.csl
@@ -13,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 1
 
-**Notas de aula**  
+[**Notas de aula**](notas_1.html)  
 **Bibliografia:** @rezek_direito_2024, introdução
 
 ## 12/02 - aula 1.1: introdução
@@ -22,13 +26,13 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Leitura do programa
   1. Características da sociedade internacional
   
-**PAP 1.1:** Questão-problema: não havendo, no plano internacional, autoridade superior aos Estados, onde repousa o direito internacional público?  
+**PAP 1.1:** Questão-problema: não havendo, no plano internacional, autoridade superior aos Estados, onde repousa o direito internacional público?   
 **Prazo:** 16/02
 
 # Semana 2
 
-**Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, introdução
+[**Notas de aula**](notas_2.html)  
+**Bibliografia:** @grieco_introduction_2015, cap. 3; @rezek_direito_2024, introdução
 
 ## 17/02 - aula 2.1: o fundamento do direito internacional público
 
@@ -36,6 +40,9 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Sociedade descentralizada
       a. Uma palavra sobre anarquia nas relações internacionais
   1. O fundamento do direito internacional público
+  
+[**PAP 1.2:** O fim da história?](pap_12.html)  
+**Prazo:** 23/02
 
 ## 19/02 - aula 2.2: confronto entre direito internacional e direito interno
 
