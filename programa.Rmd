@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 3
 
-**Notas de aula**  
+[**Notas de aula**](notas_3.html)  
 **Bibliografia:** @rezek_direito_2024, parte I, cap. 1
 
 ## 24/02 - aula 3.1: fontes do direito internacional público
