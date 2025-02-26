@@ -121,3 +121,9 @@ d-appendix {
   background-color: #fdf7f9;
   border-top: none;
 }
+
+/*-- Abaixo altero a cor dos negritos --*/
+
+strong {
+    color: #ca225e; /* Ou outra cor da sua paleta */
+}

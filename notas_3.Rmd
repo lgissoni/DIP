@@ -123,6 +123,74 @@ isto é, o "pacto pessoal *entre estadistas*, fundado sobre a honra, e
 condicionado, no tempo, à permanência de seus atores no poder\"
 [@rezek_direito_2024 p. 13].
 
+## Classificação
+
+Os tratos podem ser classificados em função do que segue:
+
+### Quanto ao número de Estados-parte:
+
+(a) **bilaterais:** celebrados entre duas partes;
+
+(b) **plurilaterais:** celebrados por mais de duas partes;
+
+(c) **multilaterais:** celebrados por mais de duas partes, no interior
+    de uma organização internacional;
+
+### Quanto à generalidade de suas disposições:
+
+(a) **convenções gerais:** "também conhecidas como **convenções-quadro
+    ou guarda-chuva**: as quais estabelecem normas e princípios gerais
+    que serão detalhados posteriormente por meio de tratados
+    internacionais específicos, por meio de protocolos adicionais ou
+    mesmo por meio de legislação interna; geralmente são utilizados em
+    situações de difícil consenso político entre as partes (meio
+    ambiente, saúde, minorias, entre outros)\" [@accioly_manual_2023
+    p. 153];
+
+(b) **convenções específicas:** "as quais adotam de forma detalhada
+    normas jurídicas específicas sobre o tema regulado, com o objetivo
+    de esgotar em seu próprio instrumento tal regulação\"
+    [@accioly_manual_2023 p. 153];
+
+### Quanto à natureza jurídica:
+
+Refere-se à natureza jurídica das normas consolidadas no tratado. Aqui,
+há duas subclassificações possíveis, em função do que segue:
+
+#### Quanto à imperatividade da norma:
+
+(a) **tratado de direito dispositivo:** normas podem ser derrogadas por
+    meio de tratado posterior;
+
+(b) **tratado de direito cogente (*jus cogens*):** as **normas
+    imperativas de direito internacional geral** sobre matérias cuja
+    natureza não comportaria derrogação mesmo diante de acordo
+    formalizado em sentido diverso:
+
+> ::: center
+> Artigo 53
+>
+> Tratado em Conflito com uma Norma Imperativa de Direito
+>
+> Internacional Geral ([jus cogens]{.underline})
+> :::
+>
+> É nulo um tratado que, no momento de sua conclusão, conflite com uma
+> norma imperativa de Direito Internacional geral. Para os fins da
+> presente Convenção, uma norma imperativa de Direito Internacional
+> geral é uma norma aceita e reconhecida pela comunidade internacional
+> dos Estados como um todo, como norma da qual nenhuma derrogação é
+> permitida e que só pode ser modificada por norma ulterior de Direito
+> Internacional geral da mesma natureza [@brasil_decreto_2009].
+
+#### Quanto ao tipo de interesse juridicamente regulado:
+
+(a) **tratados-contratos:** regulam interesses recíprocos dos Estados,
+    geralmente de caráter bilateral (interesse bilateral barganhado);
+
+(b) **tratados-leis ou tratados-normativos:** fixam normas de direito
+    internacional geral (interesse geral).
+
 # Crítica
 
 > O MILS, como é seu costume, oferece uma definição formal de tratados.

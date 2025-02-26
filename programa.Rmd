@@ -70,54 +70,44 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Formalidade
   1. Atores
   1. Efeitos jurídicos
-
-# Semana 4
-
-**Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, parte I, cap. 1
-
-## 24/02 - aula 4.1: tratados, p. 2
-
   1. Classificação
       a. Quanto ao número de Estados-parte
       a. Quanto à generalidade de suas disposições
       a. Quanto à sua natureza jurídica
           i. Quanto à imperatividade da norma
           i. Quanto ao tipo de interesse juridicamente regulado
+
+# Semana carnaval
+
+> 03/03 a 05/03 - recesso - carnaval
+
+# Semana 4
+
+[**Notas de aula**](notas_4.html)  
+**Bibliografia:** @rezek_direito_2024, parte I, caps. 1-3
+
+## 10/03 - aula 4.1: tratados, p. 2
+
   1. Condição de validade
       a. Capacidade das partes contratantes
       a. Habilitação dos agentes
       a. Consentimento mútuo
       a. Objeto lícito e possível
   1. Efeitos em relação a terceiros
-
-## 26/02 - aula 4.2: tratados, p. 3
-
   1. Assinatura, ratificação e reservas
   1. Interpretação
       a. Questão do idioma
   1. Tratados sucessivos sobre a mesma matéria
   1. Nulidade, extinção e suspensão de aplicação
 
-# Semana carnaval
-
-> 03/02 a 05/02 - recesso - carnaval
+## 12/03 - aula 4.2: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação
 
 # Semana 5
 
 **Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, parte I, caps. 2 e 3
-
-## 10/03 - aula 5.1: formas extraconvencionais de expressão do direito internacional
-
-## 12/03 - aula 5.2: instrumentos de interpretação e compensação
-
-# Semana 6
-
-**Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 1
 
-## 17/03 - aula 6.1: o Estado: território, p. 1
+## 17/03 - aula 5.1: o Estado: território, p. 1
 
   1. Introdução
   1. Jurisdição ou competência
@@ -126,7 +116,7 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Aquisição e perda de território, p.1
       a. Descoberta - ocupação: *terra nullius*
 
-## 19/03 - aula 6.2: o Estado: território, p. 2
+## 19/03 - aula 5.2: o Estado: território, p. 2
 
   1. Aquisição e perda de território, p.2
       a. Conquista
@@ -137,15 +127,15 @@ knitr::opts_chunk$set(echo = FALSE)
       a. *Uti possidetis*
       a. Linhas artificiais x naturais
       
-**PAP 1.2:** Caso prático: aquisição de território e ocupação da Palestina
+**PAP 1.3:** Caso prático: aquisição de território e ocupação da Palestina  
 **Prazo:** 23/03
 
-# Semana 7
+# Semana 6
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 1
 
-## 24/03 - aula 7.1: o Estado: dimensão pessoal do Estado, p. 1
+## 24/03 - aula 6.1: o Estado: dimensão pessoal do Estado, p. 1
 
   1. População e comunidade nacional
   1. Nacionalidade
@@ -153,23 +143,26 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Normas costumeiras
       a. Tratados multilaterais
 
-## 26/03 - aula 7.2: o Estado: dimensão pessoal do Estado, p. 2
+## 26/03 - aula 6.2: o Estado: dimensão pessoal do Estado, p. 2
 
   1. A nacionalidade brasileira
       a. Brasileiros natos
       a. Brasileiros naturalizados
       a. Perda da nacionalidade brasileira
+      
+**PAP 1.4:** Questão do Exame de Ordem  
+**Prazo:** 30/03
 
-# Semana 8
+# Semana 7
 
 > 31/03 a 04/04 - período de realização do processo de avaliação teórico 1 - PAT-1
 
-# Semana 9
+# Semana 8
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 2
 
-## 07/04 - aula 9.1: organizações internacionais, p. 1
+## 07/04 - aula 8.1: organizações internacionais, p. 1
 
   1. Introdução
   1. Teoria geral
@@ -180,7 +173,7 @@ knitr::opts_chunk$set(echo = FALSE)
           i. Conselho permanente
           i. Outros órgãos
 
-## 09/04 - aula 9.2: organizações internacionais, p. 2
+## 09/04 - aula 8.2: organizações internacionais, p. 2
 
   1. Sede da organização
   1. Representação, garantias, imunidades
@@ -190,45 +183,43 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Adesão ao tratado institucional
       a. Beneplácito à adesão
 
-# Semana 10
+# Semana 9
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 3
 
-## 14/04 - aula 10.1: responsabilidade internacional, p. 1
+## 14/04 - aula 9.1: responsabilidade internacional, p. 1
 
-## 16/04 - aula 10.2: responsabilidade internacional, p. 2
+## 16/04 - aula 9.2: responsabilidade internacional, p. 2
 
-# Semana 11
+# Semana 10
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 4
 
 > 21/04 - feriado - Tiradentes
 
-## 23/04 - aula 11.1: o fenômeno sucessório
+## 23/04 - aula 10.1: o fenômeno sucessório
 
-# Semana 12
+# Semana 11
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte III
 
-## 28/04 - aula 12.1: domínio públio internacional: o mar e os rios
+## 28/04 - aula 11.1: domínio público internacional: o mar e os rios
 
-## 30/04 - aula 12.2: domínio públio internacional: o espaço
+## 30/04 - aula 11.2: domínio público internacional: o espaço
 
-
-
-# Semana 13
+# Semana 12
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte IV, cap. 1
 
-## 05/05 - aula 13.1: solução pacífica de controvérsias, p. 1
+## 05/05 - aula 12.1: solução pacífica de controvérsias, p. 1
 
-## 07/05 - aula 13.2: solução pacífica de controvérsias, p. 2
+## 07/05 - aula 12.2: solução pacífica de controvérsias, p. 2
 
-# Semana acadêmica
+# Semana 13 - acadêmica
 
 > 12/05 a 16/05 - semana acadêmica
 

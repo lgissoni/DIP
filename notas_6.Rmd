@@ -1,0 +1,324 @@
+---
+author:
+- Luccas Gissoni
+bibliography:
+- bibliografia.bib
+date: 15 de outubro de 2024
+title: |
+  Direito Internacional Público\
+  Notas de Aula 6\
+  O Estado: dimensão pessoal do Estado\
+---
+
+# Introdução: população e comunidade nacional
+
+## População
+
+População do Estado é o conjunto das pessoas instaladas em caráter
+permanente sobre seu território:
+
+-   Nacionais;
+
+-   Estrangeiros residentes
+
+## Comunidade nacional
+
+Comunidade nacional é conjunto de nacionais do Estado, residam estes no
+interior de seu território ou no estrangeiro.
+
+> Importante lembrar que a dimensão pessoal do Estado soberano (seu
+> elemento constitutivo, ao lado do território e do governo) não é a
+> respectiva população, mas a comunidade nacional, ou seja, o conjunto
+> de seus nacionais, incluindo aqueles, minoritários, que se tenham
+> estabelecido no exterior. Sobre os estrangeiros residentes o Estado
+> exerce inúmeras competências inerentes à sua jurisdição territorial.
+> Sobre seus nacionais distantes o Estado exerce jurisdição pessoal,
+> fundada no vínculo de nacionalidade, e independente do território onde
+> se encontrem [@rezek_direito_2024 p. 79].
+
+# Nacionalidade
+
+> Nacionalidade é um vínculo político entre o Estado soberano e o
+> indivíduo, que faz deste um membro da comunidade constitutiva da
+> dimensão pessoal do Estado [@rezek_direito_2024 p. 79].
+
+A nacionalidade é importante conceito de direito internacional, mas
+recebe uma disciplina jurídica de direito interno: cada Estado legisla
+sobre sua própria nacionalidade, ressalvadas as regras gerais e
+específicas com as quais tenha se comprometido.
+
+O titular da nacionalidade é a pessoa humana, que através dela tem
+vínculo político com o Estado nacional. A nacionalidade das pessoas
+jurídicas constitui uma sujeição de ordem administrativa, mutável com a
+compra e venda ou sede da empresa; a nacionalidade das coisas é
+meramente metafórica.
+
+## A nacionalidade em direito internacional
+
+### Princípios gerais
+
+-   A dimensão humana ou pessoal é elemento inerente ao Estado: o Estado
+    necessita manifestar-se em determinadas pessoas;
+
+-   Todo indivíduo tem direito a uma nacionalidade; o Estado não pode
+    arbitrariamente privar o indivíduo de sua nacionalidade, nem do
+    direito de mudar de nacionalidade (art. 15; Declaralção Universal
+    dos Direitos do Homem/1948);
+
+-   Princípio da efetividade: o vínculo patrial não deve fundar-se na
+    pura formalidade ou no artifício, mas na existência de laços sociais
+    consistentes entre o indivíduo e o Estado
+
+> De modo geral a *nacionalidade originária* (aquela que a pessoa se vê
+> atribuir quando nasce) resulta da consideração, em grau variado, do
+> lugar do nascimento (*jus soli*) e da nacionalidade dos pais (*jus
+> sanguinis*). A manifestação de vontade --- que opera às vezes como
+> elemento acessório para a determinação da nacionalidade originária ---
+> é pressuposto indispensável da aquisição ulterior de outro vínculo
+> patrial, mas deve apoiar-se sobre fatos sociais indicativos da relação
+> indivíduo-Estado. Com efeito, a *nacionalidade derivada*, que se obtém
+> mediante naturalização e na maioria dos casos implica a ruptura do
+> vínculo anterior, há de ter requisitos como alguns anos de residência
+> no país, o domínio do idioma, e outros mais, ora alternativos ora
+> cumulativos. Quando um Estado concede a alguém sua nacionalidade por
+> naturalização carente de apoio em fatos sociais, não se discute seu
+> direito de prestigiar esse gracioso vínculo dentro de seu próprio
+> território. Lá fora, contudo, outros governos, e destacadamente os
+> foros internacionais, tenderão a negar reconhecimento a essa
+> nacionalidade, considerada inefetiva [@rezek_direito_2024 p. 80].
+
+### Normas costumeiras
+
+-   Exclui-se da atribuição de nacionalidade *jure soli* os filhos de
+    agentes de Estados estrangeiros;
+
+-   É proibido o *banimento*: "Nenhum Estado pode expulsar nacional seu,
+    com destino a território estrangeiro ou a espaço de uso comum. Há,
+    pelo contrário, uma obrigação, para o Estado, de acolher seus
+    nacionais em qualquer circunstância, incluída a hipótese de que
+    tenham sido expulsos de onde se encontravam\" [@rezek_direito_2024
+    p. 80].
+
+### Tratados multilaterais
+
+> O direito internacional escrito tem, de modo esparso e avulso,
+> procurado reduzir os problemas da apatria e da polipatria, ora
+> trazendo à ordem geral certos Estados excessivamente absorventes, ou,
+> pelo contrário, refratários demais à outorga da nacionalidade, ora
+> tendendo a proscrever, nesse âmbito, a distinção entre os sexos e a
+> repercussão automática do casamento, ou de sua dissolução, sobre o
+> vínculo patrial [@rezek_direito_2024 p. 80].
+
+-   **Convenção da Haia** de 12 de abril de 1930: liberdade do Estado
+    para determinar em direito interno quais são seus nacionais,
+    ponderando, embora, que tal determinação só é oponível aos demais
+    Estados quando revestida de um mínimo de efetividade, à base de
+    fatores ditados pelo costume pertinente (lugar do nascimento,
+    filiação, tempo razoá­vel de residência ou outro indicativo de
+    vínculo como pressuposto da naturalização);
+
+-   **Convenção da Haia** de 12 de abril de 1930: condenação da
+    repercussão de pleno direito sobre a mulher, na constância do
+    casamento, da eventual mudança de nacionalidade do marido, e a
+    determinar aos Estados cuja lei subtrai a nacionalidade à mulher em
+    razão do casamento com estrangeiro, que se certifiquem da aquisição,
+    por aquela, da nacionalidade do marido, prevenindo desse modo a
+    perda não compensada, vale dizer a apatria;
+
+-   **7ª Conferência Interamericana**: condenação de qualquer legislação
+    ou prática discriminatória sobre os direitos da mulher;
+
+-   **Convenção de Nova York** de 20 de fevereiro de 1957: imuniza a
+    nacionalidade da mulher contra todo efeito automático do casamento,
+    do divórcio, ou das alterações da nacionalidade do marido na
+    constância do vínculo;
+
+-   **Assembleia Geral das Nações Unidas** de 1948: trazia a
+    nacionalidade à área dos direitos funda­mentais da pessoa humana,
+    tendo como premissa maior a consideração do desamparo e dos
+    transtornos resultantes da apatria;
+
+-   **Declaração Universal dos Direitos do Homem**, art. 15: "todo homem
+    tem direito a uma nacionalidade"; "ninguém será arbitrariamente
+    privado de sua nacionalidade, nem do direito de mudar de
+    nacionalidade";
+
+-   **Convenção americana sobre direitos humanos de São José da Costa
+    Rica** de em 1969, art. 20: repete o art. 15 da Declaração Universal
+    dos Direitos do Homem e inova: "Toda pessoa tem direito à
+    nacionalidade do Estado em cujo território houver nascido, se não
+    tiver direito a outra".
+
+## A nacionalidade brasileira
+
+### Brasileiros natos
+
+Brasileiro nato é aquele que, *nascido no Brasil ou no exterior*, teve a
+nacionalidade brasileira atribuída **ao nascer** ou "a perspectiva de
+consolidá-la mediante opção, de efeitos retroativos\"
+[@rezek_direito_2024 p. 81].
+
+-   CF/88, art. 12, I, a): **os nascidos na República Federativa do
+    Brasil**, ainda que de pais estrangeiros, desde que estes não
+    estejam a serviço de seu país;
+
+    > Um problema vestibular, mais complicado do que se poderia à
+    > primeira vista supor, é o da noção do que seja território
+    > brasileiro. Seria prático compreendê-lo no mais estrito dos
+    > sentidos, ou seja, como a massa territorial contínua dividida em
+    > unidades federadas. Desse modo, nascer no Brasil significaria,
+    > necessariamente, ter a naturalidade fixada em uma das quase seis
+    > mil circunscrições municipais em que o solo pátrio se subdivide.
+    > De outro modo, ter-se-ia nascido fora do território brasileiro, o
+    > que excluiria o jus soli mas não a perspectiva de atribuição da
+    > nacionalidade originária por outra das fórmulas constitucionais. O
+    > constituinte nada disse acerca dos espaços hídricos, aéreos, ou
+    > mesmo terrestres, imunes a qualquer incidência de soberania (o
+    > alto-mar, o espaço aéreo, o continente antártico). Mas quem aí vem
+    > ao mundo também não pode ser considerado por nós como nascido no
+    > estrangeiro, visto que tais espaços são neutros, e de uso comum
+    > disciplinado pelo direito internacional. Transferido o problema à
+    > doutrina, Pontes de Miranda propôs solução convincente:
+    > entendem-se nascidos no Brasil os nascidos a bordo de navios ou
+    > aeronaves de bandeira brasileira quando trafeguem por espaços
+    > neutros. O mesmo não ocorre, obviamente, em espaços afetos à
+    > soberania de outro Estado, mesmo se público o engenho onde
+    > acontece o nascimento. Há também a hipótese de alguém nascer a
+    > bordo, no mar territorial brasileiro ou em nosso espaço aéreo,
+    > qualquer que seja a bandeira do navio ou aeronave. Esses espaços
+    > nada têm de estrangeiros ou de neutros, de modo que justificam a
+    > atribuição da nacionalidade jure soli. Mas é também de Pontes de
+    > Miranda a lembrança de que, em tais casos, é pouco provável que se
+    > reclame a nacionalidade brasileira se nenhum outro vínculo existe
+    > entre a família e o Brasil. Se assim não for, não há como recusar
+    > a nacionalidade brasileira originária, solicitada pelos genitores
+    > ou pelo próprio interessado no futuro. Vale recordar que nosso
+    > sistema não impõe preclusões, não impõe perda de direitos, quanto
+    > à nacionalidade, pelo decurso do tempo. Países existem em que a
+    > partir de certa idade (25 anos na França) já não é possível
+    > discutir esse tema nem modificar a nacionalidade originária
+    > consolidada. Entre nós, é juridicamente possível que alguém por
+    > aqui apareça já idoso, provando, entretanto, que nasceu em Viena,
+    > ou em Xangai, da união informal entre o cônsul do Brasil e uma
+    > nacional da terra; ou que nasceu a bordo de um engenho
+    > norte-americano em trânsito no espaço aéreo ou no mar territorial
+    > brasileiro; ou que nasceu em plena selva, junto da fronteira,
+    > quando sua mãe, colombiana, alcançava o território brasileiro numa
+    > fuga à polícia, ou à guerrilha, ou ao narcotráfico. Em qualquer
+    > dessas hipóteses, provada a materialidade do fato, o
+    > reconhecimento da nacionalidade originária se impõe
+    > [@rezek_direito_2024 pp. 81-82].
+
+-   A regra constitucional do *jus soli* comporta exceção expressa em
+    seu desfecho: não são brasileiros, embora nascidos no Brasil, os
+    filhos de pais estrangeiros que aqui se encontrem a serviço de seu
+    país. O serviço, desde que público e afeto a potência estrangeira,
+    não precisa implicar permanência em nosso território, nem cobertura
+    das imunidades diplomáticas;
+
+    > Há, na exceção ao jus soli, outro aspecto relevante, em torno do
+    > qual os autores não discrepam: os pais, estrangeiros, devem estar
+    > a serviço do país cuja nacionalidade possuem para que não ocorra a
+    > atribuição da nacionalidade brasileira. Seria brasileiro, dessa
+    > forma, o filho de um egípcio que cuidasse no Brasil da
+    > representação de Catar ou de Omã. A quem estranhe essa
+    > particularidade, convém lembrar que o constituinte não tencionou
+    > abrir exceção ao jus soli senão quando em presença de uma
+    > contundente presunção de que o elemento aqui nascido terá outra
+    > na­cionalidade, merecedora, por razões naturais, de sua
+    > preferência, e de que assim a atribuição da nacionalidade local
+    > iria originar quase que seguramente uma incômoda bipatria, a seu
+    > tempo resolvida em favor da nacionalidade estrangeira. Mas, se o
+    > Estado patrial dos genitores não é aquele mesmo a cujo serviço se
+    > encontram, a presunção perde sua energia, de modo que a recusa da
+    > nacionalidade local jure soli poderia não raro dar origem a uma
+    > situação que a todo custo tem de ser evitada, qual seja a apatria
+    > de um natural do Brasil [@rezek_direito_2024 p. 82].
+
+-   CF/88, art. 12, I, b): **os nascidos no estrangeiro, de pai
+    brasileiro ou mãe brasileira, desde que qualquer deles esteja a
+    serviço da República Federativa do Brasil**;
+
+-   CF/88, art. 12, I, c): **os nascidos no estrangeiro de pai
+    brasileiro ou de mãe brasileira, desde que sejam registrados em
+    repartição brasileira competente ou venham a residir na República
+    Federativa do Brasil e optem, em qualquer tempo, depois de atingida
+    a maioridade, pela nacionalidade brasileira**
+
+### Brasileiros naturalizados
+
+-   CF/88, art. 12, II, a): os que, na forma da lei, adquiram a
+    nacionalidade brasileira, exigidas aos originários de países de
+    língua portuguesa apenas residência por um ano ininterrupto e
+    idoneidade moral;
+
+-   CF/88, art. 12, II, b): os estrangeiros de qualquer nacionalidade,
+    residentes na República Federativa do Brasil há mais de quinze anos
+    ininterruptos e sem condenação penal, desde que requeiram a
+    nacionalidade brasileira
+
+    > A Constituição do Brasil cuida, ela própria, de favorecer a
+    > naturalização dos imigrantes que se fixaram no país há mais de
+    > quinze anos, sem quebra de continuidade e sem condenação penal;
+    > bem assim a dos originários de países de língua portuguesa, aos
+    > quais se exige como prazo de residência no Brasil apenas um ano
+    > ininterrupto e idoneidade moral. Dos demais estrangeiros a lei
+    > ordinária exige, em regra, quatro anos de residência no Brasil,
+    > idoneidade, boa saúde e domínio do idioma. O requisito cronológico
+    > é atenuado em certas hipóteses, como a de casamento com pessoa
+    > local ou prestação de bons serviços ao país. [@rezek_direito_2024
+    > pp. 82-83].
+
+### Perda da nacionalidade brasileira
+
+-   "A extinção do vínculo patrial pode atingir tanto o brasileiro nato
+    quanto o naturalizado em caso de aquisição de outra nacionalidade,
+    por naturalização voluntária. Nesta hipótese, em face da prova da
+    naturalização concedida lá fora, o presidente da República se limita
+    a declarar a perda da nacionalidade brasileira. Seu ato não tem
+    caráter constitutivo, vale dizer, não é dele que deriva a perda, mas
+    da naturalização, que o antecede, e por força da qual se rompe o
+    primitivo vínculo, restringindo-se o chefe do governo, a posteriori,
+    a dar publicidade ao fato consumado. Para que acarrete a perda da
+    nossa nacionalidade, a naturalização voluntária, no exterior, deve
+    necessariamente envolver uma conduta ativa e específica\"
+    [@rezek_direito_2024 p. 83].
+
+    > Se, ao contrair matrimônio com um francês, uma brasileira é
+    > informada de que se lhe concede a nacionalidade francesa em razão
+    > do matrimônio, a menos que, dentro de certo prazo, compareça ela
+    > ante o juízo competente para, de modo expresso, recusar o
+    > benefício, sua inércia não importa naturalização voluntária. Não
+    > terá havido, de sua parte, conduta específica visando à obtenção
+    > de outro vínculo pátrio, uma vez que o desejo de contrair
+    > matrimônio é, por natureza, estranho à questão da nacionalidade.
+    > Nem se poderá imputar procedimento ativo a quem não mais fez que
+    > calar. Outra seria a situação se, consumado o matrimônio, a
+    > autoridade estrangeira oferecesse, nos termos da lei, à nubente
+    > brasileira a nacionalidade do marido, mediante simples declaração
+    > de vontade, de pronto reduzida a termo. Aqui teríamos autêntica
+    > naturalização voluntária, resultante de procedimento específico
+    > --- visto que o benefício não configurou efeito automático do
+    > matrimônio ---, e de conduta ativa, ainda que consistente no
+    > pronunciar de uma palavra de aquiescência [@rezek_direito_2024
+    > p. 83].
+
+-   "O art. 12, § 4º, 2, b, da Constituição de 1988 ressalva a
+    naturalização voluntária do brasileiro residente no exterior quando
+    ela constitui, segundo o direito local, um pressuposto da simples
+    permanência ou do mero exercício de direitos civis. Não ocorre mais,
+    nessa hipótese, a perda da nacionalidade brasileira\"
+    [@rezek_direito_2024 p. 83];
+
+-   "O brasileiro naturalizado, e ele apenas, encontra-se sujeito a uma
+    segunda espécie de medida excludente, qual seja o cancelamento da
+    naturalização, por exercer atividade contrária ao interesse
+    nacional. É óbvio que a variante implica processo capaz de comportar
+    amplos meios de defesa\" [@rezek_direito_2024 p. 83].
+
+-   "À margem de todo esse complexo, cabe ao presidente da República
+    anular, por decreto, a aquisição fraudulenta da qualidade de
+    brasileiro. Não se trata, aqui, de uma hipótese de perda da
+    nacionalidade: esta se entenderá nula, e, pois, inexistente desde o
+    início. Ninguém pode perder algo que jamais tenha possuído a não ser
+    em equívoca aparência\" [@rezek_direito_2024 p. 83].

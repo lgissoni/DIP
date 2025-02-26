@@ -1,0 +1,420 @@
+---
+title: "Notas de aula 4"
+description: "Fontes do direito internacional público e tratados, p.1"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Condição de validade do tratado
+
+Para que o tratado seja considerado válido, é necessário que:
+
+-   as partes (Estados ou organizações internacionais) tenham capacidade
+    para celebrá-los;
+
+-   os agentes estejam habilitados;
+
+-   haja consentimento mútuo;
+
+-   o seu objeto seja lícito e possível.
+
+## Capacidade das partes contratantes
+
+> ::: center
+> Artigo 6
+>
+> Capacidade dos Estados para Concluir Tratados
+> :::
+>
+> Todo Estado tem capacidade para concluir tratados
+> [@brasil_decreto_2009].
+
+Tornou-se obsoleta a doutrina de que apenas os Estados têm capacidade de
+celebrar tratados. Com a Carta das Nações Unidas, passou-se a aceitar,
+de início timidamente, a capacidade das organizações internacionais.
+Atualmente, a questão foi pacificada, com destaque para a Convenção de
+Viena sobre o Direito dos Tratados entre Estados e Organizações
+Internacionais ou entre Organizações Internacionais, de 1986, que trata
+especificamente da questão.
+
+## Habilitação dos agentes
+
+> Para a adoção ou autenticação do texto de um tratado, ou para
+> expressar o consentimento do estado em obrigar-se a suas disposições,
+> é necessário que os representantes demonstrem deter a autorização para
+> tanto mediante a apresentação dos plenos poderes. Este documento
+> indica que determinada pessoa é reconhecida pelo estado que ela
+> representa como detendo plenos poderes para negociar e assinar um
+> tratado internacional especificamente indicado em tal documento
+> [@accioly_manual_2023 p. 155].
+
+> ::: center
+> Artigo 7
+>
+> Plenos Poderes
+> :::
+>
+> 1.  Uma pessoa é considerada representante de um Estado para a adoção
+>     ou autenticação do texto de um tratado ou para expressar o
+>     consentimento do Estado em obrigar-se por um tratado se:
+>
+>     a)  apresentar plenos poderes apropriados; ou
+>
+>     b)  a prática dos Estados interessados ou outras circunstâncias
+>         indicarem que a intenção do Estado era considerar essa pessoa
+>         seu representante para esses fins e dispensar os plenos
+>         poderes.
+>
+> 2.  Em virtude de suas funções e independentemente da apresentação de
+>     plenos poderes, são considerados representantes do seu Estado:
+>
+>     a)  os Chefes de Estado, os Chefes de Governo e os Ministros das
+>         Relações Exteriores, para a realização de todos os atos
+>         relativos à conclusão de um tratado;
+>
+>     b)  os Chefes de missão diplomática, para a adoção do texto de um
+>         tratado entre o Estado acreditante e o Estado junto ao qual
+>         estão acreditados;
+>
+>     c)  os representantes acreditados pelos Estados perante uma
+>         conferência ou organização internacional ou um de seus órgãos,
+>         para a adoção do texto de um tratado em tal conferência,
+>         organização ou órgão.
+>
+> [@brasil_decreto_2009]
+
+> No que se refere às organizações internacionais, o órgão habilitado a
+> negociar tratados internacionais está usualmente definido no texto de
+> seu tratado constitutivo. Cada organização internacional possui um
+> tratado internacional que a constitui e, por esse motivo, cada uma
+> delas estabelece um procedimento próprio para se vincular
+> juridicamente a um tratado internacional [@accioly_manual_2023
+> pp. 155-156].
+
+## Consentimento mútuo
+
+O tratado é acordo de vontades, efetivando-se pelo consentimento:
+
+> ::: center
+> Artigo 9
+>
+> Adoção do Texto
+> :::
+>
+> 1.  A adoção do texto do tratado efetua-se pelo consentimento de todos
+>     os Estados que participam da sua elaboração, exceto quando se
+>     aplica o disposto no parágrafo 2.
+>
+> 2.  A adoção do texto de um tratado numa conferência internacional
+>     efetua-se pela maioria de dois terços dos Estados presentes e
+>     votantes, salvo se esses Estados, pela mesma maioria, decidirem
+>     aplicar uma regra diversa.
+>
+> [@brasil_decreto_2009]
+
+## Objeto lícito e possível
+
+Assim como no direito interno, só se pode visar coisa materialmente
+possível e permitida peo direito e pela moral. A doutrina menciona o
+Acordo de Munique, de 1938, em que o Reino Unido, a França, a Alemanha e
+a Itália negociaram a entrega dos Sudetos tchecos a Berlim sem a
+participação da Checoslováquia (Figuras
+[1](#fig:acordo_munique){reference-type="ref"
+reference="fig:acordo_munique"} e
+[2](#fig:particao_checoslovaquia){reference-type="ref"
+reference="fig:particao_checoslovaquia"}).
+
+![Fig. 1: Da esquerda para direita: Chamberlain, Daladier, Hitler, Mussolini e
+Ciano após a assinatura do Acordo de Munique. Por Bundesarchiv, Bild
+183-R69173 / CC-BY-SA 3.0](images\acordo_munique.jpg){#fig:acordo_munique
+width="85%"}
+
+![Fig. 2: Partição da Checoslováquia
+(1938)](images\particao_checoslovaquia.jpg){#fig:particao_checoslovaquia
+width="85%"}
+
+# Efeitos em relação a terceiros
+
+> ::: center
+> SEÇÃO 4
+>
+> Tratados e Terceiros Estados
+>
+> Artigo 34
+>
+> Regra Geral com Relação a Terceiros Estados
+> :::
+>
+> Um tratado não cria obrigações nem direitos para um terceiro Estado
+> sem o seu consentimento. [@brasil_decreto_2009]
+
+Decorre da soberania dos Estados e da autonomia da vontade o princípio
+de que "um tratado só faz lei entre os estados que nele são parte".
+Trata-se da regra *res inter alios acta aliis neque nocere neque
+prodesse potest* (coisa pactuada não pode causar danos nem vantagens a
+terceiros).
+
+> Todavia, se um tratado não pode ser fonte nem de direitos nem de
+> obrigações para terceiros, não se deve deixar de notar que os tratados
+> podem produzir consequências a estados terceiros:
+>
+> 1.  se **nocivas**, o estado lesado tem o direito de protestar e de
+>     procurar assegurar os seus direitos, bem como o de pedir
+>     reparações; se, entretanto, o tratado não viola direitos de estado
+>     não contratante e é apenas prejudicial a seus interesses, ou lhe
+>     causa dano legal, ou antes damnum sine injuria, o estado lesado
+>     poderá reclamar diplomaticamente contra o fato, mas contra o mesmo
+>     não terá recurso jurídico;
+>
+> 2.  caso sejam as consequências **favoráveis** para estados que do
+>     tratado não participem, ou que os contratantes, por manifestação
+>     de vontade expressa, concedam direito ou privilégio a terceiros
+>     (arts. 36 a 38). A bem dizer, essa é a única hipótese de exceção
+>     ao princípio de que o tratado só produz efeitos entre as partes
+>     contratantes.
+>
+> [@accioly_manual_2023 p. 157]
+
+# Assinatura, ratificação e reservas
+
+> ::: center
+> Artigo 11
+>
+> Meios de Manifestar Consentimento em Obrigar-se por um Tratado
+> :::
+>
+> O consentimento de um Estado em obrigar-se por um tratado pode
+> manifestar-se pela assinatura, troca dos instrumentos constitutivos do
+> tratado, ratificação, aceitação, aprovação ou adesão, ou por quaisquer
+> outros meios, se assim acordado. [@brasil_decreto_2009]
+
+## Assinatura
+
+> Em regra, a simples assinatura não vincula juridicamente um estado ao
+> tratado internacional. A assinatura por si só possui um sentido muito
+> mais político do que jurídico: apresenta o estado simbolicamente como
+> um ator que concorda com a importância do que foi discutido -- ainda
+> que a ele não se vincule no futuro. E ainda que não tenha participado
+> da negociação. A assinatura funciona assim mais como um atestado de
+> que o texto final corresponde fielmente ao que foi discutido pelos
+> estados durante o período de negociação -- e, por isso mesmo, ela não
+> tem o papel de vincular juridicamente o estado [@accioly_manual_2023
+> p. 159].
+
+## Ratificação
+
+> (E)m regra,[^1] a vinculação jurídica de um estado a um tratado apenas
+> ocorre por meio da ratificação. Esta consiste em um ato administrativo
+> mediante o qual o chefe de estado confirma tratado firmado em seu nome
+> ou em nome do estado, declarando se submeter ao regime jurídico ali
+> disposto [@accioly_manual_2023 p. 159].
+
+Normalmente, a ratificação (pelo chefe do Poder Executivo) fica
+condicionada à **aprovação** do tratado pelo Poder Legislativo. No caso
+da Constituição Federal de 1988:
+
+> Art. 84. Compete privativamente ao Presidente da República:\
+> (\...)\
+> VIII - celebrar tratados, convenções e atos internacionais, sujeitos a
+> referendo do Congresso Nacional;
+
+E ainda:
+
+> Art. 49. É da competência exclusiva do Congresso Nacional:\
+> I - resolver definitivamente sobre tratados, acordos ou atos
+> internacionais que acarretem encargos ou compromissos gravosos ao
+> patrimônio nacional;
+
+O direito internacional nção prescreve forma necessária à ratificação.
+Normalmente, contudo, ela ocorre por meio do depósito da **carta de
+ratificação** junto ao organismo multilateral pertinente, ou pela sua
+troca por outro documento idêntico, produzido pela outra parte
+contratante. Tal documento, assinado pelo Chefe de Estado e Ministro das
+Relações Exteriores, contém a promessa de que o tratado será cumprido
+inviolavelmente, mas é a troca em si, que expressa o consentimento, o
+que torna o tratado perfeito e acabado.
+
+## Reservas
+
+> Quando da assinatura ou da vinculação jurídica a um tratado
+> (ratificação ou adesão), um estado por apresentar reservas ao
+> documento. A reserva é um ato unilateral de estado, por meio do qual
+> ele afasta ou modifica a aplicação de uma disposição de um tratado em
+> relação a ele mesmo. Em outras palavras, ele se reserva o direito a
+> não se vincular a determinado trecho do tratado.\
+> O problema das reservas a tratados bi ou multilaterais tem sido um dos
+> mais complexos em direito internacional. Durante muito tempo a
+> doutrina era no sentido de que um tratado só podia ser ratificado tal
+> qual foi assinado: ou deveria ser aprovado integralmente, ou rejeitado
+> (single undertaking), pois as disposições apenas fazem sentido como um
+> todo integrado e devidamente negociado como um conjunto.\
+> O problema das reservas a tratados multilaterais agravou-se com as
+> Nações Unidas e o aumento dos estados-membros da comunidade
+> internacional, e constatou-se que a antiga regra tornara-se
+> inexequível. Em 1951, a CIJ foi chamada a opinar sobre as reservas
+> formuladas à Convenção sobre genocídio, e em seu parecer manifestou-se
+> no sentido de que um estado, parte numa convenção, tem o direito de
+> objetar às reservas que considere incompatíveis com o objeto e a
+> finalidade da citada convenção e considerar o estado que formulou as
+> reservas como não vinculado à Convenção[@accioly_manual_2023 p. 162].
+
+> ::: center
+> Artigo 19
+>
+> Formulação de Reservas
+> :::
+>
+> Um Estado pode, ao assinar, ratificar, aceitar ou aprovar um tratado,
+> ou a ele aderir, formular uma reserva, a não ser que:
+>
+> a)  a reserva seja proibida pelo tratado;
+>
+> b)  o tratado disponha que só possam ser formuladas determinadas
+>     reservas, entre as quais não figure a reserva em questão; ou
+>
+> c)  nos casos não previstos nas alíneas a e b, a reserva seja
+>     incompatível com o objeto e a finalidade do tratado.
+>
+> [@brasil_decreto_2009]
+
+# Interpretação
+
+Como regra geral, o tratado deve ser interpretado segundo o princípio da
+boa-fé.
+
+> ::: center
+> Artigo 31
+>
+> Regra Geral de Interpretação
+> :::
+>
+> 1.  Um tratado deve ser interpretado de boa fé segundo o sentido comum
+>     atribuível aos termos do tratado em seu contexto e à luz de seu
+>     objetivo e finalidade
+>
+> [@brasil_decreto_2009]
+
+## Questão do idioma
+
+> Se num tratado bilateral redigido em duas línguas houver discrepância
+> entre os dois textos que fazem fé, cada parte contratante é obrigada
+> apenas pelo texto em sua própria língua, salvo disposição expressa em
+> contrário. Com o objetivo de evitar semelhantes discrepâncias é comum
+> a escolha de terceira língua que fará fé.\
+> A questão poderá tornar-se mais complexa no caso dos tratados
+> multilaterais firmados sob os auspícios das Nações Unidas, em que
+> diversas línguas podem fazer fé, como é o caso da Convenção sobre o
+> direito dos tratados que menciona o chinês, o espanhol, o francês, o
+> inglês e o russo, visto que a Convenção de 1986 menciona ainda o
+> árabe. A Convenção sobre o direito dos tratados adota norma
+> interpretativa que, infelizmente, não pode ser considerada
+> satisfatória, porquanto simplesmente "presume que os termos do tratado
+> têm o mesmo sentido nos diversos textos autênticos", o que,
+> certamente, é desejável, mas pode nem sempre ser efetivamente
+> alcançado.[@accioly_manual_2023 p. 164]
+
+# Tratados sucessivos sobre a mesma matéria
+
+No caso de **tratados bilaterais**, prioriza-se a interpretação segundo
+a boa-fé. A questão se complica no conflito entre tratado bilateral e
+outro multilateral, ou entre dois tratados multilaterais.
+
+De acordo com a Carta das Nações Unidas, "(n)o caso de conflito entre as
+obrigações dos membros das Nações Unidas em virtude da presente Carta e
+as obrigações resultantes de qualquer outro acordo internacional,
+prevalecerão as obrigações assumidas em virtude da presente Carta" (art.
+103).
+
+> A Convenção de 1969, ao reconhecer no artigo 53 a existência em
+> direito internacional de normas de direito cogente (jus cogens),
+> estabelece ser nulo o tratado que conflite com norma imperativa de
+> direito internacional geral. O jus cogens também prevalece sobre
+> tratados que o violem [@accioly_manual_2023 p. 165].
+
+# Nulidade, extinção e suspensão de aplicação
+
+## Nulidade
+
+> A nulidade ocorre em virtude de erro, dolo, corrupção do representante
+> do estado, coerção exercida sobre o referido representante e coerção
+> decorrente de ameaça ou emprego de força, além da adoção de tratado
+> com desconhecimento do jus cogens.\
+> O erro ou o dolo capazes de viciar o consentimento na ordem interna
+> são habitualmente excluídos, quando se trata de acordos
+> internacionais, porque, segundo se alega, as partes contratantes, na
+> ordem externa, costumam operar com grandes precauções, com perfeito
+> conhecimento de causa. Tem-se admitido com frequência que erro de fato
+> possa ocorrer, em caso de fronteira. Foi o argumento apresentado pela
+> Argentina e pela França, mas sem sucesso, para modificar os
+> respectivos limites com o Brasil.
+>
+> O artigo 51 menciona a coação como causa de nulidade, embora seja
+> difícil prová-la. Ocorre principalmente nos tratados de paz. HITLER,
+> em mais de uma oportunidade, alegou que houvera coação quando da
+> assinatura do Tratado de Versalhes, que pôs fim à primeira guerra
+> mundial. Seria antes exemplo de coação o Acordo de Munique de 1938,
+> relativo à cessão da região dos sudetos (Sudetenland) na antiga
+> Tchecoslováquia, a tal ponto que este foi declarado nulo pela
+> Grã-Bretanha e pela França em 1942.
+>
+> O artigo 52 estipula ser "nulo o tratado cuja conclusão foi obtida
+> pela ameaça ou com o emprego da força em violação dos princípios de
+> direito internacional incorporados na Carta das Nações Unidas". Foi
+> esse dispositivo dos mais controvertidos, visto que algumas delegações
+> defenderam a extensão do artigo a fim de nele serem incluídas as
+> pressões políticas e econômicas. A adoção da frase final "direito
+> internacional incorporado na Carta das Nações Unidas" permitiu a sua
+> aceitação.
+>
+> O artigo 53 relativo ao jus cogens, como causa de nulidade, representa
+> avanço conceitual relevante do direito internacional, embora aceito
+> com muita cautela pela Conferência, sob a alegação de que a seus
+> verdadeiros limites ainda hoje não se acham esclarecidos, e a suposta
+> tendência de considerar como jus cogens regras que não poderiam ser
+> tidas como tal. A matéria comporta cuidadosa consideração
+> [@accioly_manual_2023 pp. 166-167]
+
+## Extinção
+
+> As causas de extinção previstas pela Convenção correspondem, de modo
+> geral, aos modos de extinção enumerados pela doutrina, ou seja: 1) a
+> execução integral do tratado; 2) a expiração do prazo convencionado;
+> 3) a verificação de condição resolutória, prevista expressamente; 4)
+> acordo mútuo entre as partes; 5) a renúncia unilateral, por parte do
+> estado ao qual o tratado beneficia de modo exclusivo; 6) a
+> impossibilidade de execução; 7) a denúncia, admitida expressa ou
+> tacitamente pelo próprio tratado; 8) a inexecução do tratado, por uma
+> das partes contratantes; 9) a guerra sobrevinda entre as partes
+> contratantes; e 10) a prescrição liberatória.
+>
+> Ainda cabe mencionar a denúncia unilateral, na hipótese de modificação
+> fundamental das circunstâncias que deram origem ao tratado. Assim,
+> qualquer tratado poderá ser denunciado unilateralmente à vontade livre
+> da parte que dele se queira libertar, uma vez que considere
+> modificadas as circunstâncias em que o tratado foi celebrado. É
+> aplicável o princípio rebus sic stantibus, conforme codificado no
+> artigo 62 da Convenção. Todavia, a CDI ao aceitá-la agiu com cautela,
+> tanto assim que o artigo é redigido de forma negativa
+> [@accioly_manual_2023 p. 167-168].
+
+[^1]: "Todavia, quando a assinatura for considerada pelo próprio tratado
+    como definitiva, isso significa que as partes compreendem ser
+    desnecessária a ratificação. A dispensa da ratificação ocorre quando
+    o próprio tratado assim dispuser; nos acordos celebrados para
+    cumprimento ou interpretação de tratado devidamente ratificado; nos
+    acordos sobre assuntos puramente administrativos, que preveem
+    eventuais modificações, como no caso de acordos de transporte aéreo;
+    nos modus vivendi, que têm por finalidade deixar as coisas no estado
+    em que se acham ou estabelecer simples bases para negociações
+    futuras. Nos tratados sobre o meio ambiente tem surgido a prática de
+    assinar tratados-base (convenções-quadro), que traçam as grandes
+    linhas e que devem ser completados por protocolos ou pela
+    modificação de anexos em que a ratificação pode ser dispensada.
+    Nestas situações, basta a assinatura para o estado se vincular
+    juridicamente ao tratado\" [@accioly_manual_2023 p. 159].
