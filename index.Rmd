@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Bem vindos/as!
+**Bem vindos/as!**
 
 Este é o site da disciplina "**direito internacional público**", do 3º semestre do bacharelado em direito da Universidade Zumbi dos Palmares
 
@@ -32,7 +32,15 @@ Este é o site da disciplina "**direito internacional público**", do 3º semest
 
 O direito internacional público é aquele que regula as **relações** em que adentram os **Estados e organizações internacionais**. Sua estrutura lógica é semelhante ao do direito interno, mas repousa sobre fundamentos distintos. Neste curso, vamos fazer uma breve introdução ao seu funcionamento.
 
-# Bibliografia
+## Objetivos
+
+O curso visa proporcionar uma compreensão aprofundada dos princípios e normas que regem as relações internacionais. Os alunos desenvolverão habilidades analíticas para interpretar tratados, compreender a atuação de organizações internacionais e avaliar criticamente a aplicação do Direito Internacional em diferentes contextos.
+
+## Metodologia
+
+O curso contará com **aulas expositivas** e momentos de reflexão individual e **produção textual** a partir do material bibliográfico fornecido.
+
+## Bibliografia
 
 ```{r}
 #biblio <- bibtex::read.bib("biliografia.bib")
@@ -41,11 +49,11 @@ O direito internacional público é aquele que regula as **relações** em que a
 ```
 
 
-## Bibliografia básica
+### Bibliografia básica
 
 @rezek_direito_2024
 
-## Bibliografia complementar
+### Bibliografia complementar
 
 @accioly_manual_2023  
 @brasil_decreto_2009  
@@ -53,6 +61,12 @@ O direito internacional público é aquele que regula as **relações** em que a
 @chimni_outline_2008  
 @grieco_introduction_2015  
 @fukuyama_end_1989
+
+### Referências Adicionais
+
+Os alunos podem consultar materiais complementares nos seguintes sites:  
+- [ONU - Tratados](https://treaties.un.org/)  
+- [Corte Internacional de Justiça](https://www.icj-cij.org/)  
 
 # Estrutura do curso
 
@@ -71,6 +85,13 @@ As PAP constituirão 4 atividades ou trabalhos escritos individuais por bimestre
 ### PAT
 
 As PAT serão constituídas por dez **questões objetivas** valendo **5 pontos** e uma ou duas **questões dissertativas** valendo **2 pontos**. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
+
+### Critérios de Avaliação
+
+As avaliações serão avaliadas com base nos seguintes critérios:  
+- **Clareza** e **coerência argumentativa**  
+- **Precisão conceitual** e **fundamentação jurídica**  
+- **Originalidade da análise** e **uso de referências adequadas**  
 
 # Plágio e uso indevido de IA em atividades acadêmicas
 
@@ -106,7 +127,9 @@ A universidade valoriza a **produção autoral e o pensamento crítico**. O obje
 
  **Seja responsável pelo seu aprendizado!** Trabalhos autênticos refletem seu crescimento e garantem que você esteja verdadeiramente preparado para os desafios da carreira jurídica.  
 
-**Dúvidas? Entre em contato!**  
+# 📬 **Dúvidas? Entre em contato!**  
+
+Todo contato pode ser estabelecido através e-mail [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com) ou durante os horários das aulas.
 
 # Sobre o professor
 
