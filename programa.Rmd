@@ -70,12 +70,6 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Formalidade
   1. Atores
   1. Efeitos jurídicos
-  1. Classificação
-      a. Quanto ao número de Estados-parte
-      a. Quanto à generalidade de suas disposições
-      a. Quanto à sua natureza jurídica
-          i. Quanto à imperatividade da norma
-          i. Quanto ao tipo de interesse juridicamente regulado
 
 # Semana carnaval
 
@@ -88,6 +82,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 10/03 - aula 4.1: tratados, p. 2
 
+  1. Classificação
+      a. Quanto ao número de Estados-parte
+      a. Quanto à generalidade de suas disposições
+      a. Quanto à sua natureza jurídica
+          i. Quanto à imperatividade da norma
+          i. Quanto ao tipo de interesse juridicamente regulado
   1. Condição de validade
       a. Capacidade das partes contratantes
       a. Habilitação dos agentes
