@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Bem vindos/as!
 
-Este é o site da disciplina **"direito internacional público"**, do 3º semestre do bacharelado em direito da Universidade Zumbi dos Palmares
+Este é o site da disciplina "**direito internacional público**", do 3º semestre do bacharelado em direito da Universidade Zumbi dos Palmares
 
 # Informações básicas
 
