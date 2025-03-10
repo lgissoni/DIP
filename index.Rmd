@@ -127,7 +127,7 @@ A universidade valoriza a **produção autoral e o pensamento crítico**. O obje
 
  **Seja responsável pelo seu aprendizado!** Trabalhos autênticos refletem seu crescimento e garantem que você esteja verdadeiramente preparado para os desafios da carreira jurídica.  
 
-# 📬 **Dúvidas? Entre em contato!**  
+### 📬 Dúvidas? Entre em contato!  
 
 Todo contato pode ser estabelecido através e-mail [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com) ou durante os horários das aulas.
 
@@ -137,7 +137,7 @@ Possui graduação em Direito pela Universidade de São Paulo (2015), graduaçã
 
 
 
-## **Perfis acadêmicos e redes sociais**
+## Perfis acadêmicos e redes sociais
 
 ![](images/lattes.png){ width=2.5% } [Lattes](http://lattes.cnpq.br/3169916414077985)  
 <i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0003-3564-6269)  
