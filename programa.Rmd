@@ -77,10 +77,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 4
 
-[**Notas de aula**](notas_4.html)  
-**Bibliografia:** @rezek_direito_2024, parte I, caps. 1-3
-
 ## 10/03 - aula 4.1: tratados, p. 2
+
+[**Notas de aula**](notas_41.html)  
+**Bibliografia:** @rezek_direito_2024, parte I, cap. 1
 
   1. Classificação
       a. Quanto ao número de Estados-parte
@@ -101,6 +101,9 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Nulidade, extinção e suspensão de aplicação
 
 ## 12/03 - aula 4.2: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação
+
+[**Notas de aula**](notas_42.html)  
+**Bibliografia:** @rezek_direito_2024, parte I, caps. 2 e 3
 
 # Semana 5
 

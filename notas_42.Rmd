@@ -1,0 +1,18 @@
+---
+title: "Notas de aula 4 - aula 2"
+description: "Formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Costume
+
+
+
+

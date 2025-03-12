@@ -1,6 +1,6 @@
 ---
-title: "Notas de aula 4"
-description: "Fontes do direito internacional público e tratados, p.1"
+title: "Notas de aula 4 - aula 1"
+description: "Tratados, parte 2"
 author:
   - name: Luccas Gissoni
   - affiliation: Universidade Zumbi dos Palmares
@@ -13,7 +13,7 @@ csl: abnt.csl
 
 # Classificação
 
-Os tratos podem ser classificados em função do que segue:
+Os tratados podem ser classificados em função do que segue:
 
 ## Quanto ao número de Estados-parte:
 
