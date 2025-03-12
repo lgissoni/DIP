@@ -1,6 +1,6 @@
 ---
 title: "Notas de aula 3"
-description: "Fontes do direito internacional público e tratados, parte 1"
+description: "Fontes do direito internacional público: tratados, parte 1"
 author:
   - name: Luccas Gissoni
   - affiliation: Universidade Zumbi dos Palmares

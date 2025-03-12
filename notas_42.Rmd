@@ -1,6 +1,6 @@
 ---
 title: "Notas de aula 4 - aula 2"
-description: "Formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação"
+description: "Fontes do direito internacional público: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação"
 author:
   - name: Luccas Gissoni
   - affiliation: Universidade Zumbi dos Palmares
@@ -11,8 +11,10 @@ bibliography: bibliografia.bib
 csl: abnt.csl
 ---
 
+Nesta aula vamos tratar das fontes de direity
+
 # Costume
 
-
+## Elementos do costume
 
 
