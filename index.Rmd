@@ -3,7 +3,7 @@ title: "Direito Internacional Público"
 description: |
   Bacharelado em direito - Universidade Zumbi dos Palmares
 site: distill::distill_website
-bibliography: bibliografia.bib
+bibliography: dip.bib
 csl: abnt.csl
 ---
 
@@ -51,16 +51,18 @@ O curso contará com **aulas expositivas** e momentos de reflexão individual e 
 
 ### Bibliografia básica
 
+@brasil_decreto_1945  
+@brasil_decreto_2009  
 @rezek_direito_2024
 
 ### Bibliografia complementar
 
 @accioly_manual_2023  
-@brasil_decreto_2009  
 @brasil_constituicao_1988  
 @chimni_outline_2008  
 @grieco_introduction_2015  
-@fukuyama_end_1989
+@fukuyama_end_1989  
+@shaw_international_2021  
 
 ### Referências Adicionais
 

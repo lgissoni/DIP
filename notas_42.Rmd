@@ -7,11 +7,13 @@ author:
   - affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: dip.bib
 csl: abnt.csl
 ---
 
-Nesta aula vamos tratar das fontes de direity
+Nesta aula vamos tratar das fontes de direito internacional público diversas dos tratados. Observaremos a ordem elencada no art. 38 do Estatuto da Corte da Haia: primeiro as fontes não escritas (costume e princípios gerais do direito). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os atos unilaterais e as decisões normativas que se editam no âmbito das organizações internacionais.
+
+> 
 
 # Costume
 

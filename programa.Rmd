@@ -7,7 +7,7 @@ author:
     affiliation: Universidade Zumbi dos Palmares
     affiliation_url: https://zumbidospalmares.edu.br/
 output: distill::distill_article
-bibliography: bibliografia.bib
+bibliography: dip.bib
 csl: abnt.csl
 ---
 
