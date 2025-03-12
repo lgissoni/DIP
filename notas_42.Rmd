@@ -11,7 +11,7 @@ bibliography: dip.bib
 csl: abnt.csl
 ---
 
-Nesta aula vamos tratar das fontes de direito internacional público diversas dos tratados. Observaremos a ordem elencada no art. 38 do Estatuto da Corte da Haia: primeiro as fontes não escritas (costume e princípios gerais do direito). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os atos unilaterais e as decisões normativas que se editam no âmbito das organizações internacionais.
+Nesta aula vamos tratar das fontes de direito internacional público diversas dos tratados. Continuamos observando a ordem elencada no art. 38 do Estatuto da Corte da Haia: vistos os tratados, veremos agora as fontes não escritas (**costume** e **princípios gerais do direito**). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os **atos unilaterais** e as **decisões normativas** que se editam no âmbito das organizações internacionais.
 
 >  Artigo 38. 1. A Côrte, cuja função é decidir de acôrdo com o direito internacional as controvérsias que lhe forem submetidas, aplicará:<br>
 > a) as convenções internacionais, quer gerais, quer especiais. que estabeleçam regras expressamente reconhecidas pelos Estados litigantes;<br>
@@ -23,4 +23,17 @@ Nesta aula vamos tratar das fontes de direito internacional público diversas do
 
 ## Elementos do costume
 
+Como visto no artigo 38 acima, a norma jurídica costumeira resulta de "uma prática geral aceita como sendo o direito". Daí resultam seus elementos:
 
+- **Elemento material:** a *prática* - "a repetição, ao longo do tempo, de certo modo de proceder ante determinado quadro de fato" [@rezek_direito_2025, p. 133]
+- **Elemento subjetivo:** "a convicção de que assim se procede não sem motivo, mas por ser necessário, justo, e consequentemente *jurídico*" [@rezek_direito_2025, p. 133]
+
+### Elemento material
+
+- **Natureza:** o procedimento regularmente repetido pode ser *positivo* - uma ação - ou *negativo* - uma omissão.
+- **Sujeitos:** necessariamente sujeitos de direito internacional público: *Estados soberanos* e *organizações internacionais*. Indivíduos, empresas e outras entidades não produzem direito das gentes.
+- **Tempo:** a norma diz "repetição, *ao longo do tempo*". Quanto tempo? Veja-se, a esse respeito, a opinião de Rezek:
+
+> Regras costumeiras existem — por exemplo, no domínio do direito relativo ao alto-mar, à guerra, à gênese dos tratados — que se forjaram em passado remoto, e que se supõem consolidadas só ao cabo de alguns séculos de uma prática rarefeita, em razão das circunstâncias. Observe-se, porém, que a celeridade das coisas contemporâneas contagiou o processo de produção do direito costumeiro. No julgamento do caso da plataforma continental do mar do Norte, a Corte Internacional de Justiça teve ocasião de estatuir que “...o transcurso de um período de tempo reduzido não é necessariamente, ou não constitui em si mesmo, um impedimento à formação de uma nova norma de direito internacional consuetudinário...” [@rezek_direito_2025, p. 133].
+
+### Elemento subjetivo
