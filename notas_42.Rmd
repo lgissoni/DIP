@@ -13,7 +13,11 @@ csl: abnt.csl
 
 Nesta aula vamos tratar das fontes de direito internacional público diversas dos tratados. Observaremos a ordem elencada no art. 38 do Estatuto da Corte da Haia: primeiro as fontes não escritas (costume e princípios gerais do direito). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os atos unilaterais e as decisões normativas que se editam no âmbito das organizações internacionais.
 
-> 
+>  Artigo 38. 1. A Côrte, cuja função é decidir de acôrdo com o direito internacional as controvérsias que lhe forem submetidas, aplicará:<br>
+> a) as convenções internacionais, quer gerais, quer especiais. que estabeleçam regras expressamente reconhecidas pelos Estados litigantes;<br>
+> b) o costume internacional, como prova de uma prática geral aceita como sendo o direito;<br>
+> c) os princípios gerais de direito reconhecidos pelas Nações civilizadas;<br>
+> d) sob ressalva da disposição do art. 59, as decisões judiciárias e a doutrina dos publicistas mais qualificados das diferentes Nações, como meio auxiliar para a determinação das regras de direito [@brasil_decreto_1945].
 
 # Costume
 

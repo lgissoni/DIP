@@ -25,6 +25,12 @@ csl: abnt.csl
 
 -   Possibilidade do emprego da *equidade*
 
+>  Artigo 38. 1. A Côrte, cuja função é decidir de acôrdo com o direito internacional as controvérsias que lhe forem submetidas, aplicará:<br>
+> a) as convenções internacionais, quer gerais, quer especiais. que estabeleçam regras expressamente reconhecidas pelos Estados litigantes;<br>
+> b) o costume internacional, como prova de uma prática geral aceita como sendo o direito;<br>
+> c) os princípios gerais de direito reconhecidos pelas Nações civilizadas;<br>
+> d) sob ressalva da disposição do art. 59, as decisões judiciárias e a doutrina dos publicistas mais qualificados das diferentes Nações, como meio auxiliar para a determinação das regras de direito [@brasil_decreto_1945].
+
 Nesta e nas próximas aulas trataremos dos **tratados**.
 
 # Perspectiva histórica
