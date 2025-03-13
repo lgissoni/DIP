@@ -1,13 +1,14 @@
 ---
+title: "Notas de aula 5"
+description: "O Estado: território"
 author:
-- Luccas Gissoni
-bibliography:
-- bibliografia.bib
-date: 8 de outubro de 2024
-title: |
-  Direito Internacional Público\
-  Notas de Aula 5\
-  O Estado: território\
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
 ---
 
 # Introdução
@@ -96,26 +97,29 @@ Quem é o autor dos seguintes textos?
 
 1.  "E se rejeitarem tal império, pode ser imposto a eles por meio de
     armas, e tal guerra será justa de acordo com a lei natural declara
-    isso \[\...\] Em suma: é justo, conveniente e de acordo com a lei
+    isso [...] Em suma: é justo, conveniente e de acordo com a lei
     natural que os homens justos, inteligentes, virtuosos e humanos
     dominem todos os que não possuem essas qualidades"
 
 2.  "Conceda-se que os Índios do tempo dos Incas idolatraram como
     gentios e adoravam ao sol, pai do Inca e a lua, sua mãe, e as
-    estrelas seus irmãos \[\...\] Com tudo isso eles guardaram os
+    estrelas seus irmãos [...] Com tudo isso eles guardaram os
     mandamentos e as boas obras de misericórdia de Deus neste reino, o
     que não é mantido pelos cristãos"
 
-3.  "Eles \[os índios\] não são homens? Eles não têm almas racionais?
-    Você não está forçados a amá-los como a si mesmos? \[\...\] Como
-    você está com tanto profundidade do sono tão letárgico?\"
+3.  "Eles [os índios] não são homens? Eles não têm almas racionais?
+    Você não está forçados a amá-los como a si mesmos? [...] Como
+    você está com tanto profundidade do sono tão letárgico?"
 
 ## Conquista
 
 Aquisição do território como resultado do emprego da força unilateral ou
-do triumfo em campo de batalha.\
+do triunfo em campo de batalha.\
 [Vídeo: como o mapa da Europa tem mudado ao longo de 2400
 anos](https://youtu.be/UY9P0QSxlnI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UY9P0QSxlnI" 
+frameborder="0" allowfullscreen></iframe>
 
 > Hoje, entretanto, não seria possível admitir a conquista como meio de
 > aquisição territorial, desde que proscrito o recurso às armas pelo
@@ -125,17 +129,17 @@ anos](https://youtu.be/UY9P0QSxlnI)
 > fronteiras seguras foi seu argumento para a retenção dessas áreas, até
 > que o abrandamento das tensões políticas permitisse negociação
 > construtiva com países vizinhos e com a liderança palestina
-> [@rezek_direito_2024 p. 73; cf. figuras
+> [@rezek_direito_2024 p. 73; cf. figuras
 > [1](#fig:guerra_6_dias){reference-type="ref"
 > reference="fig:guerra_6_dias"} e
 > [2](#fig:territorios_palestinos_ocupados){reference-type="ref"
 > reference="fig:territorios_palestinos_ocupados"}].
 
 ![Território ocupado por Israel na Guerra dos Seis Dias
-(1967).](guerra_6_dias.png){#fig:guerra_6_dias width="75%"}
+(1967).](images/guerra_6_dias.png){#fig:guerra_6_dias width="75%"}
 
 ![Território palestino ocupado por Israel
-(2011).](territorios_palestinos_ocupados.jpg){#fig:territorios_palestinos_ocupados
+(2011).](images/territorios_palestinos_ocupados.jpg){#fig:territorios_palestinos_ocupados
 width="75%"}
 
 ## Cessão onerosa
@@ -146,7 +150,7 @@ Aquisição do território por meio da compra e venda ou da permuta.
 > por 60 milhões de francos, e o Alasca da Rússia em 1867, por 7,2
 > milhões de dólares. O Brasil adquiriu o Acre da Bolívia em 1903,
 > mediante o pagamento de 2 milhões de libras esterlinas e a prestação
-> de determinados serviços [@rezek_direito_2024 p. 73].
+> de determinados serviços [@rezek_direito_2024 p. 73].
 
 ### Cessão gratuita
 
@@ -162,7 +166,7 @@ Aquisição do território por meio da compra e venda ou da permuta.
 > França perfila entre os vitoriosos: nova cessão gratuita, em sentido
 > inverso, restitui a Alsácia-Lorena à soberania francesa,
 > consignando-se no texto do Tratado de Versalhes (1919)
-> [@rezek_direito_2024 p. 73].
+> [@rezek_direito_2024 p. 73].
 
 ### Decisão de organizações internacionais
 
@@ -171,13 +175,13 @@ Aquisição do território por meio da compra e venda ou da permuta.
 > partilha da Palestina, e de novo em 1950 quanto às ex-colônias
 > italianas na África. O órgão judiciário da ONU, qual seja a Corte da
 > Haia, não atribui território: limita-se a dizer, à luz do direito
-> aplicável, a quem certa área pertence, ou como os conten­dores deverão
+> aplicável, a quem certa área pertence, ou como os contendores deverão
 > proceder para a correta partilha da região controvertida (casos do
 > templo de Preah-Vihear, Camboja-Tailândia, 1962; do Camerum
 > setentrional, Camerum-Reino Unido, 1963; da plataforma continental do
 > mar do Norte, Dinamarca-Países Baixos-Alemanha, 1969; da ilha
 > Kasikili-Sedudu, Botsuana-Namíbia, 1999; da delimitação marítima e
-> terrestre Catar-Barém, 2001) [@rezek_direito_2024 p. 73].
+> terrestre Catar-Barém, 2001) [@rezek_direito_2024 p. 73].
 
 # Delimitação territorial
 
@@ -205,7 +209,7 @@ o exato traçado.
 > sobre determinada área territorial. O *uti possidetis juris*, o das
 > repúblicas hispano-americanas, teria amplo emprego no continente
 > africano ao longo do processo de descolonização, na segunda metade do
-> século XX [@rezek_direito_2024 p. 74].
+> século XX [@rezek_direito_2024 p. 74].
 
 ## Linhas artificiais x naturais
 
@@ -220,7 +224,7 @@ o exato traçado.
 > político da África revela, por sua vez, largo uso das linhas
 > geodésicas para o traçado dos limites interestatais. O emprego de
 > limites artificiais foi, contudo, pouco expressivo na Europa, na Ásia
-> e na América Latina. [@rezek_direito_2024 p. 74].
+> e na América Latina. [@rezek_direito_2024 p. 74].
 
 ### Linhas naturais
 
@@ -246,4 +250,4 @@ o exato traçado.
 > Brasil e Peru para o rio Purus, por Brasil e Colômbia para os rios
 > Iquiare e Taraíra. A linha da equidistância foi preferida por Bolívia
 > e Brasil a propósito dos rios Guaporé, Mamoré e Madeira
-> [@rezek_direito_2024 p. 74].
+> [@rezek_direito_2024 p. 74].
