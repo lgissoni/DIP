@@ -135,7 +135,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 6
 
-**Notas de aula**  
+[**Notas de aula**](notas_6.html)  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 1
 
 ## 24/03 - aula 6.1: o Estado: dimensão pessoal do Estado, p. 1
