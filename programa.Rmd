@@ -152,9 +152,6 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Brasileiros natos
       a. Brasileiros naturalizados
       a. Perda da nacionalidade brasileira
-      
-**PAP 1.4:** Questão do Exame de Ordem  
-**Prazo:** 30/03
 
 # Semana 7
 
@@ -162,7 +159,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 8
 
-**Notas de aula**  
+[**Notas de aula**](notas_8.html)    
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 2
 
 ## 07/04 - aula 8.1: organizações internacionais, p. 1
@@ -185,6 +182,9 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Limites de abertura do tratado institucional
       a. Adesão ao tratado institucional
       a. Beneplácito à adesão
+
+[**PAP 1.4:** Questão Questão Dissertativa – Admissão de Estados à ONU](pap_14.html)  
+**Prazo:** 13/04
 
 # Semana 9
 

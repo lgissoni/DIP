@@ -13,10 +13,7 @@ csl: abnt.csl
 
 # Introdução
 
-As organizações internacionais (OIs) são um conjunto de entes
-extremamente heterogêneo. Varia *quantitativamente*, segundo seu alcance
-geográfico, quadro de pessoal e orçamento, e *qualitativamente*, segundo
-suas finalidades e objetivos.
+As organizações internacionais (OIs) constituem um conjunto heterogêneo de entes, variando tanto em aspectos *quantitativos* — como alcance geográfico, pessoal e orçamento — quanto *qualitativos* — como finalidades e objetivos.
 
 > Seus objetivos variam, com efeito, entre a suprema ambição de uma ONU
 > --- manter a paz entre os povos, preservar-lhes a segurança, e
@@ -25,6 +22,8 @@ suas finalidades e objetivos.
 > trânsito postal extrafronteiras [@rezek_direito_2024 p. 104].
 
 # Teoria geral
+
+A teoria geral das organizações internacionais parte de certos elementos comuns, como a personalidade jurídica e a estrutura orgânica básica.
 
 ## Personalidade jurídica
 
@@ -72,7 +71,7 @@ Local os todos os Estados-membros tenham voz e voto em condições
 igualitárias. Representa o corpo dotado da competência legislativa da
 entidade. Ela não é permanente, reunindo-se ordinariamente - em geral
 uma vez por ano - e convocada extraordinariamente quando o exigirem as
-ircunstâncias.
+circunstâncias.
 
 ### Secretaria
 
@@ -196,10 +195,15 @@ de assistência e financiamento.
 
 ## Admissão de novos membros
 
-A admissão de novos membros depende de três aspectos: "as condições
-prévias do ingresso, vale dizer, os limites de abertura da carta aos
-Estados não membros\" [@rezek_direito_2024 p. 115], a adesão à carta e a
-aceitação pelos Estados-membros.
+A admissão de novos membros depende de três aspectos:
+
+- Limites de abertura do tratado institucional;
+- Adesão à carta;
+- Aceitação pelos Estados-membros (beneplácito).
+
+>  Artigo 4.  
+1. A admissão como Membro das Nações Unidas fica aberta a todos os Estados amantes da paz que aceitarem as obrigações contidas na presente Carta e que, a juízo da Organização, estiverem aptos e dispostos a cumprir tais obrigações.  
+2. A admissão de qualquer desses Estados como Membros das Nações Unidas será efetuada por decisão da Assembléia Geral, mediante recomendação do Conselho de Segurança [@brasil_decreto_1945].
 
 ### Limites de abertura do tratado institucional
 

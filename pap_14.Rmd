@@ -1,0 +1,29 @@
+---
+title: "PAP 1.4"
+description: |
+  Prazo: 13/04
+author:
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
+---
+
+# Questão Dissertativa – Admissão de Estados à ONU
+
+Durante a década de 1990, a Organização das Nações Unidas (ONU) experimentou um aumento expressivo em seu número de membros. Esse crescimento foi impulsionado por dois movimentos distintos: a emancipação dos últimos territórios coloniais remanescentes, sobretudo na África, e o surgimento de novas soberanias oriundas de processos de desmembramento estatal, como o fim da União Soviética, da Iugoslávia e da Tchecoslováquia.
+
+Diante desse cenário, vários novos Estados formalizaram sua adesão à Carta das Nações Unidas e passaram a integrar a organização como membros plenos.
+
+Com base no processo de admissão de novos membros e nos princípios do Direito Internacional, responda de forma fundamentada:
+
+**a)** Quais são os requisitos jurídicos que um novo Estado deve preencher para ser admitido como membro da ONU, segundo a Carta das Nações Unidas?
+
+**b)** No contexto da descolonização e da fragmentação de Estados, que princípio de Direito Internacional sustenta a legitimidade do ingresso desses novos membros na ONU?
+
+
+
+
