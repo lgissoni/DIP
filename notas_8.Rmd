@@ -1,13 +1,14 @@
 ---
+title: "Notas de aula 8"
+description: "Organizações internacionais"
 author:
-- Luccas Gissoni
-bibliography:
-- bibliografia.bib
-date: 12 de novembro de 2024
-title: |
-  Direito Internacional Público\
-  Notas de Aula 7\
-  Organizações internacionais\
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
 ---
 
 # Introdução
