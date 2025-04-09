@@ -266,9 +266,23 @@ Nos últimos dias de seu mandato, em dezembro de 1991, o secretário-geral Perez
 >  Artigo 6. O Membro das Nações Unidas que houver violado persistentemente os Princípios contidos na presente Carta, poderá ser expulso da Organização pela Assembléia Geral mediante recomendação do Conselho de Segurança [@brasil_decreto_1945].
 
 <div class="warning">
-  <p>⚠️ Para saber mais:expulsão de Estad</p>
+  <p>⚠️ Para saber mais:expulsão de Estado</p>
   <p> > Atentando ao sistema pelo qual este último órgão formula suas recomendações, verifica-se que a expulsão, tanto quanto a suspensão prevista no art. 5, não será jamais praticável contra qualquer dos cinco membros permanentes, titulares da prerrogativa do veto. O velho Pacto da SDN não abrigava aberração semelhante. Segundo os termos do seu art. 16, § 4, a exclusão era pronunciada por todos os membros do Conselho, exceto o próprio Estado em causa. Este último sistema é consagrado pela Carta da Liga Árabe. Em ambos os casos, o fato suscetível de provocar a exclusão do Estado-membro é a falta aos compromissos decorrentes da qualidade de membro da organização.
 <br>
 A única exclusão pronunciada pelo Conselho da SDN foi a da União Soviética, em 1939, após ato de agressão contra a Finlândia. A Carta de Bogotá não se refere à perspectiva da exclusão de membros. Não obstante, em 14 de fevereiro de 1962 a organização expulsou oficialmente do seu quadro a república de Cuba, Estado “incompatível com o sistema interamericano”, dando sequência à resolução da Conferência dos ministros das Relações Exteriores, tomada sob proposta do delegado norte-americano Dean Rusk [@rezek_direito_2025, pp. 318-319].
+  </p>
+</div>
+
+## Retirada voluntária de Estado-membro
+
+> Dois elementos costumam condicionar a retirada voluntária do Estado-membro no quadro das organizações cujos textos fundamentais preveem a eventualidade da denúncia. Tem-se, em primeiro lugar, o pré-aviso: um lapso de tempo deve mediar entre a manifestação de vontade do Estado retirante e o rompimento efetivo do vínculo jurídico decorrente da sua condição de parte no tratado. O prazo de dois anos, previsto pelo art. 1, § 3, do Pacto da SDN, vale atualmente no sistema da OIT e no da OEA, entendendo esta última como termo inicial a data do recebimento da denúncia pela Secretaria Geral. O segundo requisito costuma ser a atualização de contas (OEA, OIT) [@rezek_direito_2025, p. 19].
+
+A Carta da ONU não prevê a hipótese de retirada.
+
+<div class="warning">
+  <p>⚠️ Para saber mais:retirada de Estado</p>
+  <p> > A história da Sociedade das Nações registrou a retirada do Brasil em 1926, a do Japão e a da Alemanha em 1933, a da Itália em 1937. Em 21 de janeiro de 1965, em carta endereçada ao secretário-geral das Nações Unidas, o governo da Indonésia participava formalmente seu afastamento da organização. Nada constando na carta sobre semelhante hipótese, o secretário-geral consultava nos dias seguintes numerosas delegações a fim de saber o que deveria ser feito em tais circunstâncias. Iniciativa sem êxito. Do ponto de vista das Nações Unidas, uma situação jurídica inominada e indefinida iria perdurar até 28 de setembro de 1966, data em que os delegados da Indonésia retomaram seus assentos na Assembleia Geral, como se nada houvesse ocorrido.
+<br>
+A Organização dos Estados Americanos viu deixar seu quadro a república da Bolívia, ressentida após um conflito sobre limites com o Chile. Ela voltaria ao cabo de dois anos de ausência, em 29 de dezembro de 1964. Os Estados Unidos deixaram a OIT em 1977, alegando inconformismo com a politização da entidade. Igual argumento utilizariam em 1984 para deixar a UNESCO. Voltaram depois às duas organizações, em 1980 e em 2003, respectivamente.
   </p>
 </div>
