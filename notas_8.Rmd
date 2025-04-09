@@ -238,37 +238,3 @@ que o veto seja praticável\" [@rezek_direito_2024 p. 116].
 > remanescentes coloniais que acederam à condição de Estados
 > independentes e, de outro, as soberanias resultantes de
 > desmembramentos ocorridos na Europa [@rezek_direito_2024 p. 116].
-
-## Sanções
-
-> A falta aos deveres resultantes de sua qualidade de membro de uma organização internacional pode trazer ao Estado consequências peculiares, quais sejam as sanções previstas pelo tratado constitutivo e aplicáveis pela própria organização, mediante voto em algum de seus órgãos. Essas assumem, usualmente, duas formas: a suspensão de determinados direitos e a exclusão do quadro [@rezek_direito_2025, p. 317].
-
-### Suspensão da condição de membro da organização
-
-#### Ação preventiva ou coercitiva do Conselho de Segurança
-
-> Artigo 5. O Membro das Nações Unidas, contra o qual for levada a efeito ação preventiva ou coercitiva por parte do Conselho de Segurança, poderá ser suspenso do exercício dos direitos e privilégios de Membro pela Assembléia Geral, mediante recomendação do Conselho de Segurança. O exercício desses direitos e privilégios poderá ser restabelecido pelo conselho de Segurança [@brasil_decreto_1945].
-
-#### Estado em atraso no pagamento de sua cota relativa à receita da organização
-
->  Artigo 19. O Membro das Nações Unidas que estiver em atraso no pagamento de sua contribuição financeira à Organização não terá voto na Assembléia Geral, se o total de suas contribuições atrasadas igualar ou exceder a soma das contribuições correspondentes aos dois anos anteriores completos. A Assembléia Geral poderá entretanto, permitir que o referido Membro vote, se ficar provado que a falta de pagamento é devida a condições independentes de sua vontade [@brasil_decreto_1945].
-
-<div class="warning">
-  <p>⚠️ Para saber mais: Estado em atraso</p>
-  <p> > Em 21 de maio de 1968 o Haiti era avisado de que perderia seu direito de voto, nos termos do art. 19, caso permanecesse em atraso no pagamento de sua quota (US$ 22,400). Foi essa a primeira vez em que a ONU se animou a pronunciar tal sorte de advertência. Segundo Reuter, as sanções previstas pelo art. 19 poderiam ter atingido dezesseis Estados membros das Nações Unidas na primavera de 1965. Mas, para tanto, era necessária a difícil “conjunção favorável das forças políticas”24. Uma proposta dos Estados Unidos visando à aplicação do art. 19 à União Soviética, então distante da pontualidade na solução de seus débitos, foi prudentemente retirada em 16 de agosto daquele ano.
-<br>
-Nos últimos dias de seu mandato, em dezembro de 1991, o secretário-geral Perez de Cuellar revelou que somente 64 dentre os 159 membros da ONU estavam em dia com suas obrigações financeiras. O total de débitos em atraso era de 524 milhões de dólares — dos quais 485 milhões eram então devidos pelos Estados Unidos da América. O problema subsiste nos anos recentes, mas em proporções menos graves. Nos primeiros anos deste novo século o montante das contribuições em mora era da ordem de 222 milhões de dólares [@rezek_direito_2025, p. 318].
-  </p>
-</div>
-
-### Expulsão da organização
-
->  Artigo 6. O Membro das Nações Unidas que houver violado persistentemente os Princípios contidos na presente Carta, poderá ser expulso da Organização pela Assembléia Geral mediante recomendação do Conselho de Segurança [@brasil_decreto_1945].
-
-<div class="warning">
-  <p>⚠️ Para saber mais:expulsão de Estad</p>
-  <p> > Atentando ao sistema pelo qual este último órgão formula suas recomendações, verifica-se que a expulsão, tanto quanto a suspensão prevista no art. 5, não será jamais praticável contra qualquer dos cinco membros permanentes, titulares da prerrogativa do veto. O velho Pacto da SDN não abrigava aberração semelhante. Segundo os termos do seu art. 16, § 4, a exclusão era pronunciada por todos os membros do Conselho, exceto o próprio Estado em causa. Este último sistema é consagrado pela Carta da Liga Árabe. Em ambos os casos, o fato suscetível de provocar a exclusão do Estado-membro é a falta aos compromissos decorrentes da qualidade de membro da organização.
-<br>
-A única exclusão pronunciada pelo Conselho da SDN foi a da União Soviética, em 1939, após ato de agressão contra a Finlândia. A Carta de Bogotá não se refere à perspectiva da exclusão de membros. Não obstante, em 14 de fevereiro de 1962 a organização expulsou oficialmente do seu quadro a república de Cuba, Estado “incompatível com o sistema interamericano”, dando sequência à resolução da Conferência dos ministros das Relações Exteriores, tomada sob proposta do delegado norte-americano Dean Rusk [@rezek_direito_2025, pp. 318-319].
-  </p>
-</div>

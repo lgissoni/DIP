@@ -1,0 +1,72 @@
+---
+title: "Direito Internacional Público"
+subtitle: "Notas de Aula 7 - Organizações Internacionais"
+author: "Luccas Gissoni"
+date: "12 de novembro de 2024"
+output: distill::distill_article
+
+---
+
+# Introdução
+
+As organizações internacionais (OIs) são um conjunto de entes extremamente heterogêneo. Varia *quantitativamente*, segundo seu alcance geográfico, quadro de pessoal e orçamento, e *qualitativamente*, segundo suas finalidades e objetivos.
+
+> Seus objetivos variam, com efeito, entre a suprema ambição de uma ONU — manter a paz entre os povos, preservar-lhes a segurança, e fomentar, por acréscimo, seu desenvolvimento harmônico — e o modestíssimo desígnio de uma UPU, consistente apenas em ordenar o trânsito postal extrafronteiras (Rezek, 2024, p. 104).
+
+# Teoria geral
+
+## Personalidade jurídica
+
+A personalidade jurídica da organização internacional envolve a capacidade jurídica, conforme tratado pioneiro que constituiu a Organização Internacional do Trabalho (OIT) em 1919:
+
+> **Artigo 39**
+>
+> A Organização Internacional do Trabalho deve ter personalidade jurídica, e, precipuamente, capacidade para:
+>
+> a) adquirir bens, móveis e imóveis, e dispor dos mesmos;
+> b) contratar;
+> c) intentar ações (OIT, 1919).
+
+O elemento mais importante da personalidade jurídica é a competência da organização para celebrar tratados em seu próprio nome. Daí decorre a personalidade jurídica como *consequência*:
+
+> Paul Reuter, atento à fase incipiente em que se encontrava a formulação de uma teoria geral das organizações internacionais, insistia em que a personalidade jurídica de direito das gentes não é a fonte da competência da organização, mas seu resultado. Se os pactuantes — ainda que despreocupados de lavrar um dispositivo do gênero do art. 39 da Constituição da OIT — definem os órgãos da entidade projetada, assinalando-lhes competências próprias a revelar autonomia em relação à individualidade dos Estados-membros, então, a partir da percepção dessa estrutura orgânica, e a partir, sobretudo, da análise dessas competências, será possível afirmar que o tratado efetivamente deu origem a uma nova personalidade jurídica de direito internacional público (Rezek, 2024, p. 107).
+
+## Órgãos
+
+Todas as OIs possuem ao menos dois órgãos essenciais: a assembleia geral e a secretaria. Um terceiro órgão comum é o conselho permanente.
+
+### Assembleia geral
+
+Local onde todos os Estados-membros têm voz e voto em condições igualitárias. Representa o corpo dotado da competência legislativa da entidade. Não é permanente, reunindo-se ordinariamente uma vez por ano e extraordinariamente quando necessário.
+
+### Secretaria
+
+> "Órgão de administração, de funcionamento permanente, integrado por servidores neutros em relação à política dos Estados-membros — particularmente à de seus próprios Estados patriais" (Rezek, 2024, p. 107).
+
+Há uma tendência a se priorizar o mérito no recrutamento do pessoal subalterno neutro e de se buscar uma partilha numérica de postos entre os Estados-membros.
+
+### Conselho permanente
+
+Encontrável sobretudo nas OIs de vocação política, tem funcionamento ininterrupto e competência executiva (Rezek, 2024). Pode ser composto por representantes de todos os Estados-membros, como na OEA, ou de alguns deles, eleitos pela assembleia geral por prazo certo ou dotados de mandato permanente.
+
+### Outros órgãos
+
+> Em função do seu alcance e dos seus propósitos, a organização internacional pode ter estrutura mais ampla, dispondo de outros conselhos — como, na ONU, o Econômico e Social —, bem como de órgãos técnicos, de órgãos judiciários — como a Corte da Haia, no quadro da ONU, ou as cortes de Estrasburgo e de Luxemburgo, no quadro da União Europeia —, e até mesmo de órgãos temporários, fadados à extinção quando tenham atendido a certa finalidade conjuntural (Rezek, 2024, p. 108).
+
+## Sede da organização
+
+> Carentes de base territorial, as organizações internacionais precisam de que um Estado faculte a instalação física de seus órgãos em algum ponto do seu território. Essa franquia pressupõe sempre a celebração de um tratado bilateral entre a organização e o Estado, a que se dá o nome de *acordo de sede* (Rezek, 2024, p. 110).
+
+Nem sempre a sede de uma OI se encontra em um Estado-membro, como no caso da SDN, que se instalou na Suíça.
+
+> Um pedido israelense de fechamento do escritório da OLP em Genebra foi rejeitado, em 1978, pelo Conselho Federal Suíço, que invocou, a propósito, suas obrigações resultantes do acordo de sede firmado com a ONU em 1946. O escritório da OLP fora aberto em 1975, a pedido das Nações Unidas, cuja Assembleia Geral havia decidido convidar a entidade a participar, com o estatuto de observador, de conferências e demais trabalhos promovidos pela organização (Rezek, 2024, p. 110).
+
+## Finanças da organização
+
+A receita das OIs resulta sobretudo da *cotização* dos Estados-membros, que não é paritária, mas obedece à *capacidade contributiva* de cada Estado-membro.
+
+> Assim, no biênio 2019-2021, os Estados Unidos entraram com 22% da receita. A China contribuiu com cerca de 12%, seguindo-se o Japão (8,5%), a Alemanha, a França e o Reino Unido (6%), a Itália (5%), o Brasil, o Canadá e a Espanha (3%), a Rússia (2,5%) e a Austrália (2%). Com cotas superiores a 1%, a Coreia do Sul, o México, os Países Baixos, a Turquia e a Suíça fecham a lista dos principais contribuintes. Todos os demais membros da ONU, cento e setenta e cinco, contribuem com somas correspondentes a menos que 1% da receita total, e trinta e nove deles estancam no piso (Rezek, 2024, p. 115).
+
+As despesas consistem na folha de pagamento da secretaria, custeio de instalações e programas de assistência e financiamento.
+
+> No parecer consultivo de 20 de julho de 1962, solicitado pela Assembleia Geral da ONU, a Corte da Haia definiu como despesas da organização, a serem custeadas por sua verba orçamentária, as resultantes das operações da Força de Urgência das Nações Unidas em Suez e no Congo, na década de 1950 (Rezek, 2024, p. 115).
