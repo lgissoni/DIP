@@ -20,9 +20,8 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-html { -webkit-text-size-adjust: 100%; }
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -33,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -117,8 +116,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2025-04-07"/>
-  <meta property="article:created" itemprop="dateCreated" content="2025-04-07"/>
+  <meta property="article:published" itemprop="datePublished" content="2025-04-09"/>
+  <meta property="article:created" itemprop="dateCreated" content="2025-04-09"/>
   <meta name="article:author" content="Luccas Gissoni"/>
   <meta name="article:author" content=""/>
   <meta name="article:author" content=""/>
@@ -139,10 +138,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   <meta name="citation_reference" content="citation_title=Direito internacional público;citation_publisher=SaraivaJur;citation_author=Francisco Rezek"/>
   <meta name="citation_reference" content="citation_title=Decreto nº 19.841;citation_author=Presidência da República Brasil"/>
+  <meta name="citation_reference" content="citation_title=Direito internacional público: Curso elementar;citation_publisher=SaraivaJur;citation_author=Francisco Rezek"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Notas de aula 8"]},{"type":"character","attributes":{},"value":["Organizações internacionais"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["https://zumbidospalmares.edu.br/"]}]}]},{"type":"character","attributes":{},"value":["2025-04-07"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Notas de aula 8"]},{"type":"character","attributes":{},"value":["Organizações internacionais"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["https://zumbidospalmares.edu.br/"]}]}]},{"type":"character","attributes":{},"value":["2025-04-09"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -490,8 +490,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -2336,7 +2336,32 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   strong {
       color: #ca225e; /* Ou outra cor da sua paleta */
-  }</style>
+  }
+
+  /* Caixa de aviso (warning) personalizada */
+
+  /* Caixa de aviso (warning) com texto mais suave */
+  .warning {
+    background-color: #fdf3f7;
+    color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
+    border-left: 4px solid #ca225e;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1.5em 0;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .warning p {
+    margin: 0.5em 0 0.5em 1em;
+  }
+  .warning p:first-child {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ca225e; /* título da caixa continua em destaque */
+  }
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2492,7 +2517,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2512,7 +2537,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Notas de aula 8","description":"Organizações internacionais","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"https://zumbidospalmares.edu.br/","affiliationURL":"https://zumbidospalmares.edu.br/","orcidID":""}],"publishedDate":"2025-04-07T00:00:00.000-03:00","citationText":"Gissoni, et al., 2025"}
+{"title":"Notas de aula 8","description":"Organizações internacionais","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"https://zumbidospalmares.edu.br/","affiliationURL":"https://zumbidospalmares.edu.br/","orcidID":""}],"publishedDate":"2025-04-09T00:00:00.000-03:00","citationText":"Gissoni, et al., 2025"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2585,7 +2610,7 @@ PAPs
 ,   
   true
   
-<br/>2025-04-07
+<br/>2025-04-09
 </div>
 
 <div class="d-article">
@@ -2612,6 +2637,10 @@ PAPs
 <li><a href="#limites-de-abertura-do-tratado-institucional" id="toc-limites-de-abertura-do-tratado-institucional">Limites de abertura do tratado institucional</a></li>
 <li><a href="#adesão-ao-tratado-institucional" id="toc-adesão-ao-tratado-institucional">Adesão ao tratado institucional</a></li>
 <li><a href="#beneplácito-à-adesão" id="toc-beneplácito-à-adesão">Beneplácito à adesão</a></li>
+</ul></li>
+<li><a href="#sanções" id="toc-sanções">Sanções</a>
+<ul>
+<li><a href="#suspensão-da-condição-de-membro-da-organização" id="toc-suspensão-da-condição-de-membro-da-organização">Suspensão da condição de membro da organização</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -2827,13 +2856,59 @@ remanescentes coloniais que acederam à condição de Estados
 independentes e, de outro, as soberanias resultantes de
 desmembramentos ocorridos na Europa <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 116</a>)</span>.</p>
 </blockquote>
+<h2 id="sanções">Sanções</h2>
+<blockquote>
+<p>A falta aos deveres resultantes de sua qualidade de membro de uma organização internacional pode trazer ao Estado consequências peculiares, quais sejam as sanções previstas pelo tratado constitutivo e aplicáveis pela própria organização, mediante voto em algum de seus órgãos. Essas assumem, usualmente, duas formas: a suspensão de determinados direitos e a exclusão do quadro <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 317</a>)</span>.</p>
+</blockquote>
+<h3 id="suspensão-da-condição-de-membro-da-organização">Suspensão da condição de membro da organização</h3>
+<h4 id="ação-preventiva-ou-coercitiva-do-conselho-de-segurança">Ação preventiva ou coercitiva do Conselho de Segurança</h4>
+<blockquote>
+<p>Artigo 5. O Membro das Nações Unidas, contra o qual for levada a efeito ação preventiva ou coercitiva por parte do Conselho de Segurança, poderá ser suspenso do exercício dos direitos e privilégios de Membro pela Assembléia Geral, mediante recomendação do Conselho de Segurança. O exercício desses direitos e privilégios poderá ser restabelecido pelo conselho de Segurança <span class="citation" data-cites="brasil_decreto_1945">(<a href="#ref-brasil_decreto_1945" role="doc-biblioref">BRASIL, 1945</a>)</span>.</p>
+</blockquote>
+<h4 id="estado-em-atraso-no-pagamento-de-sua-cota-relativa-à-receita-da-organização">Estado em atraso no pagamento de sua cota relativa à receita da organização</h4>
+<blockquote>
+<p>Artigo 19. O Membro das Nações Unidas que estiver em atraso no pagamento de sua contribuição financeira à Organização não terá voto na Assembléia Geral, se o total de suas contribuições atrasadas igualar ou exceder a soma das contribuições correspondentes aos dois anos anteriores completos. A Assembléia Geral poderá entretanto, permitir que o referido Membro vote, se ficar provado que a falta de pagamento é devida a condições independentes de sua vontade <span class="citation" data-cites="brasil_decreto_1945">(<a href="#ref-brasil_decreto_1945" role="doc-biblioref">BRASIL, 1945</a>)</span>.</p>
+</blockquote>
+<div class="warning">
+<p>
+⚠️ Para saber mais: Estado em atraso
+</p>
+<p>
+<blockquote>
+Em 21 de maio de 1968 o Haiti era avisado de que perderia seu direito de voto, nos termos do art. 19, caso permanecesse em atraso no pagamento de sua quota (US$ 22,400). Foi essa a primeira vez em que a ONU se animou a pronunciar tal sorte de advertência. Segundo Reuter, as sanções previstas pelo art. 19 poderiam ter atingido dezesseis Estados membros das Nações Unidas na primavera de 1965. Mas, para tanto, era necessária a difícil “conjunção favorável das forças políticas”24. Uma proposta dos Estados Unidos visando à aplicação do art. 19 à União Soviética, então distante da pontualidade na solução de seus débitos, foi prudentemente retirada em 16 de agosto daquele ano.
+<br>
+Nos últimos dias de seu mandato, em dezembro de 1991, o secretário-geral Perez de Cuellar revelou que somente 64 dentre os 159 membros da ONU estavam em dia com suas obrigações financeiras. O total de débitos em atraso era de 524 milhões de dólares — dos quais 485 milhões eram então devidos pelos Estados Unidos da América. O problema subsiste nos anos recentes, mas em proporções menos graves. Nos primeiros anos deste novo século o montante das contribuições em mora era da ordem de 222 milhões de dólares <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 318</a>)</span>.
+</p>
+</div>
+</blockquote>
+<h3 id="expulsão-da-organização">Expulsão da organização</h3>
+<blockquote>
+<p>Artigo 6. O Membro das Nações Unidas que houver violado persistentemente os Princípios contidos na presente Carta, poderá ser expulso da Organização pela Assembléia Geral mediante recomendação do Conselho de Segurança <span class="citation" data-cites="brasil_decreto_1945">(<a href="#ref-brasil_decreto_1945" role="doc-biblioref">BRASIL, 1945</a>)</span>.</p>
+</blockquote>
+<div class="warning">
+<p>
+⚠️ Para saber mais:expulsão de Estad
+</p>
+<p>
+<blockquote>
+Atentando ao sistema pelo qual este último órgão formula suas recomendações, verifica-se que a expulsão, tanto quanto a suspensão prevista no art. 5, não será jamais praticável contra qualquer dos cinco membros permanentes, titulares da prerrogativa do veto. O velho Pacto da SDN não abrigava aberração semelhante. Segundo os termos do seu art. 16, § 4, a exclusão era pronunciada por todos os membros do Conselho, exceto o próprio Estado em causa. Este último sistema é consagrado pela Carta da Liga Árabe. Em ambos os casos, o fato suscetível de provocar a exclusão do Estado-membro é a falta aos compromissos decorrentes da qualidade de membro da organização.
+<br>
+A única exclusão pronunciada pelo Conselho da SDN foi a da União Soviética, em 1939, após ato de agressão contra a Finlândia. A Carta de Bogotá não se refere à perspectiva da exclusão de membros. Não obstante, em 14 de fevereiro de 1962 a organização expulsou oficialmente do seu quadro a república de Cuba, Estado “incompatível com o sistema interamericano”, dando sequência à resolução da Conferência dos ministros das Relações Exteriores, tomada sob proposta do delegado norte-americano Dean Rusk <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025</a>, pp. 318-319)</span>.
+</p>
+</div>
+</blockquote>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+</div>
+</div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
 <div id="ref-brasil_decreto_1945" class="csl-entry" role="listitem">
 BRASIL, P. DA R. <strong>Decreto nº 19.841</strong>., out. 1945. Disponível em: &lt;<a href="https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d19841.htm">https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d19841.htm</a>&gt;. Acesso em: 12 mar. 2025
 </div>
 <div id="ref-rezek_direito_2024" class="csl-entry" role="listitem">
 REZEK, F. <strong><a href="https://integrada.minhabiblioteca.com.br/#/books/9788553622870/">Direito internacional público</a></strong>. 19. ed. São Paulo: SaraivaJur, 2024.
+</div>
+<div id="ref-rezek_direito_2025" class="csl-entry" role="listitem">
+REZEK, F. <strong><a href="https://integrada.minhabiblioteca.com.br/reader/books/9788553624997/">Direito internacional público: curso elementar</a></strong>. 20. ed. São Paulo, SP: SaraivaJur, 2025.
 </div>
 </div>
 <!--radix_placeholder_article_footer-->
