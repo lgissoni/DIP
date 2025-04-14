@@ -15,7 +15,7 @@ csl: abnt.csl
 
 A responsabilidade internacional dos Estados é um dos pilares do Direito Internacional contemporâneo. Trata-se do conjunto de normas que regulam as consequências jurídicas de um ato internacionalmente ilícito, ou seja, de um comportamento atribuído a um Estado que viola uma obrigação internacional.
 
-Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos **Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos** foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário [@cdi_2001].
+Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos [**Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos**](resources/Projeto-da-CDI-sobre-Responsabilidade-Internacional-dos-Estados.pdf) foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário.
 
 # Elementos do Ato Internacionalmente Ilícito
 
@@ -31,7 +31,7 @@ Segundo o Artigo 2º do projeto da CDI, dois elementos constituem um ato interna
 A conduta pode ser atribuída ao Estado mesmo quando praticada por:
  - Órgãos de governo, qualquer que seja seu nível;
  - Pessoas ou entidades que exerçam funções públicas;
- - Grupos ou indivíduos agindo sob controle efetivo do Estado (como discutido no caso **Nicarágua v. EUA**, CIJ, 1986 [@cij_nicaragua_1986]).
+ - Grupos ou indivíduos agindo sob controle efetivo do Estado (como discutido no caso **Nicarágua v. EUA**, CIJ, 1986.
 
 ## Violação de Obrigação Internacional
 
@@ -57,7 +57,7 @@ Uma vez estabelecida a responsabilidade, surgem obrigações secundárias:
   - Indenização;
   - Satisfação.
 
-Exemplo: no caso **Alemanha v. Itália** (Jurisdictional Immunities, CIJ, 2012), a Corte reconheceu a violação, mas entendeu que a imunidade jurisdicional do Estado não pode ser afastada para fins de reparação [@cij_alemanha_italia_2012].
+Exemplo: no caso **Alemanha v. Itália** (Jurisdictional Immunities, CIJ, 2012), a Corte reconheceu a violação, mas entendeu que a imunidade jurisdicional do Estado não pode ser afastada para fins de reparação.
 
 # Responsabilidade por Violações Graves
 
@@ -66,7 +66,7 @@ O projeto da CDI também trata da responsabilidade por **violações graves de o
 - Proibição da escravidão;
 - Proibição da tortura.
 
-Tais obrigações possuem o caráter de **jus cogens**, sendo erga omnes, como no caso **Bélgica v. Senegal** (CIJ, 2012), sobre a obrigação de julgar ou extraditar autores de tortura [@cij_belgica_senegal_2012].
+Tais obrigações possuem o caráter de **jus cogens**, sendo erga omnes, como no caso **Bélgica v. Senegal** (CIJ, 2012), sobre a obrigação de julgar ou extraditar autores de tortura.
 
 # Papel da ONU e Responsabilidade Internacional
 
@@ -79,12 +79,3 @@ A ONU, por meio de suas resoluções e iniciativas, tem desempenhado papel impor
 # Considerações Finais
 
 A responsabilidade internacional é mecanismo essencial para garantir a eficácia do Direito Internacional, assegurando que obrigações jurídicas sejam acompanhadas de consequências em caso de violação. A jurisprudência da CIJ e os documentos da ONU são fontes fundamentais para compreender sua evolução e aplicação.
-
-# Leitura Recomendada
-
-- [@cdi_2001]
-- [@rezek_direito_2025]
-- [@gonzalez_hauck_public_2024]
-- [@cij_nicaragua_1986]
-- [@cij_alemanha_italia_2012]
-- [@cij_belgica_senegal_2012]

@@ -188,8 +188,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Semana 9
 
-**Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, parte II, cap. 3
+[**Notas de aula**](notas_9.html)  
+**Bibliografia:** @rezek_direito_2024, parte II, cap. 3; @gonzalez_hauck_public_2024, § 9 - pp. 333-346
 
 ## 14/04 - aula 9.1: responsabilidade internacional, p. 1
 
