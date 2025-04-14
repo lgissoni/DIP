@@ -1,0 +1,90 @@
+---
+title: "Aula 9 – Responsabilidade Internacional dos Estados"
+description: "Responsabilidade por atos internacionalmente ilícitos, jurisprudência da CIJ e papel da ONU"
+author:
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://www.zumbidospalmares.edu.br
+output: distill::distill_article
+date: "`r Sys.Date()`"
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+# Introdução
+
+A responsabilidade internacional dos Estados é um dos pilares do Direito Internacional contemporâneo. Trata-se do conjunto de normas que regulam as consequências jurídicas de um ato internacionalmente ilícito, ou seja, de um comportamento atribuído a um Estado que viola uma obrigação internacional.
+
+Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos **Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos** foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário [@cdi_2001].
+
+# Elementos do Ato Internacionalmente Ilícito
+
+Segundo o Artigo 2º do projeto da CDI, dois elementos constituem um ato internacionalmente ilícito:
+
+1. **Atribuição do ato ao Estado**, conforme regras de responsabilidade.
+2. **Violação de uma obrigação internacional**, vigente no momento da conduta.
+
+> "Há responsabilidade internacional sempre que um Estado pratica um ato ou omissão que viole uma norma jurídica internacional que lhe seja oponível e que cause prejuízo a outro sujeito de direito internacional" [@rezek_direito_2025].
+
+## Atribuição de Conduta ao Estado
+
+A conduta pode ser atribuída ao Estado mesmo quando praticada por:
+ - Órgãos de governo, qualquer que seja seu nível;
+ - Pessoas ou entidades que exerçam funções públicas;
+ - Grupos ou indivíduos agindo sob controle efetivo do Estado (como discutido no caso **Nicarágua v. EUA**, CIJ, 1986 [@cij_nicaragua_1986]).
+
+## Violação de Obrigação Internacional
+
+A violação deve ocorrer no momento em que o Estado está vinculado pela norma violada. A natureza da norma violada (tratado, costume, princípio geral) não altera a existência da responsabilidade.
+
+# Circunstâncias Excludentes da Ilicitude
+
+Nem todo ato que viola uma norma gera responsabilidade se houver uma **circunstância excludente da ilicitude**, como:
+- Consentimento do Estado lesado;
+- Legítima defesa (conforme Art. 51 da Carta da ONU);
+- Caso fortuito ou força maior;
+- Perigo extremo;
+- Estado de necessidade;
+- Contramedidas.
+
+# Consequências da Responsabilidade
+
+Uma vez estabelecida a responsabilidade, surgem obrigações secundárias:
+
+- **Cessar a violação** e garantir que não se repita;
+- **Reparar o dano**, o que pode ocorrer por:
+  - Restituição;
+  - Indenização;
+  - Satisfação.
+
+Exemplo: no caso **Alemanha v. Itália** (Jurisdictional Immunities, CIJ, 2012), a Corte reconheceu a violação, mas entendeu que a imunidade jurisdicional do Estado não pode ser afastada para fins de reparação [@cij_alemanha_italia_2012].
+
+# Responsabilidade por Violações Graves
+
+O projeto da CDI também trata da responsabilidade por **violações graves de obrigações fundamentais**, como:
+- Proibição do genocídio;
+- Proibição da escravidão;
+- Proibição da tortura.
+
+Tais obrigações possuem o caráter de **jus cogens**, sendo erga omnes, como no caso **Bélgica v. Senegal** (CIJ, 2012), sobre a obrigação de julgar ou extraditar autores de tortura [@cij_belgica_senegal_2012].
+
+# Papel da ONU e Responsabilidade Internacional
+
+A ONU, por meio de suas resoluções e iniciativas, tem desempenhado papel importante no reconhecimento de ilícitos internacionais. Destacam-se:
+
+- **Resolução 56/83 da Assembleia Geral da ONU**, que endossa os artigos da CDI;
+- Resoluções do Conselho de Segurança que impõem sanções por violações (como no caso do Iraque em 1990);
+- Criação de mecanismos de reparação e tribunais internacionais ad hoc.
+
+# Considerações Finais
+
+A responsabilidade internacional é mecanismo essencial para garantir a eficácia do Direito Internacional, assegurando que obrigações jurídicas sejam acompanhadas de consequências em caso de violação. A jurisprudência da CIJ e os documentos da ONU são fontes fundamentais para compreender sua evolução e aplicação.
+
+# Leitura Recomendada
+
+- [@cdi_2001]
+- [@rezek_direito_2025]
+- [@gonzalez_hauck_public_2024]
+- [@cij_nicaragua_1986]
+- [@cij_alemanha_italia_2012]
+- [@cij_belgica_senegal_2012]
