@@ -1,0 +1,107 @@
+---
+title: "Notas de aula 11"
+description: "Sucessão de Estados e Organizações Internacionais"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+# Introdução
+
+O fenômeno sucessório no Direito Internacional Público envolve situações em que ocorre a transmissão de direitos e obrigações entre sujeitos de direito internacional, especialmente Estados e organizações internacionais. No caso dos Estados, prevalece o princípio da continuidade, fundamentado na permanência do substrato físico (território e população), independentemente de transformações políticas. Para as organizações internacionais, não se aplica o mesmo princípio, pois sua existência depende exclusivamente da vontade de seus membros.
+
+# Continuidade do Estado
+
+O Estado, enquanto realidade material e jurídica, tende à continuidade mesmo diante de rupturas políticas ou institucionais. A existência de um povo, estabelecido em determinado território sob uma ordem jurídica, resiste à mera mudança de regime ou à substituição de autoridades. Assim, a continuidade refere-se à comunidade humana e à territorialidade, e não à forma específica de governo ou organização estatal.
+
+Exemplo histórico é a evolução dos antigos reinos ibéricos, como o Califado de Córdoba e o Reino de Navarra, que, após sucessivos processos de agregação e reorganização, integram atualmente o Estado espanhol.
+
+# Modalidades de Sucessão de Estados
+
+## Fusão ou Agregação
+
+Dois ou mais Estados se unem, formando uma nova soberania. Pode ocorrer de maneira igualitária ou sob hegemonia de um dos Estados. Exemplos:
+- **Unificação italiana (1860-1870)**: soma de diversas soberanias.
+- **União entre Egito e Síria (1958)**: formação da República Árabe Unida.
+- **Unificação da Alemanha (1990)**: incorporação da Alemanha Oriental pela Alemanha Ocidental.
+
+## Secessão ou Desmembramento
+
+Um Estado fragmenta-se, originando novas soberanias. Exemplos:
+- Dissolução da União Soviética (1991).
+- Desmembramento da Iugoslávia (1991-2006).
+- Divisão da Tchecoslováquia em República Tcheca e Eslováquia (1993).
+
+## Transferência Territorial
+
+Sem criação de novos Estados, parte do território é transferida de um Estado a outro.
+- **Compra do Alasca**: da Rússia para os EUA (1867).
+- **Transferência do Acre**: da Bolívia para o Brasil (1903).
+- **Alsácia-Lorena**: alternância entre França e Alemanha.
+
+# Efeitos Jurídicos da Sucessão
+
+## Nacionalidade
+
+Os habitantes adquirem a nacionalidade do novo Estado automaticamente, mas pode haver previsão para manutenção ou direito de opção, conforme tratado ou legislação aplicável.
+- **Exemplo**: direito de opção entre nacionalidade tcheca ou eslovaca após a dissolução da Tchecoslováquia.
+
+## Bens Públicos
+
+O Estado sucessor adquire o domínio sobre bens públicos (praças, ruas, edifícios públicos) situados no território sob sua soberania.
+
+Problemas surgem quanto a bens localizados no exterior, como ilustrado pela disputa entre Egito e Síria pelo antigo edifício da embaixada da República Árabe Unida no Brasil, resolvida com o arquivamento do processo no STF em razão da imunidade de jurisdição do Estado estrangeiro.
+
+## Tratados e Dívida Pública
+
+- **Agregação**: o novo Estado herda os tratados e dívidas dos predecessores.
+- **Desmembramento**: aplica-se o princípio da tabula rasa para tratados bilaterais, com possibilidade de sucessão em tratados multilaterais mediante notificação.
+
+A dívida é repartida considerando a destinação dos recursos: dívidas "odiosas", contraídas para reprimir movimentos de independência, não são transmitidas aos novos Estados.
+
+# Sucessão de Organizações Internacionais
+
+## Características
+
+A sucessão de organizações é facultativa e depende da vontade expressa dos Estados-membros. Pode envolver transferência de funções, patrimônio e obrigações.
+
+## Exemplos
+
+- **Sociedade das Nações → ONU**: a ONU herdou patrimônio e funções da antiga SDN.
+- **ALALC → ALADI**: sucessão expressa no Tratado de Montevidéu de 1980.
+
+Outras sucessões incluem a criação da OACI, OMS, UNESCO e OCDE.
+
+<div class="important" style="background-color: rgb(255, 241, 246); color: rgb(180, 50, 90); border-left: solid rgb(220, 90, 120) 4px; border-radius: 4px; padding: 0.7em;">
+<span>
+<p style="margin-top: 1em; text-align: center;"><b>Importante</b></p>
+<p style="margin-left: 1em;">
+O GATT não foi sucedido pela OMC, pois o GATT era apenas um tratado multilateral e continua vigente como parte do sistema da OMC.
+</p>
+</span>
+</div>
+
+
+
+# Quadro-Resumo
+
+| Tema | Definição | Exemplos |
+|:-----|:----------|:---------|
+| **Continuidade do Estado** | Persistência do Estado apesar de mudanças políticas. | Evolução dos reinos ibéricos → Espanha. |
+| **Fusão ou Agregação** | União de dois ou mais Estados em nova soberania. | Itália (1860-70), Alemanha (1990). |
+| **Secessão ou Desmembramento** | Fragmentação de um Estado em novos. | Dissolução da URSS (1991). |
+| **Transferência Territorial** | Passagem de território entre Estados preexistentes. | Alasca (1867), Acre (1903). |
+| **Nacionalidade** | Aquisição automática ou opção de nacionalidade. | Dissolução da Tchecoslováquia (1993). |
+| **Bens Públicos** | Domínio do sucessor sobre bens no território. | Disputa Egito x Síria no Brasil. |
+| **Tratados e Dívida Pública** | Herança ou renegociação de obrigações. | Dívidas odiosas excluídas. |
+| **Sucessão de Organizações** | Transferência de funções e bens entre organizações. | SDN → ONU, ALALC → ALADI.
+
+# Conclusão
+
+O estudo da sucessão internacional demonstra a importância da continuidade jurídica e material dos Estados, bem como a flexibilidade nas relações internacionais envolvendo organizações. Cada caso de sucessão deve ser analisado com atenção aos aspectos históricos, jurídicos e políticos específicos.
+

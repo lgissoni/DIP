@@ -15,7 +15,7 @@ csl: abnt.csl
 
 A responsabilidade internacional dos Estados é um dos pilares do Direito Internacional contemporâneo. Trata-se do conjunto de normas que regulam as consequências jurídicas de um ato internacionalmente ilícito, ou seja, de um comportamento atribuído a um Estado que viola uma obrigação internacional.
 
-Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos [**Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos**](resources/Projeto-da-CDI-sobre-Responsabilidade-Internacional-dos-Estados.pdf) foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário.
+Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos [**Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos**](resources/Projeto-da-CDI-sobre-Responsabilidade-Internacional-dos-Estados.pdf) foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário [@gonzalez_hauck_public_2024].
 
 # Elementos do Ato Internacionalmente Ilícito
 
@@ -29,6 +29,7 @@ Segundo o Artigo 2º do projeto da CDI, dois elementos constituem um ato interna
 ## Atribuição de Conduta ao Estado
 
 A conduta pode ser atribuída ao Estado mesmo quando praticada por:
+
  - Órgãos de governo, qualquer que seja seu nível;
  - Pessoas ou entidades que exerçam funções públicas;
  - Grupos ou indivíduos agindo sob controle efetivo do Estado (como discutido no caso **Nicarágua v. EUA**, CIJ, 1986.
@@ -40,6 +41,7 @@ A violação deve ocorrer no momento em que o Estado está vinculado pela norma 
 # Circunstâncias Excludentes da Ilicitude
 
 Nem todo ato que viola uma norma gera responsabilidade se houver uma **circunstância excludente da ilicitude**, como:
+
 - Consentimento do Estado lesado;
 - Legítima defesa (conforme Art. 51 da Carta da ONU);
 - Caso fortuito ou força maior;
@@ -62,6 +64,7 @@ Exemplo: no caso **Alemanha v. Itália** (Jurisdictional Immunities, CIJ, 2012),
 # Responsabilidade por Violações Graves
 
 O projeto da CDI também trata da responsabilidade por **violações graves de obrigações fundamentais**, como:
+
 - Proibição do genocídio;
 - Proibição da escravidão;
 - Proibição da tortura.

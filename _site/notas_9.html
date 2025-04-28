@@ -117,8 +117,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2025-04-14"/>
-  <meta property="article:created" itemprop="dateCreated" content="2025-04-14"/>
+  <meta property="article:published" itemprop="datePublished" content="2025-04-16"/>
+  <meta property="article:created" itemprop="dateCreated" content="2025-04-16"/>
   <meta name="article:author" content="Luccas Gissoni"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
@@ -136,10 +136,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--/radix_placeholder_meta_tags-->
   
   <meta name="citation_reference" content="citation_title=Direito internacional público: Curso elementar;citation_publisher=SaraivaJur;citation_author=Francisco Rezek"/>
+  <meta name="citation_reference" content="citation_title=Public International Law: A Multi-Perspective Approach;citation_publisher=Routledge;citation_doi=10.4324/9781003451327"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","output","date","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Aula 9 – Responsabilidade Internacional dos Estados"]},{"type":"character","attributes":{},"value":["Responsabilidade por atos internacionalmente ilícitos, jurisprudência da CIJ e papel da ONU"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","affiliation","affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]},{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]},{"type":"character","attributes":{},"value":["https://www.zumbidospalmares.edu.br"]}]}]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["2025-04-14"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","output","date","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Aula 9 – Responsabilidade Internacional dos Estados"]},{"type":"character","attributes":{},"value":["Responsabilidade por atos internacionalmente ilícitos, jurisprudência da CIJ e papel da ONU"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","affiliation","affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]},{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]},{"type":"character","attributes":{},"value":["https://www.zumbidospalmares.edu.br"]}]}]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["2025-04-16"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2333,7 +2334,32 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   strong {
       color: #ca225e; /* Ou outra cor da sua paleta */
-  }</style>
+  }
+
+  /* Caixa de aviso (warning) personalizada */
+
+  /* Caixa de aviso (warning) com texto mais suave */
+  .warning {
+    background-color: #fdf3f7;
+    color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
+    border-left: 4px solid #ca225e;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1.5em 0;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .warning p {
+    margin: 0.5em 0 0.5em 1em;
+  }
+  .warning p:first-child {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ca225e; /* título da caixa continua em destaque */
+  }
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2509,7 +2535,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Aula 9 – Responsabilidade Internacional dos Estados","description":"Responsabilidade por atos internacionalmente ilícitos, jurisprudência da CIJ e papel da ONU","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"https://www.zumbidospalmares.edu.br","orcidID":""}],"publishedDate":"2025-04-14T00:00:00.000-03:00","citationText":"Gissoni, 2025"}
+{"title":"Aula 9 – Responsabilidade Internacional dos Estados","description":"Responsabilidade por atos internacionalmente ilícitos, jurisprudência da CIJ e papel da ONU","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"https://www.zumbidospalmares.edu.br","orcidID":""}],"publishedDate":"2025-04-16T00:00:00.000-03:00","citationText":"Gissoni, 2025"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2577,7 +2603,7 @@ PAPs
 <div class="d-byline">
   Luccas Gissoni  (Universidade Zumbi dos Palmares)<a href="https://www.zumbidospalmares.edu.br" class="uri">https://www.zumbidospalmares.edu.br</a>
   
-<br/>2025-04-14
+<br/>2025-04-16
 </div>
 
 <div class="d-article">
@@ -2601,7 +2627,7 @@ PAPs
 </div>
 <h1 id="introdução">Introdução</h1>
 <p>A responsabilidade internacional dos Estados é um dos pilares do Direito Internacional contemporâneo. Trata-se do conjunto de normas que regulam as consequências jurídicas de um ato internacionalmente ilícito, ou seja, de um comportamento atribuído a um Estado que viola uma obrigação internacional.</p>
-<p>Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos <a href="resources/Projeto-da-CDI-sobre-Responsabilidade-Internacional-dos-Estados.pdf"><strong>Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos</strong></a> foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário.</p>
+<p>Este tema tem sido desenvolvido e codificado especialmente pela Comissão de Direito Internacional das Nações Unidas (CDI), cujos <a href="resources/Projeto-da-CDI-sobre-Responsabilidade-Internacional-dos-Estados.pdf"><strong>Projetos de Artigos sobre Responsabilidade do Estado por Atos Internacionalmente Ilícitos</strong></a> foram adotados em 2001 e são amplamente aceitos como refletindo o direito internacional consuetudinário <span class="citation" data-cites="gonzalez_hauck_public_2024">(<a href="#ref-gonzalez_hauck_public_2024" role="doc-biblioref">GONZÁLEZ HAUCK; KUNZ; MILAS, 2024</a>)</span>.</p>
 <h1 id="elementos-do-ato-internacionalmente-ilícito">Elementos do Ato Internacionalmente Ilícito</h1>
 <p>Segundo o Artigo 2º do projeto da CDI, dois elementos constituem um ato internacionalmente ilícito:</p>
 <ol type="1">
@@ -2612,20 +2638,24 @@ PAPs
 <p>“Há responsabilidade internacional sempre que um Estado pratica um ato ou omissão que viole uma norma jurídica internacional que lhe seja oponível e que cause prejuízo a outro sujeito de direito internacional” <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025</a>)</span>.</p>
 </blockquote>
 <h2 id="atribuição-de-conduta-ao-estado">Atribuição de Conduta ao Estado</h2>
-<p>A conduta pode ser atribuída ao Estado mesmo quando praticada por:
-- Órgãos de governo, qualquer que seja seu nível;
-- Pessoas ou entidades que exerçam funções públicas;
-- Grupos ou indivíduos agindo sob controle efetivo do Estado (como discutido no caso <strong>Nicarágua v. EUA</strong>, CIJ, 1986.</p>
+<p>A conduta pode ser atribuída ao Estado mesmo quando praticada por:</p>
+<ul>
+<li>Órgãos de governo, qualquer que seja seu nível;</li>
+<li>Pessoas ou entidades que exerçam funções públicas;</li>
+<li>Grupos ou indivíduos agindo sob controle efetivo do Estado (como discutido no caso <strong>Nicarágua v. EUA</strong>, CIJ, 1986.</li>
+</ul>
 <h2 id="violação-de-obrigação-internacional">Violação de Obrigação Internacional</h2>
 <p>A violação deve ocorrer no momento em que o Estado está vinculado pela norma violada. A natureza da norma violada (tratado, costume, princípio geral) não altera a existência da responsabilidade.</p>
 <h1 id="circunstâncias-excludentes-da-ilicitude">Circunstâncias Excludentes da Ilicitude</h1>
-<p>Nem todo ato que viola uma norma gera responsabilidade se houver uma <strong>circunstância excludente da ilicitude</strong>, como:
-- Consentimento do Estado lesado;
-- Legítima defesa (conforme Art. 51 da Carta da ONU);
-- Caso fortuito ou força maior;
-- Perigo extremo;
-- Estado de necessidade;
-- Contramedidas.</p>
+<p>Nem todo ato que viola uma norma gera responsabilidade se houver uma <strong>circunstância excludente da ilicitude</strong>, como:</p>
+<ul>
+<li>Consentimento do Estado lesado;</li>
+<li>Legítima defesa (conforme Art. 51 da Carta da ONU);</li>
+<li>Caso fortuito ou força maior;</li>
+<li>Perigo extremo;</li>
+<li>Estado de necessidade;</li>
+<li>Contramedidas.</li>
+</ul>
 <h1 id="consequências-da-responsabilidade">Consequências da Responsabilidade</h1>
 <p>Uma vez estabelecida a responsabilidade, surgem obrigações secundárias:</p>
 <ul>
@@ -2639,10 +2669,12 @@ PAPs
 </ul>
 <p>Exemplo: no caso <strong>Alemanha v. Itália</strong> (Jurisdictional Immunities, CIJ, 2012), a Corte reconheceu a violação, mas entendeu que a imunidade jurisdicional do Estado não pode ser afastada para fins de reparação.</p>
 <h1 id="responsabilidade-por-violações-graves">Responsabilidade por Violações Graves</h1>
-<p>O projeto da CDI também trata da responsabilidade por <strong>violações graves de obrigações fundamentais</strong>, como:
-- Proibição do genocídio;
-- Proibição da escravidão;
-- Proibição da tortura.</p>
+<p>O projeto da CDI também trata da responsabilidade por <strong>violações graves de obrigações fundamentais</strong>, como:</p>
+<ul>
+<li>Proibição do genocídio;</li>
+<li>Proibição da escravidão;</li>
+<li>Proibição da tortura.</li>
+</ul>
 <p>Tais obrigações possuem o caráter de <strong>jus cogens</strong>, sendo erga omnes, como no caso <strong>Bélgica v. Senegal</strong> (CIJ, 2012), sobre a obrigação de julgar ou extraditar autores de tortura.</p>
 <h1 id="papel-da-onu-e-responsabilidade-internacional">Papel da ONU e Responsabilidade Internacional</h1>
 <p>A ONU, por meio de suas resoluções e iniciativas, tem desempenhado papel importante no reconhecimento de ilícitos internacionais. Destacam-se:</p>
@@ -2655,6 +2687,9 @@ PAPs
 <p>A responsabilidade internacional é mecanismo essencial para garantir a eficácia do Direito Internacional, assegurando que obrigações jurídicas sejam acompanhadas de consequências em caso de violação. A jurisprudência da CIJ e os documentos da ONU são fontes fundamentais para compreender sua evolução e aplicação.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
+<div id="ref-gonzalez_hauck_public_2024" class="csl-entry" role="listitem">
+GONZÁLEZ HAUCK, S.; KUNZ, R.; MILAS, M. (EDS.). <strong><a href="https://doi.org/10.4324/9781003451327">Public <span>International</span> <span>Law</span>: <span>A</span> <span>Multi</span>-<span>Perspective</span> <span>Approach</span></a></strong>. 1. ed. London: Routledge, 2024.
+</div>
 <div id="ref-rezek_direito_2025" class="csl-entry" role="listitem">
 REZEK, F. <strong><a href="https://integrada.minhabiblioteca.com.br/reader/books/9788553624997/">Direito internacional público: curso elementar</a></strong>. 20. ed. São Paulo, SP: SaraivaJur, 2025.
 </div>
