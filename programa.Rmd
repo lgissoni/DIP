@@ -202,16 +202,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > 21/04 - feriado - Tiradentes
 
-## 23/04 - aula 10.1: o fenômeno sucessório
+## 23/04 - aula 10.1: correção da PAT 1
 
 # Semana 11
 
-**Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, parte III
+[**Notas de aula**](notas_11.html)  
+**Bibliografia:** @rezek_direito_2024, parte II, cap. 4;
 
-## 28/04 - aula 11.1: domínio público internacional: o mar e os rios
 
-## 30/04 - aula 11.2: domínio público internacional: o espaço
+## 28/04 - aula 11.1: o fenômeno sucessório
+
+[**PAP 2.1:** Caso prático – Sucessão de Estados](pap_21.html)  
+**Prazo:** 04/05
+
+## 30/04 - aula 11.2: domínio público internacional
 
 # Semana 12
 

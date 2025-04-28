@@ -1,25 +1,15 @@
 ---
-title: "Untitled"
+title: "PAP 2.1"
 description: |
-  A new article created using the Distill format.
+  Prazo: 04/05
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
 date: "`r Sys.Date()`"
 output: distill::distill_article
+bibliography: bibliografia.bib
+csl: abnt.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-Distill is a publication format for scientific and technical writing, native to the web. 
-
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
-
-
-
-
-
+O território \"Alfa\" foi cedido pelo Estado \"X\" ao Estado \"Y\". Após a transferência, os habitantes mantiveram a nacionalidade de \"X\". Analise essa situação à luz das normas sobre nacionalidade na sucessão de Estados.
