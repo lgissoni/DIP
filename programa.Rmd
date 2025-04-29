@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
   1. Apresentação do curso
   1. Leitura do programa
-  1. Características da sociedade internacional
+  1. Características da sociedade internacional: sociedade descentralizada ou anárquica?
   
 **PAP 1.1:** Questão-problema: não havendo, no plano internacional, autoridade superior aos Estados, onde repousa o direito internacional público?   
 **Prazo:** 16/02
@@ -34,22 +34,28 @@ knitr::opts_chunk$set(echo = FALSE)
 [**Notas de aula**](notas_2.html)  
 **Bibliografia:** @grieco_introduction_2015, cap. 3; @rezek_direito_2024, introdução
 
-## 17/02 - aula 2.1: o fundamento do direito internacional público
+## 17/02 - aula 2.1: breve introdução às teorias das relações internacionais
 
-  1. Sociedade descentralizada ou anárquica?
-      a. Sociedade descentralizada
-      a. Uma palavra sobre anarquia nas relações internacionais
-  1. O fundamento do direito internacional público
+  1. Breve introdução às teorias das relações internacionais
+      a. Realismo
+          i. Pressupostos
+          i. Proposições
+      a. Liberalismo
+          i. Pressupostos
+          i. Proposições
   
 [**PAP 1.2:** O fim da história?](pap_12.html)  
 **Prazo:** 23/02
 
-## 19/02 - aula 2.2: confronto entre direito internacional e direito interno
+## 19/02 - aula 2.2: o fundamento do direito internacional público
 
-  1. Dualismo
-  1. Monismo
-      a. Monismo internacionalista
-      a. Monismo nacionalista
+  1. Sociedade descentralizada e direito internacional
+  1. O fundamento do direito internacional público
+  1. Confronto entre direito internacional e direito interno  
+      a. Dualismo  
+      a. Monismo
+          i. Monismo internacionalista  
+          i. Monismo nacionalista  
 
 # Semana 3
 
@@ -102,6 +108,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 12/03 - aula 4.2: fontes do direito internacional público: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação
 
+  1. Costume
+      a. Elementos
+          i. Elemento material
+          i. Elemento subjetivo
+
 [**Notas de aula**](notas_42.html)  
 **Bibliografia:** @rezek_direito_2024, parte I, caps. 2 e 3
 
@@ -110,7 +121,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [**Notas de aula**](notas_5.html)  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 1
 
-## 17/03 - aula 5.1: o Estado: território, p. 1
+## 17/03 - aula 5.1: o Estado: território, parte 1
 
   1. Introdução
   1. Jurisdição ou competência
@@ -119,7 +130,7 @@ knitr::opts_chunk$set(echo = FALSE)
   1. Aquisição e perda de território, p.1
       a. Descoberta - ocupação: *terra nullius*
 
-## 19/03 - aula 5.2: o Estado: território, p. 2
+## 19/03 - aula 5.2: o Estado: território, parte 2
 
   1. Aquisição e perda de território, p.2
       a. Conquista
@@ -162,18 +173,17 @@ knitr::opts_chunk$set(echo = FALSE)
 [**Notas de aula**](notas_8.html)    
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 2
 
-## 07/04 - aula 8.1: organizações internacionais, p. 1
+## 07/04 - aula 8.1: organizações internacionais, parte 1
 
   1. Introdução
-  1. Teoria geral
-      a. Personalidade jurídica
-      a. Órgãos
-          i. Assembleia Geral
-          i. Secretaria
-          i. Conselho permanente
-          i. Outros órgãos
+  1. Personalidade jurídica
+  1. Órgãos
+      a. Assembleia Geral
+      a. Secretaria
+      a. Conselho permanente
+      a. Outros órgãos
 
-## 09/04 - aula 8.2: organizações internacionais, p. 2
+## 09/04 - aula 8.2: organizações internacionais, parte 2
 
   1. Sede da organização
   1. Representação, garantias, imunidades
@@ -182,6 +192,8 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Limites de abertura do tratado institucional
       a. Adesão ao tratado institucional
       a. Beneplácito à adesão
+  1. Sanções
+      a. Suspensão da condição de membro da organização
 
 [**PAP 1.4:** Questão Questão Dissertativa – Admissão de Estados à ONU](pap_14.html)  
 **Prazo:** 13/04
@@ -191,14 +203,22 @@ knitr::opts_chunk$set(echo = FALSE)
 [**Notas de aula**](notas_9.html)  
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 3; @gonzalez_hauck_public_2024, § 9 - pp. 333-346
 
-## 14/04 - aula 9.1: responsabilidade internacional, p. 1
+## 14/04 - aula 9.1: responsabilidade internacional, parte 1
 
-## 16/04 - aula 9.2: responsabilidade internacional, p. 2
+  1. Introdução
+  1. Elementos do Ato Internacionalmente Ilícito
+      a. Atribuição de Conduta ao Estado
+      a. Violação de Obrigação Internacional
+  1. Circunstâncias Excludentes da Ilicitude
+
+## 16/04 - aula 9.2: responsabilidade internacional, parte 2
+
+  1. Consequências da Responsabilidade
+  1. Responsabilidade por Violações Graves
+  1. Papel da ONU e Responsabilidade Internacional
+  1. Considerações Finais
 
 # Semana 10
-
-**Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, parte II, cap. 4
 
 > 21/04 - feriado - Tiradentes
 
@@ -210,21 +230,85 @@ knitr::opts_chunk$set(echo = FALSE)
 **Bibliografia:** @rezek_direito_2024, parte II, cap. 4;
 
 
-## 28/04 - aula 11.1: o fenômeno sucessório
+## 28/04 - aula 11.1: sucessão de Estados e organizações internacionais
+
+  1. Introdução
+  1. Princípio da Continuidade do Estado
+  1. Modalidades de Sucessão de Estados
+      a. Fusão ou Agregação
+      a. Secessão ou Desmembramento
+      a. Transferência Territorial
+  1. Efeitos Jurídicos da Sucessão
+      a. Nacionalidade
+      a. Bens Públicos
+      a. Tratados e Dívida Pública
+  1. Sucessão de Organizações Internacionais
+      a. Características
+      a. Exemplos
 
 [**PAP 2.1:** Caso prático – Sucessão de Estados](pap_21.html)  
 **Prazo:** 04/05
 
-## 30/04 - aula 11.2: domínio público internacional
+## 30/04 - aula 11.2: a guerra frente ao direito internacional contemporâneo
+
+[**Notas de aula**](notas_112.html)  
+**Bibliografia:** @rezek_direito_2024, parte IV, cap. 2;
+
+  1. Introdução: jus in bello
+  1. Direito anterior à proscrição da guerra
+      a. Velhas regras costumeiras
+      a. Codificação: primeiros passos
+      a. O direito da Haia: guerra e neutralidade
+  1. Evolução da norma proibitiva da guerra (1919-1945)
+      a. Pacto da SDN: o prazo moratório
+      a. Pacto Briand-Kellog: a renúncia
+      a. Carta das Nações Unidas: a proibição formal e extensiva
+  1. Direito superveniente à proscrição da guerra
+      a. O direito de Genebra: um imperativo humanitário
+      a. Desarmamento e outros temas de trato recente
+      a. Guerra total: hoje um falso problema
 
 # Semana 12
 
 **Notas de aula**  
 **Bibliografia:** @rezek_direito_2024, parte IV, cap. 1
 
-## 05/05 - aula 12.1: solução pacífica de controvérsias, p. 1
+## 05/05 - aula 12.1: solução pacífica de controvérsias, parte 1
 
-## 07/05 - aula 12.2: solução pacífica de controvérsias, p. 2
+  1. Introdução: evolução dos meios
+  1. Meios diplomáticos
+      a. O entendimento direto em sua forma simples
+      a. Bons ofícios
+      a. Sistema de consultas
+      a. Mediação
+      a. Conciliação
+      a. Inquérito: uma preliminar instância
+  1. Meios políticos
+      a. Órgãos políticos das Nações Unidas
+      a. Esquemas regionais e especializados
+
+## 07/05 - aula 12.2: solução pacífica de controvérsias, parte 2
+
+  1. Meios jurisdicionais
+      a. Conceito
+      a. A arbitragem
+          i. Jurisdição ad hoc
+          i. Árbitros e tribunais arbitrais
+          i. A Corte Permanente de Arbitragem
+          i. Base jurídica da arbitragem
+          i. Carência de executoriedade
+      a. A solução judiciária
+          i. Uma opção soberana
+          i. Uma história recente
+          i. A Corte da Haia: duas fases
+          i. 1945: a ressureição da Corte
+          i. Juízes da Corte da Haia
+          i. Competência contenciosa
+          i. Cláusula facultativa de jurisdição obrigatória
+          i. Linhas gerais do procedimento
+          i. Natureza do acórdão
+          i. Competência consultiva
+          i. Cortes regionais e especializadas
 
 # Semana 13 - acadêmica
 
@@ -233,11 +317,58 @@ knitr::opts_chunk$set(echo = FALSE)
 # Semana 14
 
 **Notas de aula**  
-**Bibliografia:** @rezek_direito_2024, parte IV, cap. 2
+**Bibliografia:** @rezek_direito_2024, parte III
 
-## 19/05 - aula 14.1: a guerra frente ao direito internacional, p. 1
+## 19/05 - aula 14.1: domínio público internacional, parte 1
 
-## 21/05 - aula 14.2: a guerra frente ao direito internacional, p. 2
+  1. Proposição da matéria
+  1. O polo norte
+  1. A Antártica
+  1. O mar
+      a. Codificação do direito costumeiro
+      a. Navios: noção e espécies
+      a. Águas interiores, mar territprial e zona contígua
+          i. Variedade das águas interiores
+          i. Regime jurídico
+          i. Mar territorial: natureza e regime jurídico
+          i. Mar territoria: extensão
+          i. Mar territorial: delimitação
+          i. Zona contígua
+      a. Zona econômica exclusiva
+          i. Entendimento
+          i. Direitos do Estado costeiro
+          i. Direitos da comunidade
+      a. Plataforma continental e fundos marinhos
+          i. Regime jurídico da plataforma continental
+          i. Regime jurídico dos fundos marinhos
+      a. Alto-mar
+          i. Princípio da liberdade
+          i. Restrições à liberdade
+          i. Disciplina da navegação
+      a. Trânsito marítimo: estreitos e canais
+          i. Estreitos: algumas normas gerais
+          i. Canais: regimes singulares
+
+## 21/05 - aula 14.2: domínio público internacional, parte 2
+
+  1. Rios internacionais
+      a. Conceito
+      a. Alguns princípios
+          i. Um direito casuístico
+      a. Regimes fluviais singulares
+          i. Rios da América do Sul
+          i. Outros regimes
+  1. O espaço
+      a. distinção prelimnar
+      a. O espaço aéreo
+          i. Princípios elementares
+          i. Normas convencionais
+          i. Nacionalidade das aeronaves
+          i. O sistema das cinco liberdades
+          i. Segurança no tráfego aéreo
+      a. O espaço extra-atmosférico
+          i. Gênese das normas
+          i. Cooperação e pacifismo relativo
 
 # Semana 15
 
