@@ -15,7 +15,7 @@ csl: abnt.csl
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Semana 1
+## Semana 1
 
 [**Notas de aula**](notas_1.html)  
 **Bibliografia:** @rezek_direito_2024, introdução
@@ -251,7 +251,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 30/04 - aula 11.2: a guerra frente ao direito internacional contemporâneo
 
-[**Notas de aula**](notas_112.html)  
+[**Notas de aula**](notas_11_2.html)  
 **Bibliografia:** @rezek_direito_2024, parte IV, cap. 2;
 
   1. Introdução: jus in bello
