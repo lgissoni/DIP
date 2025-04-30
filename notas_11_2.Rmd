@@ -1,0 +1,116 @@
+---
+title: "Notas de aula 11.2"
+description: "A guerra frente ao direito internacional contemporâneo"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+## Introdução
+
+Ao longo da história, a guerra passou de prática legítima entre soberanias a uma conduta repudiada pela ordem internacional. O Direito Internacional Contemporâneo consolidou mecanismos normativos que restringem — e em regra proíbem — o uso da força, tanto entre Estados quanto no interior deles. A seguir, traça-se esse percurso, com destaque para os marcos normativos e institucionais centrais.
+
+## 1. Jus in bello: o direito aplicável durante a guerra
+
+O *jus in bello*, ou direito da guerra, regula a conduta das partes durante o conflito armado. Trata-se de um ramo tradicional do direito das gentes, distinto do *jus ad bellum* (direito de fazer a guerra). A distinção é relevante: mesmo guerras ilegítimas devem respeitar o *jus in bello*, preservando um mínimo de humanidade no conflito.
+
+A noção de guerra justa atravessou séculos de pensamento jurídico e filosófico. Santo Agostinho defendia que seria justa a guerra movida por desígnio divino ou para reparar injúrias[^1]. No entanto, com o tempo, consolidou-se a percepção de que o direito aplicável ao conflito não pode depender da justiça da causa. Assim, a guerra justa ainda é referida no léxico diplomático, mas hoje tem uso restrito: designa, por exemplo, a legítima defesa ou a luta de povos colonizados por sua autodeterminação [@rezek_direito_2025].
+
+<div class="warning" style='background-color: rgb(255, 235, 238); color: rgb(136, 0, 27); border-left: solid rgb(245, 0, 87) 4px; border-radius: 4px; padding:0.8em; margin-bottom: 1em'>
+<span>
+<b>📌 Para saber mais: jus in bello vs. jus ad bellum</b><br>
+O <i>jus ad bellum</i> diz respeito à licitude do recurso à guerra; o <i>jus in bello</i>, à limitação dos métodos e meios de combate, independentemente da justiça da guerra.
+</span></div>
+
+## 2. O direito da guerra antes da proibição da guerra
+
+### 2.1 Regras costumeiras e codificação humanitária
+
+A partir do século XVI, acordos entre chefes militares passaram a estabelecer práticas mais humanas, como a devolução de feridos e a proteção de hospitais, prisioneiros e civis. A codificação dessas normas começa no século XIX, com marcos como:
+
+- Declaração de Paris (1856): proibiu o corso e protegeu navios neutros;
+- Declaração de São Petersburgo (1868): proibiu armas que causassem sofrimento desnecessário;
+- Convenção de Genebra (1864): resultado dos esforços de Henry Dunant após a batalha de Solferino, essa convenção transformou normas costumeiras em direito positivo, incluindo o uso da cruz vermelha como símbolo de proteção @rezek_direito_2025.
+
+<div class="warning" style='background-color: rgb(255, 235, 238); color: rgb(136, 0, 27); border-left: solid rgb(245, 0, 87) 4px; border-radius: 4px; padding:0.8em; margin-bottom: 1em'>
+<span>
+<b>⚠️ Atenção: início do Direito Humanitário</b><br>
+A Convenção de Genebra de 1864 marca o nascimento formal do Direito Internacional Humanitário moderno, com foco na proteção de vítimas da guerra.
+</span></div>
+
+### 2.2 O Direito da Haia
+
+As Conferências da Haia de 1899 e 1907 produziram convenções sobre guerra terrestre e marítima. Introduziram proibições de balões explosivos, gases asfixiantes e sistematizaram a neutralidade dos Estados. Os três princípios do Direito da Haia:
+
+- *Ratione personae*: proteção de não combatentes;
+- *Ratione loci*: limitação aos alvos militares;
+- *Ratione conditionis*: proibição de métodos que causem sofrimento excessivo @rezek_direito_2025.
+
+## 3. Evolução da norma proibitiva da guerra (1919–1945)
+
+- **Pacto da SDN (1919)**: não proibiu a guerra, mas impôs um prazo moratório de 3 meses para tentativas pacíficas de resolução @rezek_direito_2025.
+- **Pacto Briand-Kellog (1928)**: condenou expressamente a guerra como instrumento de política internacional.
+- **Carta das Nações Unidas (1945)**: consagrou a proibição formal do uso da força, inclusive a sua ameaça (art. 2º, §4º), com exceção da legítima defesa e das ações autorizadas pelo Conselho de Segurança.
+
+<div class="warning" style='background-color: rgb(255, 235, 238); color: rgb(136, 0, 27); border-left: solid rgb(245, 0, 87) 4px; border-radius: 4px; padding:0.8em; margin-bottom: 1em'>
+<span>
+<b>📌 Para saber mais: Carta da ONU</b><br>
+Ao evitar a palavra “guerra” e preferir a expressão “uso da força”, a Carta amplia o campo de proibição e adapta-se a novas formas de violência interestatal.
+</span></div>
+
+## 4. Retorsão e represálias
+
+- **Retorsão**: resposta lícita, mas pouco amistosa, a ato igualmente lícito (ex.: imposição de tarifas).
+- **Represália**: resposta ilícita a um ato ilícito, como retaliação armada. Rezek lembra que, embora juridicamente reprováveis, represálias ainda ocorrem quando os mecanismos coletivos de segurança falham @rezek_direito_2025.
+
+## 5. Direito superveniente à proscrição da guerra
+
+### 5.1 Convenções de Genebra (1949)
+
+Atualizam o direito humanitário com quatro convenções principais, que tratam de:
+
+- Proteção de feridos, náufragos e enfermos;
+- Tratamento dos prisioneiros de guerra;
+- Proteção da população civil.
+
+Incluem também um artigo comum aplicável a conflitos internos (art. 3º), além dos **Protocolos Adicionais de 1977**, que:
+
+- Reforçam a proteção de civis e bens;
+- Incluem guerras de libertação nacional como conflitos internacionais;
+- Ampliam garantias em guerras civis @rezek_direito_2025.
+
+### 5.2 Desarmamento
+
+A ONU e outras organizações promoveram tratados sobre:
+
+- **Armas químicas (1993)**: proibição quase universal, com exceções notórias como Israel, Egito e Coreia do Norte;
+- **Armas nucleares**: destaque para o TNP (1968), Tratado de Tlatelolco (1967) e os tratados bilaterais START (1991 e 1993);
+- **Armas bacteriológicas e minas terrestres**: restrição por tratados em 1972 e 1981.
+
+## 6. Guerra total: um problema superado?
+
+A ideia de “guerra total”, usada por regimes como o Terceiro Reich para justificar a violação do direito internacional, perdeu relevância. Winston Churchill, em 1944, admitia que os vencedores da Segunda Guerra não se sentiriam vinculados por normas jurídicas ao fim das hostilidades[^2].
+
+No entanto, uma guerra total moderna teria consequências devastadoras para a humanidade, o que motivou o repúdio generalizado ao uso real do armamento nuclear.
+
+<div class="warning" style='background-color: rgb(255, 235, 238); color: rgb(136, 0, 27); border-left: solid rgb(245, 0, 87) 4px; border-radius: 4px; padding:0.8em; margin-bottom: 1em'>
+<span>
+<b>⚠️ Atenção: limites da violência contemporânea</b><br>
+A guerra do século XXI tende a assumir formas mais localizadas, assimétricas e irregulares — o que reforça a importância das normas humanitárias como proteção mínima dos vulneráveis.
+</span></div>
+
+## Referências complementares
+
+[^1]: Agostinho. *A cidade de Deus*, livro I, cap. 21 e livro XIX, cap. 7.
+[^2]: Discurso de Churchill na Câmara dos Comuns, 22 fev. 1944. Apud @rezek_direito_2025.
+
+
+
+
+
+
