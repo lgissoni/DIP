@@ -35,7 +35,7 @@ A partir do século XVI, acordos entre chefes militares passaram a estabelecer p
 
 - Declaração de Paris (1856): proibiu o corso e protegeu navios neutros;
 - Declaração de São Petersburgo (1868): proibiu armas que causassem sofrimento desnecessário;
-- Convenção de Genebra (1864): resultado dos esforços de Henry Dunant após a batalha de Solferino, essa convenção transformou normas costumeiras em direito positivo, incluindo o uso da cruz vermelha como símbolo de proteção @rezek_direito_2025.
+- Convenção de Genebra (1864): resultado dos esforços de Henry Dunant após a batalha de Solferino, essa convenção transformou normas costumeiras em direito positivo, incluindo o uso da cruz vermelha como símbolo de proteção [@rezek_direito_2025].
 
 <div class="warning" style='background-color: rgb(255, 235, 238); color: rgb(136, 0, 27); border-left: solid rgb(245, 0, 87) 4px; border-radius: 4px; padding:0.8em; margin-bottom: 1em'>
 <span>
@@ -49,11 +49,11 @@ As Conferências da Haia de 1899 e 1907 produziram convenções sobre guerra ter
 
 - *Ratione personae*: proteção de não combatentes;
 - *Ratione loci*: limitação aos alvos militares;
-- *Ratione conditionis*: proibição de métodos que causem sofrimento excessivo @rezek_direito_2025.
+- *Ratione conditionis*: proibição de métodos que causem sofrimento excessivo [@rezek_direito_2025].
 
 ## 3. Evolução da norma proibitiva da guerra (1919–1945)
 
-- **Pacto da SDN (1919)**: não proibiu a guerra, mas impôs um prazo moratório de 3 meses para tentativas pacíficas de resolução @rezek_direito_2025.
+- **Pacto da SDN (1919)**: não proibiu a guerra, mas impôs um prazo moratório de 3 meses para tentativas pacíficas de resolução [@rezek_direito_2025].
 - **Pacto Briand-Kellog (1928)**: condenou expressamente a guerra como instrumento de política internacional.
 - **Carta das Nações Unidas (1945)**: consagrou a proibição formal do uso da força, inclusive a sua ameaça (art. 2º, §4º), com exceção da legítima defesa e das ações autorizadas pelo Conselho de Segurança.
 
@@ -66,7 +66,7 @@ Ao evitar a palavra “guerra” e preferir a expressão “uso da força”, a 
 ## 4. Retorsão e represálias
 
 - **Retorsão**: resposta lícita, mas pouco amistosa, a ato igualmente lícito (ex.: imposição de tarifas).
-- **Represália**: resposta ilícita a um ato ilícito, como retaliação armada. Rezek lembra que, embora juridicamente reprováveis, represálias ainda ocorrem quando os mecanismos coletivos de segurança falham @rezek_direito_2025.
+- **Represália**: resposta ilícita a um ato ilícito, como retaliação armada. Rezek lembra que, embora juridicamente reprováveis, represálias ainda ocorrem quando os mecanismos coletivos de segurança falham [@rezek_direito_2025].
 
 ## 5. Direito superveniente à proscrição da guerra
 
@@ -82,7 +82,7 @@ Incluem também um artigo comum aplicável a conflitos internos (art. 3º), alé
 
 - Reforçam a proteção de civis e bens;
 - Incluem guerras de libertação nacional como conflitos internacionais;
-- Ampliam garantias em guerras civis @rezek_direito_2025.
+- Ampliam garantias em guerras civis [@rezek_direito_2025].
 
 ### 5.2 Desarmamento
 
@@ -103,8 +103,6 @@ No entanto, uma guerra total moderna teria consequências devastadoras para a hu
 <b>⚠️ Atenção: limites da violência contemporânea</b><br>
 A guerra do século XXI tende a assumir formas mais localizadas, assimétricas e irregulares — o que reforça a importância das normas humanitárias como proteção mínima dos vulneráveis.
 </span></div>
-
-## Referências complementares
 
 [^1]: Agostinho. *A cidade de Deus*, livro I, cap. 21 e livro XIX, cap. 7.
 [^2]: Discurso de Churchill na Câmara dos Comuns, 22 fev. 1944. Apud @rezek_direito_2025.
