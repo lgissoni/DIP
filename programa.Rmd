@@ -246,7 +246,7 @@ knitr::opts_chunk$set(echo = FALSE)
       a. Características
       a. Exemplos
 
-[**PAP 2.1:** Caso prático – Sucessão de Estados](pap_21.html)  
+[**PAP 2.1:** Caso prático – sucessão de Estados](pap_21.html)  
 **Prazo:** 04/05
 
 ### 30/04 - aula 11.2: a guerra frente ao direito internacional contemporâneo
@@ -309,10 +309,16 @@ knitr::opts_chunk$set(echo = FALSE)
           i. Natureza do acórdão
           i. Competência consultiva
           i. Cortes regionais e especializadas
+          
+[**PAP 2.2:** Caso prático – solução pacífica de controvérsias](pap_22.html)  
+**Prazo:** 11/05
 
 ## Semana 13 - acadêmica
 
 > 12/05 a 16/05 - semana acadêmica
+
+[**PAP 2.3:** Caso prático – resumo do semestre](pap_23.html)  
+**Prazo:** 18/05
 
 ## Semana 14
 
@@ -369,6 +375,9 @@ knitr::opts_chunk$set(echo = FALSE)
       a. O espaço extra-atmosférico
           i. Gênese das normas
           i. Cooperação e pacifismo relativo
+          
+[**PAP 2.4:** Caso prático – domínio público internacional](pap_24.html)  
+**Prazo:** 01/06
 
 ## Semana 15
 
