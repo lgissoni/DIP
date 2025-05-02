@@ -90,16 +90,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 2em !important;
+  font-size: 2em !important;
 }
 
 h2 {
-    font-size: 1.5em !important;
+  font-size: 1.5em !important;
 }
 
 h3 {
-    font-size: 1.2em !important;
+  font-size: 1.2em !important;
 }
+
+h4 {
+  font-size: 1em !important;
+  font-weight: 1700; /* Negrito para se destacar */
+}
+
+h5 {
+  font-size: 1em !important;
+}
+
 
 
 .distill-site-header .logo img{
