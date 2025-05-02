@@ -166,7 +166,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Semana 7
 
-> 31/03 a 04/04 - período de realização do processo de avaliação teórico 1 - PAT-1
+### 31/03 - processo de avaliação teórico 1
 
 ## Semana 8
 
@@ -381,12 +381,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Semana 15
 
-> 26/05 a 30/05 - período de realização do processo de avaliação teórico 2 - PAT-2
+### 26/06 - processo de avaliação teórico 2
+
+### 28 - caso prático - domínio público internacional
 
 ## Semana 16
 
-> 02/06 a 06/06 - período de realização de avaliações substitutivas
+### 02/06 - avaliação substitutiva
+
+### 04/06 - encerramento
 
 ## Semana 17
 
-> 09/06 a 13/06 - período de realização da avaliação final - exame
+### 09/06 - avaliação final - exame
