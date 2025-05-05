@@ -1,0 +1,172 @@
+---
+title: "Aula 12 – Solução pacífica de controvérsias"
+description: "Notas de aula – Semana de 05 a 07 de maio"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+# Introdução
+
+A pacificação das controvérsias é uma das finalidades permanentes do Direito Internacional. A Carta das Nações Unidas, em seu Art. 2º, §3º, impõe aos Estados o dever de buscar meios pacíficos para resolver suas disputas, afastando o uso da força. O desenvolvimento desses mecanismos acompanha a própria história da sociedade internacional.
+
+Segundo Rezek, “o aparecimento de mecanismos pacíficos acompanha a própria história do direito internacional” [@rezek_direito_2024, p. 443], e sua evolução está ligada à tentativa de civilizar o conflito entre Estados. Como observa Shaw, o sistema contemporâneo reconhece uma pluralidade de instrumentos, mas ainda depende, em larga medida, da vontade soberana dos Estados [@shaw_international_2021].
+
+Nesta aula, exploramos os **meios diplomáticos, políticos e jurisdicionais** previstos pelo Direito Internacional. Além da exposição técnica, incluímos também o debate crítico sobre sua efetividade e seus limites, com apoio nas doutrinas de Cassese, Chimni, Gaeta, Shaw, Rezek, Accioly e TWAIL.
+
+# Meios diplomáticos e políticos
+
+## Entendimento direto
+
+A forma mais primária e desformalizada de solução pacífica. Duas partes, sem intermediação de terceiros, buscam ajustar suas posições por meio do diálogo bilateral, seja por canais diplomáticos ou políticos. Em termos jurídicos, caracteriza-se por ser um procedimento voluntário, flexível e não institucionalizado.
+
+Esse tipo de mecanismo pode assumir a forma de reuniões de cúpula, notas diplomáticas, visitas de chefes de Estado ou ministros, e acordos informais.
+
+> “O entendimento direto traduz a soberania dos Estados ao permiti-los resolver seus desacordos sem sujeição a qualquer fórmula institucional ou decisão heterônoma.”  
+> [@accioly_manual_2023, p. 445]
+
+Contudo, como observa Gaeta, essa informalidade pode levar à perpetuação da desigualdade nas relações interestatais, sobretudo entre países do Norte e do Sul global [@gaeta_casseses_2020].
+
+## Bons ofícios
+
+São definidos como a atuação de um terceiro — geralmente um Estado, organização internacional ou figura pública — que busca aproximar as partes e criar as condições iniciais para o diálogo. Os bons ofícios não envolvem a proposição de soluções, mas apenas o estímulo à negociação.
+
+### Exemplo: Indonésia e o processo de independência de Timor-Leste
+
+Durante os anos 1990, a Indonésia, sob crescente pressão internacional, aceitou mediação da ONU e envolvimento de Portugal como potência administradora, até que se formalizasse o referendo que levou à independência timorense em 2002. A atuação da ONU nesse período combinou bons ofícios com supervisão política e institucional, conforme reconhecido na Resolução 1246 do Conselho de Segurança.
+
+<div class="warning">
+  <p><b>Para saber mais:</b></p>
+  <p>A Resolução 1246 do CSNU estabeleceu a UNAMET (Missão das Nações Unidas em Timor-Leste), responsável por conduzir o referendo que culminou com a independência do país. [https://undocs.org/S/RES/1246(1999)]</p>
+</div>
+
+## Sistema de consultas
+
+Esse meio aparece especialmente no campo econômico e comercial. Está previsto em diversos tratados internacionais como mecanismo preventivo de litígios.
+
+> “Os sistemas de consultas diplomáticas visam esgotar canais bilaterais antes da abertura de um contencioso institucional”  
+> [@rezek_direito_2024, p. 449]
+
+### Exemplo: OMC
+
+A OMC exige, como etapa preliminar antes do contencioso formal, que as partes realizem consultas sob supervisão do Órgão de Solução de Controvérsias. Muitas disputas são solucionadas já nessa fase.
+
+<div class="warning">
+  <p><b>Para saber mais:</b></p>
+  <p>O sistema de consultas da OMC é regido pelos artigos 4 e 5 do Entendimento sobre Solução de Controvérsias. Ver guia oficial: https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c6s2p1_e.htm</p>
+</div>
+
+## Mediação
+
+A mediação implica um papel mais ativo do terceiro, que propõe soluções, formula termos e atua como intermediador substancial entre os Estados.
+
+### Exemplo: Canal de Beagle
+
+A mediação do Papa João Paulo II foi decisiva para resolver a disputa entre Argentina e Chile sobre a soberania das ilhas Picton, Lennox e Nueva (1978–1984). A iminência do conflito armado foi evitada por meio de negociações sob patrocínio da Santa Sé, culminando no Tratado de Paz e Amizade.
+
+<div class="warning">
+  <p><b>Para saber mais:</b></p>
+  <p>O caso do Canal de Beagle é exemplo paradigmático de mediação bem-sucedida. Ver documentação oficial da Santa Sé: [http://www.vatican.va/roman_curia/secretariat_state/1984/documents/rc_seg-st_19841129_trattato-pacificazione-argent-cile_sp.html]</p>
+</div>
+
+## Conciliação
+
+A conciliação consiste na constituição de uma comissão mista que analisa os fatos, ouve as partes, e formula uma proposta de solução — sem caráter vinculante.
+
+A Comissão de Conciliação Brasil-França, nos anos 1930, para resolver um litígio sobre nacionalidade, foi uma das primeiras experiências latino-americanas do gênero.
+
+## Inquérito
+
+O inquérito internacional tem natureza técnica: visa apurar objetivamente os fatos que originaram a controvérsia, fornecendo subsídios para uma eventual mediação ou julgamento.
+
+### Exemplo: Dogger Bank (Rússia x Reino Unido, 1904)
+
+Durante a guerra russo-japonesa, a frota russa atacou pesqueiros britânicos, pensando tratar-se de embarcações japonesas. Foi instaurada uma comissão internacional de inquérito sob os auspícios da Convenção de Haia de 1899, concluindo que a Rússia havia agido com negligência.
+
+---
+
+# Meios jurisdicionais
+
+## Arbitragem
+
+A arbitragem é um mecanismo jurisdicional com base no consentimento prévio das partes, onde juízes (árbitros) são escolhidos ad hoc. A decisão arbitral tem força obrigatória, mas sua execução depende da vontade dos Estados.
+
+> “A arbitragem é mais flexível que a judicialização, mas compartilha com esta a exigência de cláusula compromissória ou compromisso especial.”  
+> [@shaw_international_2021]
+
+<div class="complementar">
+  <p><b>Trecho doutrinário – Gaeta et al.:</b></p>
+  <p>“Despite its apparent neutrality, arbitration has historically privileged the interests of dominant powers, which have both the legal expertise and political leverage to shape arbitral outcomes. This asymmetry results in a system where developing countries often find themselves at a disadvantage, both procedurally and substantively.” [@gaeta_casseses_2020]</p>
+</div>
+
+## Corte Permanente de Arbitragem
+
+Criada na Convenção da Haia de 1899, continua ativa até hoje. Atua como estrutura facilitadora para tribunais arbitrais.
+
+### Caso da Ilha de Palmas (Holanda x EUA, 1928)
+
+Disputa territorial julgada por Max Huber, que decidiu a favor da Holanda com base na soberania efetiva. Caso importante para a teoria do “título efetivo” em Direito Internacional.
+
+## Solução judiciária – Corte Internacional de Justiça
+
+Principal órgão judiciário das Nações Unidas. Competência:
+- **Contenciosa**: quando há litígio entre Estados
+- **Consultiva**: parecer solicitado por órgãos da ONU
+
+> A CIJ substitui a antiga Corte Permanente de Justiça Internacional e atua desde 1946, com sede em Haia.
+
+### Fases processuais:
+1. Escrita
+2. Oral
+3. Deliberação
+4. Sentença
+
+### Jurisdição contenciosa
+
+Pode se basear:
+- Cláusula compromissória
+- Compromisso ad hoc
+- Declaração unilateral de aceitação da cláusula facultativa (Art. 36, §2º)
+
+### Jurisdição consultiva
+
+Exemplo: parecer sobre a legalidade do muro israelense na Palestina (2004).
+
+<div class="complementar">
+  <p><b>Trecho doutrinário – Shaw:</b></p>
+  <p>“Although advisory opinions are not legally binding, they carry significant moral and political weight, often influencing subsequent resolutions and state behavior.” [@shaw_international_2021]</p>
+</div>
+
+### Caso emblemático: Congo x Bélgica (2002)
+
+A CIJ discutiu a emissão de mandado de prisão internacional por um Estado (Bélgica) contra um Ministro do Exterior (do Congo). A Corte decidiu que havia imunidade funcional de chefes de Estado em exercício.
+
+<div class="warning">
+  <p><b>Para saber mais:</b></p>
+  <p>CIJ, Caso do Mandado de Prisão (DRC v. Bélgica), 2002. Disponível em: [https://www.icj-cij.org/en/case/121]</p>
+</div>
+
+## Cortes regionais
+
+- Corte Europeia de Direitos Humanos
+- Corte Interamericana
+- Tribunal de Justiça da CEDEAO
+- Tribunal Africano dos Direitos Humanos
+
+---
+
+## Encerramento
+
+A pluralidade de mecanismos evidencia o esforço da comunidade internacional em buscar formas racionais e pacíficas de resolver seus conflitos. No entanto, as limitações estruturais (jurídicas e políticas) ainda impõem desafios, sobretudo no que tange à equidade no acesso e à efetividade das decisões.
+
+Como afirmam os críticos da TWAIL:
+
+<div class="complementar">
+  <p><b>Trecho TWAIL:</b></p>
+  <p>“O sistema internacional é estruturado de forma a permitir que as grandes potências preservem sua soberania em detrimento dos povos colonizados e dos países periféricos, mesmo nas estruturas jurídicas aparentemente neutras.” [@chimni_outline_2008; @gonzalez_hauck_public_2024]</p>
+</div>
