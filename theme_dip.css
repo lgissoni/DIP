@@ -141,6 +141,7 @@ strong {
 /* Caixa de aviso (warning) personalizada */
 
 /* Caixa de aviso (warning) com texto mais suave */
+/* Utilizado para "Atenção", "Importante" e "Para saber mais" */
 .warning {
   background-color: #fdf3f7;
   color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
@@ -160,5 +161,23 @@ strong {
   text-align: center;
   font-weight: bold;
   color: #ca225e; /* título da caixa continua em destaque */
+}
+
+/* texto complementar, com fundo cinza, para uso em trechos doutrinários, jurisprudência, críticas TWAIL e afins */
+.complementar {
+  background-color: #f2f2f2;
+  border-left: 4px solid #ca225e;
+  border-radius: 4px;
+  padding: 1em;
+  margin: 1.5em 0;
+  color: #333;
+  font-size: 0.95em;
+}
+.complementar p {
+  margin: 0.5em 0;
+}
+/* Abaixo negrito do complementar na cor da paleta do tema */
+.complementar b, .complementar strong {
+  color: #ca225e;
 }
 
