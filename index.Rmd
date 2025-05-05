@@ -57,9 +57,11 @@ O curso contará com **aulas expositivas** e momentos de reflexão individual e 
 
 #### Bibliografia complementar
 
+@accioly_manual_2019  
 @accioly_manual_2023  
 @brasil_constituicao_1988  
 @chimni_outline_2008  
+@gaeta_casseses_2020  
 @gonzalez_hauck_public_2024  
 @grieco_introduction_2015  
 @fukuyama_end_1989  
