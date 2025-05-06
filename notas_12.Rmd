@@ -36,13 +36,43 @@ Contudo, como observa Gaeta, essa informalidade pode levar à perpetuação da d
 
 São definidos como a atuação de um terceiro — geralmente um Estado, organização internacional ou figura pública — que busca aproximar as partes e criar as condições iniciais para o diálogo. Os bons ofícios não envolvem a proposição de soluções, mas apenas o estímulo à negociação.
 
+> “Os bons ofícios representam uma forma de intervenção discreta e não vinculante, respeitando a soberania dos Estados e promovendo a autodeterminação na resolução de conflitos" [@accioly_manual_2023, p. 447].
+
 ### Exemplo: Indonésia e o processo de independência de Timor-Leste
 
 Durante os anos 1990, a Indonésia, sob crescente pressão internacional, aceitou mediação da ONU e envolvimento de Portugal como potência administradora, até que se formalizasse o referendo que levou à independência timorense em 2002. A atuação da ONU nesse período combinou bons ofícios com supervisão política e institucional, conforme reconhecido na Resolução 1246 do Conselho de Segurança.
 
 <div class="warning">
-  <p><b>Para saber mais:</b></p>
-  <p>A Resolução 1246 do CSNU estabeleceu a UNAMET (Missão das Nações Unidas em Timor-Leste), responsável por conduzir o referendo que culminou com a independência do país. [https://undocs.org/S/RES/1246(1999)]</p>
+  <p><b>Para saber mais: a trajetória do Timor-Leste e o papel da ONU</b></p>
+  
+  <p>Timor-Leste foi uma colônia portuguesa até 1975. Após breve declaração de independência, foi invadido e anexado pela Indonésia, que passou a administrá-lo como província. "A invasão indonésia do Timor-Leste, conhecida na Indonésia como <b>Operação Lótus</b> (indonésio: *Operasi Seroja*), começou em 7 de dezembro de 1975, quando as forças armadas da Indonésia invadiram o território sob o pretexto de combater o colonialismo e o comunismo, com o objetivo de derrubar o governo da Fretilin, que havia emergido em 1974. A derrubada desse governo, popular e de curta duração, liderado pela Fretilin, desencadeou uma ocupação violenta que durou um quarto de século, na qual se estima que entre 100.000 e 180.000 soldados e civis tenham sido mortos ou tenham morrido de fome" [@noauthor_indonesian_2025].
+  </p>
+
+  <p>
+  Durante os anos 1990, a situação em Timor-Leste ganhou atenção internacional crescente. Após intensas negociações mediadas pela ONU, Indonésia e Portugal assinaram, em 5 de maio de 1999, os Acordos de Nova York, que previam a realização de uma <b>consulta popular</b> sobre o futuro do território — entre autonomia especial sob soberania indonésia ou separação com vistas à independência.
+  </p>
+
+  <p>
+  A Indonésia, sob o governo de B. J. Habibie, assumiu formalmente a posição de aceitar os bons ofícios da ONU e o princípio da autodeterminação, condicionando sua atuação à manutenção da paz e da ordem pública durante o processo. Essa aceitação representou um marco na política externa do país, rompendo com a posição anterior de integração definitiva de Timor-Leste ao seu território.
+  </p>
+
+  <p>
+  A <b>Resolução 1246 (1999)</b> do Conselho de Segurança estabeleceu a <b>Missão das Nações Unidas em Timor-Leste (UNAMET)</b> com mandato até 31 de agosto de 1999, encarregada de organizar e conduzir a consulta popular agendada para 8 de agosto. A missão foi composta por:
+  </p>
+
+  <ul>
+    <li>280 policiais civis para assessorar e supervisionar a atuação da polícia indonésia;</li>
+    <li>50 oficiais militares de ligação para manter comunicação com as forças armadas indonésias;</li>
+    <li>componentes político, eleitoral e informativo voltados à garantia de um pleito justo e esclarecido.</li>
+  </ul>
+
+  <p>
+  A resolução reafirmou o compromisso da ONU com uma solução pacífica e enfatizou a <b>responsabilidade da Indonésia</b> em garantir segurança, desarmar milícias, assegurar liberdade política e preservar a integridade do processo. A consulta resultou na rejeição da autonomia e na posterior independência de Timor-Leste.
+  </p>
+
+  <p>
+    🔗 <a href="https://undocs.org/S/RES/1246(1999)" target="_blank">Texto completo da Resolução 1246 (1999)</a>
+  </p>
 </div>
 
 ## Sistema de consultas
@@ -54,39 +84,120 @@ Esse meio aparece especialmente no campo econômico e comercial. Está previsto 
 
 ### Exemplo: OMC
 
-A OMC exige, como etapa preliminar antes do contencioso formal, que as partes realizem consultas sob supervisão do Órgão de Solução de Controvérsias. Muitas disputas são solucionadas já nessa fase.
+A Organização Mundial do Comércio (OMC) exige, como etapa preliminar antes do contencioso formal, que as partes realizem consultas sob supervisão do Órgão de Solução de Controvérsias. Muitas disputas são solucionadas já nessa fase.
 
-<div class="warning">
-  <p><b>Para saber mais:</b></p>
-  <p>O sistema de consultas da OMC é regido pelos artigos 4 e 5 do Entendimento sobre Solução de Controvérsias. Ver guia oficial: https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c6s2p1_e.htm</p>
+<div class="complementar">
+  <p><b>Texto complementar – sistema de consultas da OMC:</b></p>
+
+  <p>
+  O objetivo preferencial do Entendimento sobre Solução de Controvérsias (DSU) é que os Membros envolvidos resolvam a controvérsia entre si de maneira compatível com o Acordo da OMC (Artigo 3.7 do DSU). Assim, as consultas bilaterais entre as partes constituem a primeira etapa do processo formal de solução de controvérsias (Artigo 4). Elas oferecem às partes a oportunidade de discutir a questão e encontrar uma solução satisfatória sem recorrer à litigância (Artigo 4.5). Somente após tais consultas obrigatórias fracassarem — isto é, não produzirem solução satisfatória dentro de 60 dias — é que o reclamante pode solicitar a criação de um painel (Artigo 4.7). Mesmo quando as consultas não resolvem a controvérsia, permanece possível às partes encontrar uma solução mutuamente acordada em qualquer fase posterior do processo.
+  </p>
+
+  <p>
+  A maioria das controvérsias na OMC até hoje não passou da fase de consultas, seja porque se chegou a um acordo satisfatório, seja porque o reclamante decidiu, por outros motivos, não dar prosseguimento. Isso demonstra que as consultas são frequentemente um meio eficaz de resolução de disputas na OMC e que os instrumentos de adjudicação e execução nem sempre são necessários.
+  </p>
+
+  <p>
+  Juntamente com os bons ofícios, a conciliação e a mediação (Artigo 5), as consultas são o elemento não jurisdicional/diplomático central do sistema de solução de controvérsias da OMC. Elas também permitem que as partes esclareçam os fatos e as alegações, o que pode desfazer mal-entendidos quanto à natureza da medida contestada. Nesse sentido, as consultas podem tanto abrir caminho para um acordo quanto preparar o terreno para fases subsequentes do DSU.
+  </p>
+
+  <p>
+  O pedido de consultas inicia formalmente uma controvérsia na OMC e aciona a aplicação do DSU. Frequentemente, ocorrem discussões informais entre autoridades nacionais ou delegações em Genebra antes do pedido formal. No entanto, mesmo que essas tratativas anteriores existam, é obrigatório que o reclamante siga o procedimento formal de consultas previsto no DSU como condição para dar prosseguimento.
+  </p>
+
+  <p>
+  O Membro reclamante dirige o pedido ao Membro respondente, devendo também notificá-lo ao Órgão de Solução de Controvérsias (DSB) e aos conselhos e comitês relevantes que supervisionam o(s) acordo(s) envolvidos (Artigo 4.4). Basta enviar um único texto à Secretaria, que o distribui aos órgãos pertinentes. O pedido deve indicar as medidas contestadas e a fundamentação jurídica da reclamação. Na prática, esses pedidos são curtos (1 ou 2 páginas), mas devem ser suficientemente claros. Eles recebem a sigla oficial WT/DS###/1.
+  </p>
+
+  <p>
+  Sob o GATT 1994 (e acordos correlatos), há duas possíveis bases jurídicas para iniciar uma disputa: o Artigo XXII:1 ou o Artigo XXIII:1. O mesmo se aplica ao GATS. A principal diferença prática entre essas bases está na possibilidade de terceiros interessados se juntarem às consultas: se baseadas no Art. XXII, terceiros podem participar, mediante aceitação do respondente; se baseadas no Art. XXIII, o reclamante pode impedir a participação de terceiros, tornando essa opção mais atrativa quando deseja negociar diretamente com o respondente.
+  </p>
+
+  <p>
+  Antes de iniciar consultas, um Membro da OMC deve exercer seu juízo político sobre a conveniência de acionar o sistema, considerando que o objetivo do DSU é assegurar soluções positivas para as disputas (Artigo 3.7). Ou seja, cabe ao Membro decidir se vale a pena propor o caso, assumindo essa responsabilidade autorregulatória.
+  </p>
+
+  <p>
+    Fonte: <a href="https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c6s2p1_e.htm" target="_blank">WTO – Dispute Settlement System: Consultations</a>. Tradução livre.
+  </p>
 </div>
+
 
 ## Mediação
 
-A mediação implica um papel mais ativo do terceiro, que propõe soluções, formula termos e atua como intermediador substancial entre os Estados.
+A mediação implica um papel mais ativo do terceiro, que propõe soluções, formula termos e atua como intermediador substancial entre os Estados. Esse mecanismo é especialmente eficaz quando as partes estão dispostas a considerar propostas externas para resolver suas divergências.
+
+> “A mediação é uma forma de intervenção diplomática que busca facilitar a comunicação entre as partes e propor soluções mutuamente aceitáveis, respeitando a soberania dos Estados envolvidos” [@shaw_international_2021, p. 1023].
 
 ### Exemplo: Canal de Beagle
 
 A mediação do Papa João Paulo II foi decisiva para resolver a disputa entre Argentina e Chile sobre a soberania das ilhas Picton, Lennox e Nueva (1978–1984). A iminência do conflito armado foi evitada por meio de negociações sob patrocínio da Santa Sé, culminando no Tratado de Paz e Amizade.
 
+![Mapa do Canal de Beagle com a atual fronteira entre Chile e Argentina](images/beagle-map.jpg)
+
 <div class="warning">
-  <p><b>Para saber mais:</b></p>
-  <p>O caso do Canal de Beagle é exemplo paradigmático de mediação bem-sucedida. Ver documentação oficial da Santa Sé: [http://www.vatican.va/roman_curia/secretariat_state/1984/documents/rc_seg-st_19841129_trattato-pacificazione-argent-cile_sp.html]</p>
+  <p><b>Para saber mais: o caso do Canal de Beagle</b></p>
+
+  <p>O <b>Conflito do Beagle</b> foi uma disputa territorial entre Argentina e Chile sobre a soberania das ilhas Picton, Lennox e Nueva. Em 1977, um laudo arbitral internacional atribuiu as ilhas ao Chile, mas a Argentina rejeitou a decisão e mobilizou forças armadas para contestar o resultado.</p>
+
+  <p>Em dezembro de 1978, os dois países estavam à beira de um confronto armado. Para evitar o conflito, aceitaram a <b>mediação da Santa Sé</b>, conduzida pelo Papa João Paulo II e pelo cardeal Antonio Samorè. O processo levou à assinatura do <b>Tratado de Paz e Amizade</b>, em 1984, no Vaticano, que fixou as fronteiras e instituiu mecanismos permanentes de solução pacífica entre os países.</p>
+
+  <p>Esse episódio é considerado um exemplo paradigmático de mediação internacional bem-sucedida, especialmente por envolver atores religiosos como mediadores em uma disputa interestatal.</p>
+
+  <p>
+    🔗 <a href="https://www.vaticannews.va/pt/vaticano/news/2024-11/aniversario-40-anos-tratado-paz-canal-beagle-argentina-chile-24.html" target="_blank">Leia mais sobre o tratado no Vatican News</a>
+  </p>
 </div>
 
 ## Conciliação
 
-A conciliação consiste na constituição de uma comissão mista que analisa os fatos, ouve as partes, e formula uma proposta de solução — sem caráter vinculante.
+A conciliação consiste na constituição de uma comissão mista que analisa os fatos, ouve as partes, e formula uma proposta de solução — sem caráter vinculante. É um mecanismo que busca combinar elementos do inquérito e da mediação, oferecendo uma solução baseada em uma análise imparcial dos fatos.
 
-A Comissão de Conciliação Brasil-França, nos anos 1930, para resolver um litígio sobre nacionalidade, foi uma das primeiras experiências latino-americanas do gênero.
+> “A conciliação é um meio termo entre a mediação e a arbitragem, oferecendo uma solução recomendada, mas não obrigatória, baseada em uma análise detalhada dos fatos e argumentos apresentados pelas partes” [@gaeta_casseses_2020, p. 512].
+
+### Exemplo: Comissão de Conciliação Brasil-França (1930)
+
+Nos anos 1930, Brasil e França enfrentaram um litígio sobre nacionalidade. Para resolver a controvérsia, foi estabelecida uma Comissão de Conciliação Brasil-França, uma das primeiras experiências latino-americanas do gênero. A comissão analisou os argumentos de ambas as partes e propôs uma solução conciliatória, que, embora não vinculante, foi aceita por ambos os países, encerrando o litígio de forma pacífica.
 
 ## Inquérito
 
-O inquérito internacional tem natureza técnica: visa apurar objetivamente os fatos que originaram a controvérsia, fornecendo subsídios para uma eventual mediação ou julgamento.
+O **inquérito internacional** é um meio diplomático de solução pacífica de controvérsias previsto originalmente na **Convenção de Haia de 1899**, sendo reafirmado na de 1907. Seu objetivo não é imputar responsabilidade jurídica nem decidir a lide, mas sim **apurar, de forma técnica e imparcial, os fatos relevantes** que deram origem a uma disputa entre Estados, contribuindo para diminuir tensões diplomáticas e auxiliar futuras negociações ou arbitragens.
+
+Segundo Rezek, o inquérito “não visa formular juízos de valor ou imputações jurídicas, mas estabelecer, com objetividade, o que de fato ocorreu” [@rezek_direito_2025, p. 481]. Trata-se, portanto, de um mecanismo voltado à construção de confiança entre os Estados, por meio da produção de um laudo factual elaborado por peritos independentes.
+
+Um caso paradigmático de sua aplicação foi o **caso Dogger Bank (Rússia x Reino Unido, 1904)**. Durante a Guerra Russo-Japonesa, a frota russa atacou pesqueiros britânicos no Mar do Norte, confundindo-os com torpedeiros japoneses. O incidente quase levou os dois países à guerra. Contudo, a crise foi contida com o uso da **comissão internacional de inquérito** prevista na Convenção de Haia. A comissão, composta por membros neutros, concluiu que a Rússia havia agido com negligência, mas sem dolo, e recomendou o pagamento de indenizações — as quais foram efetivamente pagas, encerrando o litígio de forma pacífica.
+
+Shaw destaca que esse tipo de instrumento “permite reduzir a tensão diplomática por meio da verificação objetiva dos fatos”, podendo prevenir a escalada de um conflito [@shaw_international_2021]. Embora pouco utilizado na prática, o inquérito consolidou-se como uma opção viável para disputas sensíveis em que a verdade factual precisa ser estabelecida com rigor técnico antes da adoção de soluções políticas ou jurídicas.
+
+Além de Dogger Bank, a jurisprudência internacional conta com outros exemplos importantes de inquérito ou mecanismos assemelhados, como na atuação das missões de observação da ONU ou nos relatórios elaborados por comissões de apuração em contextos de ocupação, conflitos armados ou violações graves de direitos humanos.
 
 ### Exemplo: Dogger Bank (Rússia x Reino Unido, 1904)
 
 Durante a guerra russo-japonesa, a frota russa atacou pesqueiros britânicos, pensando tratar-se de embarcações japonesas. Foi instaurada uma comissão internacional de inquérito sob os auspícios da Convenção de Haia de 1899, concluindo que a Rússia havia agido com negligência.
+
+![Ilustração do incidente de Dogger Bank](images/doggerbank.jpg)
+
+<div class="warning">
+  <p><b>Para saber mais: o caso Dogger Bank (Rússia x Reino Unido, 1904)</b></p>
+
+  <p>
+    Durante a Guerra Russo-Japonesa, em 21 de outubro de 1904, a frota russa do Báltico, navegando em direção ao Pacífico, entrou no Mar do Norte e, ao cruzar a região do Banco de Dogger, atacou uma flotilha de pesqueiros britânicos. Os russos alegaram acreditar que estavam sendo emboscados por torpedeiros japoneses.
+  </p>
+
+  <p>
+    O incidente gerou forte reação no Reino Unido e quase levou os dois países à guerra. Diante da crise, foi instaurada uma <b>comissão internacional de inquérito</b>, nos termos da <b>Convenção de Haia de 1899</b>, com o objetivo de apurar os fatos.
+  </p>
+
+  <p>
+    A comissão concluiu que a Rússia havia agido com negligência, mas sem dolo, e recomendou o pagamento de indenizações aos pescadores afetados. Trata-se de um dos primeiros exemplos de uso efetivo do mecanismo de inquérito previsto na ordem jurídica internacional, destacando a importância de soluções pacíficas e baseadas em fatos.
+  </p>
+
+  <p>
+    Como desfecho, a Rússia <b>aceitou as conclusões da comissão</b> e realizou o pagamento de cerca de <b>65 mil libras esterlinas</b> aos pescadores britânicos prejudicados, encerrando o episódio sem escalada militar. O caso consolidou a eficácia do inquérito internacional como meio diplomático de resolução de controvérsias.
+  </p>
+</div>
+
+
 
 ---
 
