@@ -270,7 +270,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Semana 12
 
-**Notas de aula**  
+[**Notas de aula**](notas_12.html)    
 **Bibliografia:** @rezek_direito_2024, parte IV, cap. 1
 
 ### 05/05 - aula 12.1: solução pacífica de controvérsias, parte 1

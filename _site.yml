@@ -36,6 +36,8 @@ navbar:
           href: notas_11.html
         - text: "Semana 11 - aula 2"
           href: notas_11_2.html
+        - text: "Semana 12"
+          href: notas_12.html
     - text: "PAPs"
       menu:
         - text: "PAP 1.2"
@@ -46,6 +48,8 @@ navbar:
           href: pap_14.html
         - text: "PAP 2.1"
           href: pap_21.html
+        - text: "PAP 2.2"
+          href: pap_22.html
     - icon: fab fa-github
       href: https://github.com/lgissoni/DIP
 output:

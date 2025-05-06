@@ -79,6 +79,18 @@ ul > li::marker {
   color: #ca225e;
 }
 
+/* Estiliza os números de listas ordenadas */
+ol {
+  list-style-type: decimal;
+  padding-left: 1.5em;
+}
+
+ol li::marker {
+  font-weight: bold;
+  color: #ca225e;
+}
+
+
 .distill-site-header { 
   letter-spacing: 2px;
   text-transform: uppercase;

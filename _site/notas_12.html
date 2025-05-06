@@ -139,12 +139,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   <meta name="citation_reference" content="citation_title=Direito internacional público;citation_publisher=SaraivaJur;citation_author=Francisco Rezek"/>
   <meta name="citation_reference" content="citation_title=Manual de direito internacional público;citation_publisher=SaraivaJur;citation_author=Hildebrando Accioly;citation_author=G. E. Do Nascimento E. Silva;citation_author=Paulo Borba Casella"/>
-  <meta name="citation_reference" content="citation_title=An outline of a marxist course on public international law;citation_publisher=Cambridge University Press;citation_author=B. S. Chimni"/>
   <meta name="citation_reference" content="citation_title=International Law;citation_publisher=Cambridge University Press;citation_doi=10.1017/9781108774802;citation_author=Malcolm N. Shaw"/>
   <meta name="citation_reference" content="citation_title=Direito internacional público: Curso elementar;citation_publisher=SaraivaJur;citation_author=Francisco Rezek"/>
-  <meta name="citation_reference" content="citation_title=Public International Law: A Multi-Perspective Approach;citation_publisher=Routledge;citation_doi=10.4324/9781003451327"/>
   <meta name="citation_reference" content="citation_title=Cassese’s international law;citation_publisher=Oxford University Press;citation_author=Paola Gaeta;citation_author=Jorge E. Viñuales;citation_author=Salvatore Zappalà;citation_author=Antonio Cassese"/>
   <meta name="citation_reference" content="citation_title=Indonesian invasion of East Timor"/>
+  <meta name="citation_reference" content="citation_title=Separate opinion of Judge Rezek in the case concerning the Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium);citation_author=Francisco Rezek"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
@@ -2295,6 +2294,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: #ca225e;
   }
 
+  /* Estiliza os números de listas ordenadas */
+  ol {
+    list-style-type: decimal;
+    padding-left: 1.5em;
+  }
+
+  ol li::marker {
+    font-weight: bold;
+    color: #ca225e;
+  }
+
+
   .distill-site-header { 
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -2613,6 +2624,7 @@ NOTAS DE AULA
 <a href="notas_9.html">Semana 9</a>
 <a href="notas_11.html">Semana 11 - aula 1</a>
 <a href="notas_11_2.html">Semana 11 - aula 2</a>
+<a href="notas_12.html">Semana 12</a>
 </div>
 </div>
 <div class="nav-dropdown">
@@ -2626,6 +2638,7 @@ PAPs
 <a href="pap_13.html">PAP 1.3</a>
 <a href="pap_14.html">PAP 1.4</a>
 <a href="pap_21.html">PAP 2.1</a>
+<a href="pap_22.html">PAP 2.2</a>
 </div>
 </div>
 <a href="https://github.com/lgissoni/DIP">
@@ -2691,20 +2704,10 @@ PAPs
 </ul></li>
 <li><a href="#meios-jurisdicionais" id="toc-meios-jurisdicionais">Meios jurisdicionais</a>
 <ul>
-<li><a href="#arbitragem" id="toc-arbitragem">Arbitragem</a></li>
-<li><a href="#corte-permanente-de-arbitragem" id="toc-corte-permanente-de-arbitragem">Corte Permanente de Arbitragem</a>
+<li><a href="#arbitragem" id="toc-arbitragem">Arbitragem</a>
 <ul>
-<li><a href="#caso-da-ilha-de-palmas-holanda-x-eua-1928" id="toc-caso-da-ilha-de-palmas-holanda-x-eua-1928">Caso da Ilha de Palmas (Holanda x EUA, 1928)</a></li>
+<li><a href="#corte-permanente-de-arbitragem-cpa" id="toc-corte-permanente-de-arbitragem-cpa">Corte Permanente de Arbitragem (CPA)</a></li>
 </ul></li>
-<li><a href="#solução-judiciária-corte-internacional-de-justiça" id="toc-solução-judiciária-corte-internacional-de-justiça">Solução judiciária – Corte Internacional de Justiça</a>
-<ul>
-<li><a href="#fases-processuais" id="toc-fases-processuais">Fases processuais:</a></li>
-<li><a href="#jurisdição-contenciosa" id="toc-jurisdição-contenciosa">Jurisdição contenciosa</a></li>
-<li><a href="#jurisdição-consultiva" id="toc-jurisdição-consultiva">Jurisdição consultiva</a></li>
-<li><a href="#caso-emblemático-congo-x-bélgica-2002" id="toc-caso-emblemático-congo-x-bélgica-2002">Caso emblemático: Congo x Bélgica (2002)</a></li>
-</ul></li>
-<li><a href="#cortes-regionais" id="toc-cortes-regionais">Cortes regionais</a></li>
-<li><a href="#encerramento" id="toc-encerramento">Encerramento</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -2712,7 +2715,7 @@ PAPs
 <h1 id="introdução">Introdução</h1>
 <p>A pacificação das controvérsias é uma das finalidades permanentes do Direito Internacional. A Carta das Nações Unidas, em seu Art. 2º, §3º, impõe aos Estados o dever de buscar meios pacíficos para resolver suas disputas, afastando o uso da força. O desenvolvimento desses mecanismos acompanha a própria história da sociedade internacional.</p>
 <p>Segundo Rezek, “o aparecimento de mecanismos pacíficos acompanha a própria história do direito internacional” <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 443</a>)</span>, e sua evolução está ligada à tentativa de civilizar o conflito entre Estados. Como observa Shaw, o sistema contemporâneo reconhece uma pluralidade de instrumentos, mas ainda depende, em larga medida, da vontade soberana dos Estados <span class="citation" data-cites="shaw_international_2021">(<a href="#ref-shaw_international_2021" role="doc-biblioref">SHAW, 2021</a>)</span>.</p>
-<p>Nesta aula, exploramos os <strong>meios diplomáticos, políticos e jurisdicionais</strong> previstos pelo Direito Internacional. Além da exposição técnica, incluímos também o debate crítico sobre sua efetividade e seus limites, com apoio nas doutrinas de Cassese, Chimni, Gaeta, Shaw, Rezek, Accioly e TWAIL.</p>
+<p>Nesta aula, exploramos os <strong>meios diplomáticos, políticos e jurisdicionais</strong> previstos pelo Direito Internacional. Além da exposição técnica, incluímos também o debate crítico sobre sua efetividade e seus limites, com apoio nas doutrinas de Cassese, Chimni, Gaeta, Shaw, Rezek e Accioly, bem como a abordagem crítica das <em>Third World Approaches to International Law</em> (TWAIL), ou “Abordagens do Terceiro Mundo para o Direito Internacional”.</p>
 <h1 id="meios-diplomáticos-e-políticos">Meios diplomáticos e políticos</h1>
 <h2 id="entendimento-direto">Entendimento direto</h2>
 <p>A forma mais primária e desformalizada de solução pacífica. Duas partes, sem intermediação de terceiros, buscam ajustar suas posições por meio do diálogo bilateral, seja por canais diplomáticos ou políticos. Em termos jurídicos, caracteriza-se por ser um procedimento voluntário, flexível e não institucionalizado.</p>
@@ -2867,97 +2870,283 @@ Como desfecho, a Rússia <b>aceitou as conclusões da comissão</b> e realizou o
 <hr />
 <h1 id="meios-jurisdicionais">Meios jurisdicionais</h1>
 <h2 id="arbitragem">Arbitragem</h2>
-<p>A arbitragem é um mecanismo jurisdicional com base no consentimento prévio das partes, onde juízes (árbitros) são escolhidos ad hoc. A decisão arbitral tem força obrigatória, mas sua execução depende da vontade dos Estados.</p>
+<p>A <strong>arbitragem internacional</strong> é um mecanismo jurisdicional clássico, baseado no consentimento das partes e voltado à solução de litígios por meio de uma decisão vinculante proferida por árbitros escolhidos pelas próprias partes. Sua origem remonta à prática dos Estados desde a Antiguidade, tendo ganhado forma moderna com a Convenção de Haia de 1899, que institucionalizou regras e estruturas para sua utilização.</p>
+<p>Segundo Shaw, “a arbitragem é mais flexível que a judicialização, mas compartilha com esta a exigência de cláusula compromissória ou compromisso especial” <span class="citation" data-cites="shaw_international_2021">(<a href="#ref-shaw_international_2021" role="doc-biblioref">SHAW, 2021</a>)</span>. Isso significa que não há imposição automática da jurisdição arbitral: é necessária a existência de um tratado prévio com cláusula arbitral, ou um acordo ad hoc entre os Estados para instaurar o procedimento.</p>
+<p>Rezek observa que a arbitragem, apesar de sua rigidez técnica, ainda se encontra no domínio da autonomia dos Estados, sendo uma opção preferida por muitos quando se busca uma decisão definitiva sem o ônus político da submissão à Corte Internacional de Justiça. Para ele, trata-se de um mecanismo “cuja força vinculante decorre do próprio compromisso voluntariamente assumido pelas partes” <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 487</a>)</span>.</p>
+<p>Contudo, há um alerta crítico: apesar de sua aparente neutralidade, a arbitragem historicamente favoreceu os interesses das potências dominantes, que dispõem de maior expertise jurídica e influência política para moldar os procedimentos e os resultados. Isso evidencia que, em muitos casos, países em desenvolvimento enfrentam desvantagens estruturais em arbitragens internacionais — seja pela desigualdade de recursos, seja pela linguagem técnica do processo.</p>
+<p>A arbitragem distingue-se da mediação e da conciliação por produzir uma <strong>decisão final e obrigatória</strong>. Contudo, diferentemente da judicialização plena, como a da CIJ, não há um aparato institucional permanente nem previsão de fase consultiva. Ainda assim, diversos organismos e tratados internacionais preveem fóruns arbitrais especializados, como no âmbito do Direito do Mar (Anexo VII da UNCLOS) ou em disputas econômicas (ICSID, no âmbito do Banco Mundial).</p>
+<p>Do ponto de vista procedimental, o processo arbitral envolve:</p>
+<ul>
+<li>A nomeação dos árbitros por acordo ou por designação subsidiária;</li>
+<li>A definição do objeto da disputa e das regras aplicáveis;</li>
+<li>Uma fase escrita e, eventualmente, oral;</li>
+<li>A produção de um laudo arbitral, que tem força vinculante, mas cuja execução depende da vontade e boa-fé dos Estados envolvidos.</li>
+</ul>
+<p>A arbitragem pode ser instaurada entre Estados, mas também entre Estados e organizações internacionais, ou mesmo entre Estados e empresas, em casos previstos por tratados de investimento. Nesses contextos, especialmente em arbitragens de investimento, as críticas sobre assimetria procedimental ganham força, sendo um dos focos das abordagens críticas como a TWAIL.</p>
+<p>Assim, a arbitragem continua sendo uma ferramenta essencial do Direito Internacional contemporâneo, equilibrando tradição e flexibilidade, mas não está isenta de tensões estruturais que refletem as desigualdades do sistema internacional.</p>
+<h3 id="corte-permanente-de-arbitragem-cpa">Corte Permanente de Arbitragem (CPA)</h3>
+<p>A <strong>Corte Permanente de Arbitragem (PCA)</strong>, criada pela <strong>Convenção de Haia de 1899</strong> e mantida pela de 1907, é a mais antiga instituição internacional voltada à solução pacífica de controvérsias. Ao contrário do que o nome sugere, não se trata de uma “corte” com juízes permanentes, mas sim de um <strong>mecanismo institucional de apoio a arbitragens interestatais</strong>, que também se estende a organizações internacionais, entidades públicas e privadas.</p>
+<p>A Corte fornece uma lista de árbitros indicados pelos Estados, apoio administrativo e repositório jurídico, além de possibilitar o registro e a condução dos procedimentos arbitrais. A sede fica em Haia, no Palácio da Paz, o mesmo edifício da Corte Internacional de Justiça.</p>
 <blockquote>
-<p>“A arbitragem é mais flexível que a judicialização, mas compartilha com esta a exigência de cláusula compromissória ou compromisso especial.”<br />
-<span class="citation" data-cites="shaw_international_2021">(<a href="#ref-shaw_international_2021" role="doc-biblioref">SHAW, 2021</a>)</span></p>
+<p>“[A Corte Permanente de Arbitragem] não é uma corte verdadeira. É uma lista permanente de pessoas qualificadas para funcionar como árbitros, quando escolhidas pelos Estados litigantes. Há na lista, hoje, pouco mais que duzentos nomes, e sua indicação a uma secretaria atuante na cidade da Haia é obra dos governos que patrocinam a entidade, cada um deles podendo indicar no máximo quatro pessoas.”<br />
+<span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 484</a>)</span></p>
 </blockquote>
-<div class="complementar">
-<p>
-<b>Trecho doutrinário – Gaeta et al.:</b>
-</p>
-<p>
-“Despite its apparent neutrality, arbitration has historically privileged the interests of dominant powers, which have both the legal expertise and political leverage to shape arbitral outcomes. This asymmetry results in a system where developing countries often find themselves at a disadvantage, both procedurally and substantively.” <span class="citation" data-cites="gaeta_casseses_2020">(<a href="#ref-gaeta_casseses_2020" role="doc-biblioref">GAETA et al., 2020</a>)</span>
-</p>
-</div>
-<h2 id="corte-permanente-de-arbitragem">Corte Permanente de Arbitragem</h2>
-<p>Criada na Convenção da Haia de 1899, continua ativa até hoje. Atua como estrutura facilitadora para tribunais arbitrais.</p>
-<h3 id="caso-da-ilha-de-palmas-holanda-x-eua-1928">Caso da Ilha de Palmas (Holanda x EUA, 1928)</h3>
-<p>Disputa territorial julgada por Max Huber, que decidiu a favor da Holanda com base na soberania efetiva. Caso importante para a teoria do “título efetivo” em Direito Internacional.</p>
-<h2 id="solução-judiciária-corte-internacional-de-justiça">Solução judiciária – Corte Internacional de Justiça</h2>
-<p>Principal órgão judiciário das Nações Unidas. Competência:
-- <strong>Contenciosa</strong>: quando há litígio entre Estados
-- <strong>Consultiva</strong>: parecer solicitado por órgãos da ONU</p>
-<blockquote>
-<p>A CIJ substitui a antiga Corte Permanente de Justiça Internacional e atua desde 1946, com sede em Haia.</p>
-</blockquote>
-<h3 id="fases-processuais">Fases processuais:</h3>
-<ol type="1">
-<li>Escrita</li>
-<li>Oral</li>
-<li>Deliberação</li>
-<li>Sentença</li>
-</ol>
-<h3 id="jurisdição-contenciosa">Jurisdição contenciosa</h3>
-<p>Pode se basear:
-- Cláusula compromissória
-- Compromisso ad hoc
-- Declaração unilateral de aceitação da cláusula facultativa (Art. 36, §2º)</p>
-<h3 id="jurisdição-consultiva">Jurisdição consultiva</h3>
-<p>Exemplo: parecer sobre a legalidade do muro israelense na Palestina (2004).</p>
-<div class="complementar">
-<p>
-<b>Trecho doutrinário – Shaw:</b>
-</p>
-<p>
-“Although advisory opinions are not legally binding, they carry significant moral and political weight, often influencing subsequent resolutions and state behavior.” <span class="citation" data-cites="shaw_international_2021">(<a href="#ref-shaw_international_2021" role="doc-biblioref">SHAW, 2021</a>)</span>
-</p>
-</div>
-<h3 id="caso-emblemático-congo-x-bélgica-2002">Caso emblemático: Congo x Bélgica (2002)</h3>
-<p>A CIJ discutiu a emissão de mandado de prisão internacional por um Estado (Bélgica) contra um Ministro do Exterior (do Congo). A Corte decidiu que havia imunidade funcional de chefes de Estado em exercício.</p>
+<p>Segundo Shaw, a CPA representa uma resposta institucional à crescente complexidade das disputas internacionais no século XX, mas <strong>não obriga os Estados à submissão compulsória</strong>. Seu uso depende do consentimento expresso das partes envolvidas — seja por cláusula compromissória prévia, seja por compromisso arbitral específico <span class="citation" data-cites="shaw_international_2021">(<a href="#ref-shaw_international_2021" role="doc-biblioref">SHAW, 2021</a>)</span>.</p>
+<p>No entanto, a crítica contemporânea aponta que essa flexibilidade nem sempre representa neutralidade. Autores ligados à abordagem TWAIL (Third World Approaches to International Law) denunciam a desigualdade estrutural no acesso à arbitragem e na capacidade de influência entre as partes. Essa assimetria afeta não apenas a capacidade processual, mas a própria produção de precedentes e de normas costumeiras, frequentemente ancoradas em experiências e valores das potências ocidentais. A crítica é especialmente pertinente em contextos de arbitragem entre Estados em desenvolvimento e grandes investidores internacionais, como demonstram os litígios sob tratados bilaterais de investimento (BITs).</p>
 <div class="warning">
 <p>
-<b>Para saber mais:</b>
+<b>Para saber mais: o caso da Ilha de Palmas (Países Baixos x Estados Unidos, 1928)</b>
 </p>
 <p>
-CIJ, Caso do Mandado de Prisão (DRC v. Bélgica), 2002. Disponível em: [<a href="https://www.icj-cij.org/en/case/121" class="uri">https://www.icj-cij.org/en/case/121</a>]
+O <b>caso da Ilha de Palmas</b>, arbitrado sob os auspícios da <b>Corte Permanente de Arbitragem</b> e decidido por <b>Max Huber</b>, é considerado um marco na teoria da soberania territorial no Direito Internacional. A controvérsia dizia respeito à soberania sobre a pequena ilha de Palmas (atualmente Miangas), situada no arquipélago das Filipinas.
+</p>
+<p>
+Os <b>Estados Unidos</b> alegavam soberania com base na cessão feita pela Espanha no Tratado de Paris, após a Guerra Hispano-Americana de 1898. Por outro lado, os <b>Países Baixos</b> defendiam a soberania efetiva e contínua sobre o território desde o século XVII, com base em atos administrativos e presença estatal.
+</p>
+<p>
+Na sentença, Max Huber <b>rejeitou a ideia de transferência automática de soberania</b> por meio de tratado se não houver posse efetiva no momento da cessão. Ele reconheceu a soberania dos Países Baixos com base em critérios como ocupação pacífica, exercício efetivo da autoridade e ausência de protestos internacionais relevantes.
+</p>
+<p>
+A decisão consagrou o chamado <b>princípio do título efetivo</b>, segundo o qual a posse efetiva, pública e pacífica pode prevalecer sobre títulos históricos ou jurídicos abstratos. Esse princípio influenciou profundamente a jurisprudência internacional, inclusive da <b>CIJ</b>, como nos casos de Pedra Branca (Malásia x Singapura) e Ilhas Ligitan e Sipadan (Malásia x Indonésia).
+</p>
+<p>
+O caso também evidenciou a tensão entre o formalismo jurídico e a prática internacional. Enquanto os EUA invocavam uma cadeia legal de tratados, a decisão arbitral priorizou os <b>fatos concretos do exercício soberano</b>. É, portanto, um exemplo clássico da <b>prevalência do fato sobre o título formal</b>, com repercussões doutrinárias duradouras.
+</p>
+</div>
+<div class="complementar">
+<p>
+<b>Texto complementar – Tribunal de Reivindicações Irã–EUA:</b>
+</p>
+<p>
+“A Corte Permanente de Arbitragem (CPA) disponibilizou suas instalações e equipe, entre outros casos, ao <b>Tribunal de Reivindicações Irã–EUA</b> (<em>Iran–US Claims Tribunal</em>). Este tribunal arbitral foi estabelecido em 1981, nos termos do Acordo de Argel (<em>Algiers Accord</em>), concluído após a <b>crise dos reféns de 1979</b> e o subsequente congelamento, pelo governo dos Estados Unidos, dos ativos iranianos localizados em seu território ou sob jurisdição/control norte-americano, bem como a imposição de sanções comerciais contra o Irã.
+</p>
+<p>
+O tribunal recebeu jurisdição para julgar:
+</p>
+<ul>
+<li>
+<b>(a)</b> reivindicações de cidadãos norte-americanos contra autoridades iranianas, assim como reivindicações de cidadãos iranianos contra os Estados Unidos;
+</li>
+<li>
+<b>(b)</b> reivindicações de um Estado contra o outro, oriundas de contratos para compra ou venda de bens e serviços;
+</li>
+<li>
+<b>(c)</b> reivindicações entre os Estados relacionadas à interpretação e execução das obrigações estabelecidas na Declaração Geral que integra o Acordo de Argel.
+</li>
+</ul>
+<p>
+O Tribunal já decidiu centenas de disputas, algumas das quais envolveram aspectos cruciais do Direito Internacional, como expropriação e responsabilidade internacional do Estado.”
+</p>
+<p>
+<span class="citation" data-cites="gaeta_casseses_2020">(<a href="#ref-gaeta_casseses_2020" role="doc-biblioref">GAETA et al., 2020</a>)</span>
+</div>
+<h2 id="solução-judiciária-a-corte-internacional-de-justiça-cij">Solução judiciária – a Corte Internacional de Justiça (CIJ)</h2>
+<p>A Corte Internacional de Justiça é o principal órgão judiciário das Nações Unidas e representa o mecanismo jurisdicional mais formal e institucionalizado de resolução pacífica de controvérsias entre Estados no plano global. Criada em 1945, com sede em Haia, a CIJ sucedeu a antiga Corte Permanente de Justiça Internacional, reafirmando o papel do direito internacional na contenção dos conflitos internacionais por via judicial.</p>
+<p>Sua competência se divide em duas funções principais: <strong>jurisdição contenciosa</strong> e <strong>jurisdição consultiva</strong>. Na primeira, a Corte decide disputas entre Estados que voluntariamente tenham reconhecido sua jurisdição. Na segunda, ela emite pareceres sobre questões jurídicas submetidas por órgãos autorizados da ONU e agências especializadas, servindo como fonte de orientação normativa e política.</p>
+<p>A atuação da CIJ é marcada por uma tensão entre a busca pela justiça internacional e os limites impostos pela vontade soberana dos Estados. Embora ofereça um fórum jurídico altamente qualificado, sua eficácia depende da aceitação da jurisdição, do respeito à decisão e da existência de mecanismos indiretos de pressão política para assegurar o cumprimento dos veredictos.</p>
+<h3 id="jurisdição-contenciosa">Jurisdição contenciosa</h3>
+<p>A jurisdição contenciosa da CIJ pode ser ativada por diferentes meios, conforme veremos em detalhe mais abaixo:</p>
+<ol type="1">
+<li>Submissão tácita;</li>
+<li>Compromissos ad hoc entre os Estados interessados;</li>
+<li>Cláusulas compromissórias em tratados internacionais; e</li>
+<li>Declarações unilaterais de aceitação da chamada cláusula facultativa, prevista no artigo 36, §2º do Estatuto da Corte.</li>
+</ol>
+<p>Em qualquer desses casos, a jurisdição da CIJ permanece baseada no consentimento estatal — o que limita sua universalidade, embora fortaleça sua legitimidade no contexto da soberania dos Estados.</p>
+<p>O procedimento é composto por <strong>três fases</strong>: <strong>escrita</strong>, <strong>oral</strong> e <strong>deliberativa</strong>. Os Estados apresentam seus memoriais, contra-memoriais e réplicas, seguidos de audiências públicas e deliberação privada dos juízes, que culmina com a sentença. Esta tem força obrigatória apenas entre as partes e em relação ao caso concreto, nos termos do artigo 59 do Estatuto da Corte.</p>
+<h4 id="competência-contenciosa">Competência contenciosa</h4>
+<p>A <strong>competência contenciosa</strong> da Corte Internacional de Justiça (CIJ) consiste em julgar litígios entre Estados soberanos com base no direito internacional — incluindo tratados, costumes e princípios gerais. Essa jurisdição não se estende a organizações internacionais ou indivíduos. Para que a CIJ exerça sua função, é necessário o consentimento dos Estados litigantes.</p>
+<p>Esse consentimento pode ocorrer de três formas principais:</p>
+<ol type="1">
+<li><p><strong>Submissão tácita</strong> (<em>forum prorogatum</em>): quando o Estado réu, mesmo não estando previamente vinculado à Corte, contesta o mérito da ação sem impugnar sua jurisdição, configura-se a aceitação da competência da CIJ. Isso ocorreu no caso do Estreito de Corfu, em que a Albânia, ao responder ao mérito da ação proposta pelo Reino Unido, foi considerada vinculada à jurisdição da Corte.</p></li>
+<li><p><strong>Acordos prévios</strong>: dois Estados podem, em tratados bilaterais ou compromissos especiais, concordar previamente em submeter um litígio à CIJ. Nesses casos, as partes podem atuar conjuntamente ou estabelecer que uma delas ajuíze a ação. Exemplo disso foram os casos Minquiers e Écréhous (França x Reino Unido, 1951), a sentença arbitral do Rei da Espanha (Honduras x Nicarágua, 1957), e a disputa de fronteiras entre El Salvador e Honduras (2003), julgada em câmara especial a pedido conjunto das partes.</p></li>
+<li><p><strong>Obrigação por tratado</strong>: quando um tratado prevê expressamente que disputas serão resolvidas pela CIJ, os Estados signatários estão vinculados. Por essa razão, alguns países evitam ratificar tratados que atribuem automaticamente competência à Corte, como é o caso da Convenção de Viena sobre o Direito dos Tratados, cujo art. 66 remete litígios à CIJ se não forem resolvidos em até doze meses.</p></li>
+<li><p><strong>Adesão à cláusula facultativa de jurisdição obrigatória</strong>: o mesmo ocorre quando o Estado adere à cláusula facultativa de jurisdição obrigatória (art. 36, §2º do Estatuto da CIJ), conforme segue.</p></li>
+</ol>
+<h5 id="cláusula-facultativa-de-jurisdição-obrigatória">Cláusula facultativa de jurisdição obrigatória</h5>
+<p>A cláusula facultativa de jurisdição obrigatória, prevista no artigo 36 do Estatuto da CIJ, permite que Estados aceitem antecipadamente a jurisdição da Corte para litígios futuros com outros Estados que também tenham feito essa aceitação. A adesão é opcional, mesmo para Estados membros da ONU. Essa cláusula busca criar um regime de jurisdição obrigatória recíproca, semelhante ao que ocorre com indivíduos perante tribunais nacionais. Surgiu como compromisso durante os debates de criação da Corte, diante da resistência à imposição de uma jurisdição obrigatória universal. Foi proposta por Raul Fernandes, delegado brasileiro.</p>
+<div class="complementar">
+<p>
+<b>Texto complementar – Cláusula facultativa de jurisdição obrigatória</b>
+</p>
+<p>
+“Esta cláusula, prevista no art. 36 do Estatuto da CIJ, permite que Estados se comprometam antecipadamente a aceitar a jurisdição da Corte, desde que o outro litigante também tenha aderido à cláusula. A adesão é facultativa, mesmo para Estados membros da ONU. Trata-se de uma forma de criar jurisdição obrigatória por base de reciprocidade — tal como ocorre com os indivíduos perante os tribunais nacionais, que não são consultados previamente sobre sua aceitação da jurisdição.
+</p>
+<p>
+A cláusula foi proposta por Raul Fernandes, delegado brasileiro, durante os debates preparatórios do Estatuto da Corte, diante da resistência à criação de uma jurisdição universal obrigatória. Sua redação final permite que o Estado aceite o compromisso por tempo determinado e com eventuais limitações de matéria.
+</p>
+<p>
+Atualmente, 72 Estados estão vinculados à cláusula, entre eles Reino Unido, Canadá, Japão, Austrália, Espanha, Portugal e Egito. Outros países, como Estados Unidos, China, Rússia, França e Brasil, preferiram não permanecer comprometidos. O Brasil já integrou a cláusula, mas hoje prefere os meios diplomáticos e a arbitragem. A França se desvinculou após o caso dos testes nucleares no Pacífico (1974), quando a Corte rejeitou sua reserva sobre temas de defesa nacional.
+</p>
+<p>
+Os Estados Unidos haviam aderido em 1946, com diversas ressalvas. Em 1984, ao renovar o compromisso, incluíram uma cláusula que excluía litígios com países da América Central. Pouco depois, em 2005, repudiaram totalmente a cláusula. No caso <i>Nicarágua vs. Estados Unidos</i> (1984), a CIJ afirmou sua jurisdição antes que a nova ressalva entrasse em vigor. Após perder a preliminar, os EUA se retiraram do processo, e a decisão final, de 1986, condenou-os à reparação por suas ações militares em território nicaraguense.”
+</p>
+<p>
+<span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025</a>, pp. 419-421)</span>
+</p>
+</div>
+<h4 id="exemplo-caso-do-mandado-de-prisão-congo-x-bélgica-2002">Exemplo: Caso do Mandado de Prisão (Congo x Bélgica, 2002)</h4>
+<p>O Congo apresentou à CIJ uma reclamação contra a Bélgica por emitir um mandado de prisão internacional contra seu Ministro das Relações Exteriores, com base na alegação de violações ao direito internacional humanitário. A Corte entendeu que, durante o exercício do cargo, ministros de Estado gozam de <strong>imunidade funcional</strong>, mesmo diante de alegações de crimes internacionais, enquanto durar o mandato. A decisão reafirmou a primazia da imunidade sobre a repressão penal extraterritorial, dentro do contexto da diplomacia e das relações interestatais.</p>
+<div class="warning">
+<p>
+<b>Para saber mais: Caso do Mandado de Prisão (RD Congo x Bélgica, 2002)</b>
+</p>
+<p>
+O caso envolveu a emissão, pela Bélgica, de um <b>mandado internacional de prisão contra Abdulaye Yerodia Ndombasi</b>, então Ministro das Relações Exteriores da República Democrática do Congo (RDC), por supostos crimes de guerra e crimes contra a humanidade cometidos durante conflitos internos. A medida se baseava na <b>jurisdição universal</b>, prevista na legislação belga, que autorizava tribunais do país a julgar crimes graves independentemente da nacionalidade do autor ou da vítima.
+</p>
+<p>
+A RDC ajuizou a ação na CIJ alegando violação do princípio da <b>imunidade de jurisdição penal dos agentes estatais no exercício de funções oficiais</b>. Argumentou que o ministro, enquanto em exercício, gozava de imunidade absoluta perante tribunais estrangeiros, mesmo em caso de alegações de crimes internacionais.
+</p>
+<p>
+A <b>CIJ decidiu, por maioria, a favor da RDC</b>, reconhecendo que altos dignitários de Estado em exercício (chefes de Estado, de governo e ministros das relações exteriores) possuem <b>imunidade funcional e pessoal</b>, inclusive contra medidas coercitivas como mandados de prisão emitidos por outros Estados. A Corte afirmou que, enquanto estiverem no cargo, essas autoridades não podem ser processadas por jurisdições estrangeiras, salvo em casos excepcionais, como:
+</p>
+<ul>
+<li>
+quando o Estado a que pertencem renuncia expressamente à imunidade;
+</li>
+<li>
+quando deixam o cargo e são processados por atos privados cometidos fora do exercício da função oficial;
+</li>
+<li>
+perante tribunais internacionais competentes, como o TPI;
+</li>
+<li>
+em ações civis no próprio Estado de origem.
+</li>
+</ul>
+<p>
+A decisão reforçou a tensão entre os princípios da <b>jurisdição universal</b> e da <b>imunidade de Estado</b>, sendo amplamente debatida por juristas e ONGs de direitos humanos, que criticaram o obstáculo imposto à responsabilização de autoridades por crimes graves.
+</p>
+<p>
+🔗 <a href="https://www.icj-cij.org/en/case/121" target="_blank">Leia a íntegra do julgamento no site da CIJ</a>
+</p>
+</div>
+<div class="complementar">
+<p>
+<b>Opinião separada do Juiz Rezek</b>
+</p>
+<p><i>Tradução e resumo meus.</i></p>
+<p>
+“<i>Prioridade lógica das questões jurisdicionais sobre as imunidades – Efeito da exclusão das questões jurisdicionais nas petições finais do Congo – Territorialidade e a defesa de certos interesses juridicamente protegidos como regras fundamentais de jurisdição – Nacionalidade ativa e passiva como fundamentos complementares de jurisdição – Exercício de jurisdição penal sem fator de conexão com o Estado do foro não é admitido pelo direito internacional – Sistema internacional de cooperação na repressão ao crime.</i>
+</p>
+<p>
+<ol type="1">
+<li>Estou convencido de que estou redigindo uma opinião dissidente, ainda que deva ser classificada como opinião separada porque votei a favor de todo o dispositivo do Acórdão. Como a maioria dos membros da Corte, concordo plenamente com o dispositivo, porque considero que o tratamento da questão da imunidade está conforme com o direito tal como se apresenta atualmente. Contudo, lamento que não tenha havido maioria para abordar um aspecto crucial da questão posta à Corte.
+</p></li>
+</ol>
+<p>
+<ol start="2" type="1">
+<li>Nenhuma imunidade é absoluta, em qualquer ordenamento jurídico. Uma imunidade deve necessariamente existir dentro de um determinado contexto, e nenhum sujeito de direito pode gozar de imunidade em abstrato. Assim, uma imunidade pode ser reconhecida perante um tribunal nacional, mas não perante outro. De modo semelhante, pode ser oponível a tribunais internos, mas não a um internacional. Em dado ordenamento jurídico, pode-se invocar imunidade em processos penais, mas não em cíveis, ou perante tribunais comuns, mas não tribunais especiais.
+</p></li>
+</ol>
+<p>
+<ol start="3" type="1">
+<li>A questão da jurisdição antecede inevitavelmente a da imunidade. Além disso, ambas as questões foram amplamente debatidas pelas partes, tanto por escrito como oralmente. O fato de o Congo ter se limitado, em suas petições finais, a solicitar que a Corte decidisse com base na imunidade de seu ex-Ministro perante os tribunais belgas, não justifica que a Corte ignore o pressuposto lógico inescapável para considerar a questão da imunidade. Não se trata aqui de seguir a ordem das petições, mas sim de respeitar a sequência lógica que o raciocínio jurídico impõe. Do contrário, a Corte estaria decidindo sobre a existência ou não de imunidade como se os tribunais belgas já tivessem jurisdição…
+</p></li>
+</ol>
+<p>
+<ol start="4" type="1">
+<li>Ao decidir primeiramente a questão da jurisdição, a Corte teria tido a oportunidade de ressaltar que a jurisdição penal baseada unicamente no princípio da justiça universal é, por sua natureza, subsidiária – e há boas razões para isso. Nenhum foro é tão apto quanto o do locus delicti para conduzir adequadamente um julgamento criminal: a prova está mais acessível, e aquele foro tem melhor conhecimento do acusado, das vítimas e das circunstâncias do delito. É por razões políticas – não práticas – que muitos sistemas internos consagram, depois do princípio da territorialidade, outro fundamento de jurisdição penal, que se aplica independentemente do local do crime: a proteção de certos bens jurídicos fundamentais, como a vida do soberano, o patrimônio nacional, a boa governança.
+</p></li>
+</ol>
+<p>
+<ol start="5" type="1">
+<li>Fora esses dois fundamentos principais, predomina a complementaridade: na maioria dos países, admite-se a jurisdição penal com base na nacionalidade ativa ou passiva, desde que os crimes não tenham sido julgados em outro Estado com jurisdição mais natural e desde que o acusado esteja presente no território do Estado do foro.
+</p></li>
+</ol>
+<p>
+<ol start="6" type="1">
+<li>O direito internacional vigente não permite intervenções ativistas em que um Estado busca, no território de outro, por meio de extradição ou mandado de prisão internacional, um indivíduo acusado de crimes internacionais sem conexão fática com o Estado do foro. É uma presunção considerável alegar que a Bélgica estava “obrigada” a iniciar o processo penal. O que não é permitido, a fortiori, não pode ser obrigatório. Mesmo deixando de lado a questão da imunidade do acusado, a parte Ré não foi capaz de citar um único outro Estado que tenha, em circunstâncias semelhantes, iniciado um processo penal. Nenhum costume nascente pode derivar de uma ação isolada de um único Estado.
+</p></li>
+</ol>
+<p>
+<ol start="7" type="1">
+<li>O artigo 146 da Quarta Convenção de Genebra de 1949 – também presente nas outras três – é a norma que melhor poderia sustentar a posição da Bélgica em favor da jurisdição universal. Ele obriga os Estados a procurar, entregar ou julgar os acusados de crimes definidos na Convenção. Contudo, além de o presente caso não se enquadrar estritamente nas Convenções de 1949, como lembrou a Sra. Chemillier-Gendreau ao citar o Professor Claude Lombois, tal obrigação pressupõe a presença do acusado no território do Estado: procurar ou entregar alguém fora do território implicaria atos coercitivos que apenas podem ser exercidos dentro dos limites da soberania estatal.
+</p></li>
+</ol>
+<p>
+<ol start="8" type="1">
+<li>Todos os Estados devem refletir sobre as consequências de tentarem conduzir o direito internacional para uma direção contrária a princípios ainda vigentes. Foi apropriado que as partes discutissem o que aconteceria se um juiz no Congo acusasse líderes europeus de crimes cometidos na África.
+</p></li>
+</ol>
+<p>
+<ol start="9" type="1">
+<li>Um cenário ainda mais pertinente seria imaginar juízes do Sul global, com igual qualificação e boa-fé, iniciando processos contra líderes do Norte por episódios militares recentes. Por que esses juízes se abstêm? Porque sabem que o direito internacional não permite tal exercício de jurisdição penal. Sabem que seus governos não sustentariam essa conduta no plano internacional. Se a aplicação do princípio da jurisdição universal prescindir da presença do acusado no foro, a coordenação internacional se torna impossível e o sistema de cooperação na repressão ao crime entra em colapso.
+</p></li>
+</ol>
+<p>
+<ol start="10" type="1">
+<li>Se a Corte tivesse examinado primeiro a questão da jurisdição, teria sido poupada de se pronunciar sobre a imunidade. De toda forma, concordo com as conclusões da maioria dos meus colegas nesse ponto. Entendo que, nas circunstâncias do caso, os tribunais belgas não tinham jurisdição para instaurar o processo penal, pois se apoiavam apenas no princípio da jurisdição universal, sem a presença do acusado em território belga. Ainda que se admitisse jurisdição, a imunidade do Ministro congolês de Relações Exteriores impediria tanto o início do processo quanto a emissão e circulação do mandado de prisão internacional.
+</p></li>
+</ol>
+<p>
+<em>(ass.) Francisco Rezek</em>”
+</p>
+<p>
+<span class="citation" data-cites="rezek_separate_2002">(<a href="#ref-rezek_separate_2002" role="doc-biblioref">REZEK, 2002</a>)</span>.
+</p>
+</div>
+<h3 id="jurisdição-consultiva">Jurisdição consultiva</h3>
+<p>Já a função consultiva da CIJ, embora não vinculante, é politicamente significativa. Ela permite que órgãos da ONU — como a Assembleia Geral ou o Conselho de Segurança — submetam dúvidas jurídicas à Corte, cujas respostas orientam a prática internacional. Muitas vezes, esses pareceres moldam o desenvolvimento do direito internacional, como ocorreu na opinião consultiva sobre a legalidade da construção do muro israelense nos Territórios Palestinos Ocupados, em 2004.</p>
+<p>A doutrina observa que, apesar da ausência de efeito vinculante dos pareceres, sua força reside na autoridade moral e jurídica que a Corte representa, influenciando votações em organismos internacionais, interpretações de normas e mesmo decisões políticas domésticas dos Estados envolvidos.</p>
+<h4 id="exemplo-parecer-sobre-o-muro-nos-territórios-palestinos-ocupados-2004">Exemplo: Parecer sobre o muro nos Territórios Palestinos Ocupados (2004)</h4>
+<p>Um exemplo marcante da atuação consultiva da CIJ é o parecer sobre as consequências jurídicas da construção de um muro nos Territórios Palestinos Ocupados, emitido em 2004 a pedido da Assembleia Geral das Nações Unidas. A Corte concluiu que a construção do muro por Israel em território palestino violava o direito internacional, notadamente as normas da IV Convenção de Genebra, o princípio da autodeterminação dos povos e as obrigações decorrentes da Carta da ONU. Apesar de não vinculante, o parecer teve enorme impacto político e jurídico, sendo citado em diversas resoluções da ONU e por organismos regionais de direitos humanos.</p>
+<div class="warning">
+<p>
+<b>Para saber mais: Parecer consultivo sobre o muro na Palestina</b>
+</p>
+<p>
+Em 2004, a CIJ respondeu à solicitação da Assembleia Geral da ONU sobre as consequências jurídicas da construção de um muro por Israel em território palestino ocupado. A Corte afirmou, por maioria, que:
+</p>
+<ul>
+<li>
+A construção do muro, assim como o regime associado a ele, violam o direito internacional;
+</li>
+<li>
+Israel deve cessar a construção, desmantelar as partes já construídas e reparar os danos causados;
+</li>
+<li>
+Todos os Estados devem não reconhecer a situação ilegal e não prestar ajuda ou assistência à sua manutenção.
+</li>
+</ul>
+<p>
+O parecer também afirmou que a construção do muro compromete gravemente o direito do povo palestino à autodeterminação. Ainda que não vinculante, o parecer tornou-se uma das decisões mais influentes da CIJ nas últimas décadas.
+</p>
+<p>
+🔗 <a href="https://www.icj-cij.org/en/case/131" target="_blank">Leia a íntegra do parecer no site da CIJ</a>
 </p>
 </div>
 <h2 id="cortes-regionais">Cortes regionais</h2>
-<ul>
-<li>Corte Europeia de Direitos Humanos</li>
-<li>Corte Interamericana</li>
-<li>Tribunal de Justiça da CEDEAO</li>
-<li>Tribunal Africano dos Direitos Humanos</li>
-</ul>
+<p>Além da CIJ, o sistema internacional conta com cortes regionais especializadas, voltadas principalmente à proteção dos direitos humanos ou à integração jurídica e econômica entre Estados. Essas cortes desempenham papel fundamental no fortalecimento da aplicação regional do direito internacional.</p>
+<h3 id="corte-europeia-de-direitos-humanos-cedh">Corte Europeia de Direitos Humanos (CEDH)</h3>
+<p>Estabelecida pela Convenção Europeia de Direitos Humanos (1950) e com sede em Estrasburgo, a CEDH é um órgão do Conselho da Europa. Tem competência para julgar violações de direitos humanos cometidas por Estados membros, podendo receber petições de indivíduos, grupos ou Estados. Suas decisões são obrigatórias e têm forte impacto na jurisprudência interna dos países europeus.</p>
+<h3 id="corte-interamericana-de-direitos-humanos-corte-idh">Corte Interamericana de Direitos Humanos (Corte IDH)</h3>
+<p>Criada em 1979 com base na Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), a Corte IDH tem sede em San José, Costa Rica. Atua tanto em caráter consultivo quanto contencioso, examinando casos de violação de direitos humanos nos Estados americanos que tenham reconhecido sua jurisdição. É um dos principais instrumentos do Sistema Interamericano de Proteção aos Direitos Humanos.</p>
+<h3 id="tribunal-de-justiça-da-cedeao">Tribunal de Justiça da CEDEAO</h3>
+<p>O Tribunal de Justiça da Comunidade Econômica dos Estados da África Ocidental (CEDEAO) foi criado para dirimir conflitos entre os Estados-membros da organização, inicialmente com foco em integração regional e direito econômico. A partir de 2005, sua competência foi ampliada para incluir violações de direitos humanos, o que consolidou seu papel como tribunal híbrido, com jurisdição tanto econômica quanto humanitária.</p>
+<h3 id="tribunal-africano-dos-direitos-humanos-e-dos-povos">Tribunal Africano dos Direitos Humanos e dos Povos</h3>
+<p>Criado em 2004 com base no Protocolo à Carta Africana dos Direitos Humanos e dos Povos, o tribunal tem sede em Arusha, Tanzânia. Complementa o trabalho da Comissão Africana, com competência para julgar casos de violações dos direitos consagrados na Carta Africana. Sua jurisdição abrange Estados e, em certos casos, indivíduos e ONGs, desde que o Estado requerido tenha feito declaração específica reconhecendo tal acesso.</p>
 <hr />
-<h2 id="encerramento">Encerramento</h2>
-<p>A pluralidade de mecanismos evidencia o esforço da comunidade internacional em buscar formas racionais e pacíficas de resolver seus conflitos. No entanto, as limitações estruturais (jurídicas e políticas) ainda impõem desafios, sobretudo no que tange à equidade no acesso e à efetividade das decisões.</p>
-<p>Como afirmam os críticos da TWAIL:</p>
-<div class="complementar">
-<p>
-<b>Trecho TWAIL:</b>
-</p>
-<p>
-“O sistema internacional é estruturado de forma a permitir que as grandes potências preservem sua soberania em detrimento dos povos colonizados e dos países periféricos, mesmo nas estruturas jurídicas aparentemente neutras.” <span class="citation" data-cites="chimni_outline_2008 gonzalez_hauck_public_2024">(<a href="#ref-chimni_outline_2008" role="doc-biblioref">CHIMNI, 2008</a>; <a href="#ref-gonzalez_hauck_public_2024" role="doc-biblioref">GONZÁLEZ HAUCK; KUNZ; MILAS, 2024</a>)</span>
-</p>
-</div>
+<h1 id="conclusão">Conclusão</h1>
+<p>A solução pacífica de controvérsias é um dos pilares normativos da ordem internacional contemporânea, consagrada no artigo 2º, §3º da Carta das Nações Unidas. Ao longo da aula, observamos a diversidade de mecanismos disponíveis — diplomáticos, políticos e jurisdicionais — e suas respectivas funções, procedimentos e limitações.</p>
+<p>Os meios diplomáticos, como os bons ofícios, a mediação e o inquérito, revelam a flexibilidade do sistema e sua dependência da vontade estatal. Já os mecanismos jurisdicionais, como a arbitragem e a atuação da CIJ, mostram como o direito internacional busca institucionalizar soluções jurídicas para disputas entre Estados, embora sua eficácia ainda dependa do consentimento soberano.</p>
+<p>A análise crítica de autores como Chimni, Gaeta e Rezek evidencia que, apesar de sua aparência formalmente neutra, os instrumentos de resolução de controvérsias refletem as assimetrias de poder que marcam a estrutura internacional. O acesso desigual, a seletividade na aplicação da jurisdição e a resistência dos grandes poderes à vinculação obrigatória são fatores que limitam a universalidade e a efetividade desses mecanismos.</p>
+<p>Por fim, os exemplos práticos — como o caso da Ilha de Palmas, o parecer sobre o muro na Palestina ou a atuação das cortes regionais — mostram que a resolução pacífica de disputas não é apenas uma norma jurídica, mas também um campo de disputa política, histórica e simbólica. Entender seus fundamentos, funções e contradições é essencial para a formação crítica em direito internacional.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+</div>
+</div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
 <div id="ref-accioly_manual_2023" class="csl-entry" role="listitem">
 ACCIOLY, H.; SILVA, G. E. D. N. E.; CASELLA, P. B. <strong><a href="https://integrada.minhabiblioteca.com.br/#/books/9786553624542/">Manual de direito internacional público</a></strong>. 26. ed. São Paulo: SaraivaJur, 2023.
 </div>
-<div id="ref-chimni_outline_2008" class="csl-entry" role="listitem">
-CHIMNI, B. S. An outline of a marxist course on public international law. Em: <strong>International law on the left: <span>Re</span>-examining <span>Marxist</span> legacies</strong>. Cambridge: Cambridge University Press, 2008. p. 53–91.
-</div>
 <div id="ref-gaeta_casseses_2020" class="csl-entry" role="listitem">
 GAETA, P. et al. <strong>Cassese’s international law</strong>. Third edition ed. Oxford: Oxford University Press, 2020.
 </div>
-<div id="ref-gonzalez_hauck_public_2024" class="csl-entry" role="listitem">
-GONZÁLEZ HAUCK, S.; KUNZ, R.; MILAS, M. (EDS.). <strong><a href="https://doi.org/10.4324/9781003451327">Public <span>International</span> <span>Law</span>: <span>A</span> <span>Multi</span>-<span>Perspective</span> <span>Approach</span></a></strong>. 1. ed. London: Routledge, 2024.
-</div>
 <div id="ref-noauthor_indonesian_2025" class="csl-entry" role="listitem">
 <strong>Indonesian invasion of <span>East</span> <span>Timor</span></strong>. <strong>Wikipedia</strong>, 2025. Disponível em: &lt;<a href="https://en.wikipedia.org/w/index.php?title=Indonesian_invasion_of_East_Timor&amp;oldid=1288907360">https://en.wikipedia.org/w/index.php?title=Indonesian_invasion_of_East_Timor&amp;oldid=1288907360</a>&gt;. Acesso em: 6 maio. 2025
+</div>
+<div id="ref-rezek_separate_2002" class="csl-entry" role="listitem">
+REZEK, F. <strong>Separate opinion of <span>Judge</span> <span>Rezek</span> in the case concerning the <span>Arrest</span> <span>Warrant</span> of 11 <span>April</span> 2000 (<span>Democratic</span> <span>Republic</span> of the <span>Congo</span> v. <span>Belgium</span>)</strong>., 2002. Disponível em: &lt;<a href="https://www.icj-cij.org/public/files/case-related/121/121-20020214-JUD-01-06-EN.pdf">https://www.icj-cij.org/public/files/case-related/121/121-20020214-JUD-01-06-EN.pdf</a>&gt;. Acesso em: 6 maio. 2025
 </div>
 <div id="ref-rezek_direito_2024" class="csl-entry" role="listitem">
 REZEK, F. <strong><a href="https://integrada.minhabiblioteca.com.br/#/books/9788553622870/">Direito internacional público</a></strong>. 19. ed. São Paulo: SaraivaJur, 2024.
