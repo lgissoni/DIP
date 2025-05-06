@@ -1,0 +1,44 @@
+---
+title: "PAP 2.2 – Direito Internacional Público"
+description: "Caso Congo x Bélgica (Mandado de Prisão – CIJ, 2002)"
+author:
+  - name: Luccas Gissoni
+    affiliation: Universidade Zumbi dos Palmares
+    affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+## Prova de Avaliação Prática – PAP 2.2  
+**Disciplina:** Direito Internacional Público  
+**Valor:** 1,0 ponto  
+**Prazo de entrega:** 11 de maio de 2025  
+
+---
+
+## Estudo de caso: Jurisdição universal e imunidade de agentes estatais
+
+Em 2000, a Bélgica emitiu um mandado internacional de prisão contra Abdulaye Yerodia Ndombasi, então Ministro das Relações Exteriores da República Democrática do Congo, acusando-o de envolvimento em crimes contra a humanidade. O mandado foi fundamentado em legislação belga que autorizava a jurisdição universal para crimes internacionais, mesmo sem vínculo direto com o território ou a nacionalidade belga.
+
+A República Democrática do Congo apresentou uma demanda à Corte Internacional de Justiça (CIJ) alegando que a emissão do mandado violava o direito internacional, em especial as normas sobre imunidade penal internacional de agentes estatais em exercício de funções oficiais. A Bélgica argumentou que a gravidade dos crimes justificava o uso da jurisdição universal, mesmo contra autoridades estrangeiras.
+
+Em 14 de fevereiro de 2002, a CIJ proferiu decisão reconhecendo que ministros das relações exteriores gozam de imunidade penal perante tribunais estrangeiros enquanto estiverem no exercício do cargo. A Corte afirmou que a imunidade não impede a responsabilização por crimes internacionais, mas que essa responsabilização deve ocorrer por mecanismos juridicamente válidos e respeitando os limites do direito internacional vigente.
+
+## Tarefa
+
+Com base no caso apresentado, no conteúdo da Aula 12 e nas discussões realizadas em sala, **elabore um parecer jurídico** respondendo à seguinte questão:
+
+> A emissão do mandado de prisão pela Bélgica violou normas do Direito Internacional? Quais os fundamentos jurídicos que sustentaram a decisão da CIJ?
+
+Seu parecer deve conter:
+
+- Identificação clara do problema jurídico;
+- Exposição dos argumentos de ambas as partes (Congo e Bélgica);
+- Fundamentação com base no Direito Internacional (jurisdição, imunidade, tratados, decisões da CIJ);
+- Resumo do entendimento adotado pela CIJ;
+- Conclusão fundamentada.
+
+**Extensão sugerida:** entre 25 e 35 linhas.  
+**Citações** podem ser utilizadas conforme as normas do curso (autor-data, ex: [@rezek_direito_2025]).
