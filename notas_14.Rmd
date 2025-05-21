@@ -1,0 +1,341 @@
+---
+title: "Aula 14 – Domínio público internacional"
+description: "Notas de aula – Semana de 19 a 21 de maio"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+---
+title: "Domínio Público Internacional e Direito do Mar"
+author: "Luccas Gissoni"
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output:
+  distill::distill_article:
+    self_contained: false
+    highlight: "textmate"
+    css: "style.css"
+bibliography: ["dip.bib"]
+csl: "abnt.csl"
+---
+
+# Introdução ao Domínio Público Internacional
+
+A expressão **domínio público internacional** refere-se àqueles espaços cuja utilização envolve o interesse de múltiplos Estados soberanos, ou mesmo da comunidade internacional como um todo, ainda que estejam sujeitos à incidência de soberania específica. 
+
+Esses espaços incluem:
+
+- O mar e seus diversos setores;
+- Rios internacionais;
+- Espaço aéreo;
+- Espaço extra-atmosférico;
+- Continente antártico.
+
+Nos capítulos seguintes, estudaremos esses domínios, com uma análise preliminar do continente antártico e do polo norte.
+
+---
+
+# O Polo Norte
+
+O Polo Norte possui pouca relevância econômica, o que explica seu modesto tratamento jurídico. Trata-se apenas de uma área marítima congelada permanentemente, sem massa terrestre significativa.
+
+- **Importância:** Principalmente corredor aéreo alternativo, ligando Europa e Extremo Oriente, com espaço de livre trânsito baseado no fato de a superfície ser alto-mar.
+- **Teoria dos setores:** Não justifica soberania sobre águas congeladas, mas a soberania das ilhas na região (por exemplo, ilhas Sverdrup, Spitzberg, Wrangel).
+
+<div class="warning">
+Os países que proclamaram soberania unilateral sobre essas ilhas — Canadá, Dinamarca, Noruega, Rússia — o fizeram invocando o princípio da contiguidade. Essas reivindicações não foram contestadas internacionalmente.
+</div>
+
+---
+
+# A Antártica
+
+O continente antártico é uma ilha gigantesca, quase totalmente coberta de gelo, circundando o círculo polar antártico. O interesse econômico e estratégico maior levou a várias reivindicações territoriais baseadas em diferentes teorias:
+
+- **Teoria dos setores:** Divide o continente em fatias triangulares projetadas a partir de diversos litorais, incluindo alguns distantes como México e Paquistão.
+- **Teoria da descoberta:** Invocada por países europeus tradicionais, como Reino Unido e Noruega.
+- **Controle efetivo do litoral:** Enfatizado pelos EUA, que não reconhecem reivindicações territoriais.
+- **Continuidade geológica:** Alegada pela Argentina.
+
+## Tratado da Antártica (1959)
+
+- Firmado em Washington, entrou em vigor em 1961.
+- Assinado por países como Argentina, Chile, Austrália, Noruega, França, Reino Unido, EUA, URSS.
+- Brasil aderiu em 1975.
+- Atualmente, 53 países são partes do tratado.
+
+<div class="complementar">
+O tratado estabelece:
+
+- Proibição da militarização e uso apenas para fins pacíficos;
+- Proibição de bases militares, testes de armas e lançamento de resíduos radioativos;
+- Estímulo à pesquisa científica e preservação ambiental;
+- Reuniões periódicas para intercâmbio científico;
+- Participação condicionada à demonstração de interesse e atividade científica (art. 9, § 2).
+</div>
+
+O Brasil realizou sua primeira expedição em 1982-1983 e instalou a Estação Antártica Comandante Ferraz.
+
+## Convenções Complementares
+
+- Convenção de Camberra (1980): Conservação dos recursos vivos adjacentes à Antártica.
+- Protocolo de Madri (1991): Proibição da exploração mineral por 50 anos, prorrogável por consenso.
+
+---
+
+# O Mar
+
+## Direito do Mar: Codificação
+
+Durante muito tempo, o direito do mar foi baseado principalmente em costumes internacionais. Sob o patrocínio da ONU, em 1958, foram elaboradas quatro convenções:
+
+1. Mar territorial e zona contígua
+2. Alto-mar
+3. Pesca e conservação de recursos vivos do alto-mar
+4. Plataforma continental
+
+Contudo, esses textos não tiveram aceitação generalizada. A era pós-1958 exigia uma visão renovada, dado o aumento da importância econômica e tecnológica dos oceanos.
+
+Charles Rousseau criticava o conceito de **res communis** para o mar, preferindo o conceito de **res nullius** — coisa de ninguém, porém insuscetível de apropriação, sujeita a competências estatais específicas.
+
+A Convenção das Nações Unidas sobre o Direito do Mar (CNUDM), concluída em Montego Bay (1982) e em vigor desde 1994, consolida hoje o regime jurídico do mar.
+
+- Brasil ratificou em 1988.
+- Lei 8.617/1993 incorporou seus princípios no direito interno.
+
+## Navios: Noção e Espécies
+
+- **Definição:** Todo engenho flutuante dotado de autopropulsão e organização conforme sua finalidade.
+- Características importantes:
+  - Nome;
+  - Porto de matrícula;
+  - Tonelagem;
+  - Nacionalidade (bandeira).
+
+### Navios Mercantes x Navios de Guerra
+
+- **Navios mercantes:** Geralmente privados, mas podem ser públicos.
+- **Navios de guerra:** Pertencem às forças armadas, têm sinais exteriores próprios, comando militar e tripulação sob disciplina militar.
+
+Navios de guerra gozam de imunidade e jurisdição exclusiva do Estado de origem, mesmo em mares territoriais alheios e portos estrangeiros. O mesmo vale para embarcações civis públicas não comerciais.
+
+O regime jurídico aplicável aos navios comerciais varia conforme o espaço marítimo onde se encontram.
+
+## Águas interiores
+
+- Incluem rios, lagos de água doce e pequenos mares interiores sem interesse internacional.
+- Referem-se também a águas marítimas situadas aquém da linha de base do mar territorial, como baías, portos, ancoradouros, e litorais recortados (ex.: costa da Noruega).
+
+> **Nota:** A linha de base geralmente segue a linha da costa na maré baixa, podendo afastar-se por conta de ilhas próximas e recortes profundos.
+
+- **Baías históricas** (como a baía de Hudson no Canadá) têm tratamento especial no direito internacional.
+
+## Plataforma Continental e Fundos Marinhos
+
+### Plataforma Continental
+
+Antes da fixação das zonas marítimas modernas (mar territorial de 200 milhas, zona econômica exclusiva), a plataforma continental já ocupava posição de destaque no direito internacional marítimo. Geograficamente, compreende a porção do leito e subsolo marinho adjacente à costa, com profundidade até cerca de 200 metros, onde se inicia o declive para os fundos oceânicos.  
+
+O Estado costeiro exerce direitos soberanos sobre a exploração dos recursos naturais dessa plataforma, independentemente da extensão dos seus mares territoriais, que no passado eram de 3 a 12 milhas marítimas, fato que fazia a maior parte da plataforma estar em águas de alto-mar.
+
+Um caso emblemático foi a chamada "guerra da lagosta" (1963), conflito diplomático entre Brasil e França motivado pela pesca de lagosta por navios franceses em águas próximas à costa brasileira, então limitadas a três milhas. O Brasil defendeu que a lagosta, espécie predominantemente bentônica, habitava a plataforma continental, não o alto-mar, fundamento que prevaleceu para o controle da atividade pesqueira.
+
+Nos termos da CNUDM (1982), o limite exterior da plataforma continental corresponde ao limite da zona econômica exclusiva (200 milhas a partir da linha de base), salvo se o bordo exterior da margem continental se estender além, até o máximo de 350 milhas.  
+
+Os direitos do Estado costeiro sobre a plataforma são exclusivos, não podendo outros Estados deles se beneficiar, diferentemente da zona econômica exclusiva, onde a liberdade de navegação e outras atividades são garantidas. Esses direitos não dependem de ocupação ou manifestação formal do Estado costeiro, mas apenas à exploração dos recursos naturais. Contudo, a soberania do Estado não impede o estabelecimento de cabos ou dutos submarinos por outros países, desde que haja observância das normas internacionais pertinentes.
+
+### Fundos Marinhos (Área)
+
+A Convenção de 1982 foi pioneira em estabelecer o regime jurídico dos fundos marinhos, denominados “área”, que compreende o leito e subsolo marinho além das plataformas continentais nacionais, áreas situadas no alto-mar e sob espaço aéreo correspondente.
+
+Os fundos marinhos são ricos em recursos minerais, especialmente nódulos polimetálicos. A CNUDM define a área e seus recursos como patrimônio comum da humanidade, o que gerou oposição de países como os Estados Unidos, que preferiam a classificação jurídica como res nullius, aguardando que o primeiro explorador com tecnologia avançada se beneficiasse.  
+
+A autoridade internacional dos fundos marinhos, formada pelos Estados-partes da Convenção, administra a exploração da área, que pode ser realizada por Estados e empresas sujeitas ao controle dessa autoridade.
+
+## Alto-Mar
+
+### Princípio da Liberdade
+
+O alto-mar, também chamado de liberdade dos mares, caracteriza-se pela ausência de soberania estatal e a liberdade de navegação e uso para todos os Estados. Este princípio, que remonta à Roma antiga e foi reforçado por teólogos espanhóis como Francisco de Vitória e Francisco Suárez, teve seu auge com a controvérsia entre Hugo Grotius, autor do *Mare Liberum* (1609), e John Selden, que defendeu em *Mare Clausum* (1635) a possibilidade de apropriação do mar, embora sem negar a liberdade coletiva da navegação.
+
+O direito convencional moderno, especialmente pelas Convenções de 1958 e 1982, reafirma a liberdade do alto-mar para navegação, sobrevoo, instalação de cabos e dutos submarinos, construção de ilhas artificiais, pesca e investigação científica. Também assegura a participação dos Estados sem litoral no uso do mar por meio da arvoragem de bandeiras de navios públicos e privados.
+
+### Restrições à Liberdade
+
+Embora ampla, a liberdade do alto-mar está sujeita a restrições essenciais para a manutenção da paz e da ordem internacional. O alto-mar deve ser utilizado para fins pacíficos, em conformidade com a proibição da guerra pós-1945.
+
+Além disso, cada Estado deve respeitar os interesses dos demais, colaborando na conservação dos recursos vivos, e na repressão da pirataria, tráfico de escravos, drogas, e transmissões ilegais a partir do mar.  
+
+Pirataria é o ato de saque ou apreensão violenta de navios, podendo ser praticada por embarcações com nacionalidade e não apenas por navios apátridas ou "piratas" clássicos.
+
+A repressão à pirataria e transmissões clandestinas pode ser realizada por naus de guerra em alto-mar, com base na jurisdição sobre o navio apreendido ou nos Estados afetados.
+
+### Disciplina da Navegação
+
+Para garantir a efetividade da jurisdição, a CNUDM combate o uso dos chamados "pavilhões facilitários", exigindo um vínculo substancial entre o Estado e o navio que arvorar sua bandeira. A jurisdição do Estado patrial sobre seus navios é presumida, e os navios de guerra podem exercer autoridade sobre embarcações da mesma nacionalidade.
+
+O direito de visita a navios de outras nacionalidades em alto-mar é restrito, sendo autorizada somente mediante fundada suspeita de pirataria, tráfico ilícito, transmissões clandestinas, ou falsificação da nacionalidade do pavilhão.  
+
+O direito costumeiro da perseguição contínua (*hot pursuit*), consagrado pela Convenção de 1982, permite que naus de guerra de um Estado costeiro persigam navios mercantes que infrinjam normas em seu mar territorial ou zona contígua, estendendo-se a perseguição até o alto-mar.
+
+## Conclusão
+
+O regime jurídico internacional do mar combina princípios de soberania e liberdade, adaptados às necessidades de exploração sustentável e pacífica dos oceanos. A Convenção de 1982 representa marco fundamental para a ordenação das diversas zonas marítimas, garantindo direitos exclusivos aos Estados costeiros sobre suas plataformas continentais, a gestão coletiva dos fundos marinhos como patrimônio comum da humanidade, e a liberdade do alto-mar limitada por obrigações internacionais essenciais.
+
+---
+
+# Rios Internacionais
+
+## 1. Conceito e importância dos rios internacionais
+
+Rios internacionais são definidos como cursos d'água que banham mais de um Estado soberano. Há uma distinção importante entre:
+
+- **Rios limítrofes (ou de fronteira):** servem como fronteira natural entre Estados.
+- **Rios de curso sucessivo:** percorrem territórios de diferentes Estados em sequência.
+
+Entretanto, a maioria dos grandes rios internacionais apresenta ambas as características, como o rio Amazonas, que, além de ser um rio de curso sucessivo entre Peru e Brasil, também atua como rio limítrofe entre Peru e Colômbia (sob o nome de Marañon) em uma pequena extensão.
+
+Exemplos ilustrativos:  
+- **Rio Reno:** predomina a função limítrofe, mas há sucessividade em sua parte baixa.  
+- **Rio Danúbio:** equilíbrio entre curso sucessivo e função de fronteira, banhando dez países europeus.
+
+> O interesse inicial por rios internacionais estava ligado à navegação, mas hoje sobressaem outras utilidades como a produção de energia elétrica, irrigação e uso industrial, além dos desafios ambientais, como a poluição.
+
+## 2. Alguns princípios fundamentais
+
+O direito aplicável aos rios internacionais é marcado por uma considerável **casuística** e poucos princípios gerais. A **Convenção de Barcelona (1921)** é um marco que define tais rios como "vias d'água de interesse internacional", incluindo certos lagos.
+
+Dois princípios destacados na Convenção são:
+
+- **Liberdade de navegação:** os Estados ribeirinhos não devem criar obstáculos à navegação.
+- **Igualdade no tratamento de terceiros:** Estados não ribeirinhos devem ser tratados de forma igualitária.
+
+Contudo, esses princípios, especialmente a liberdade de navegação para terceiros, são uma concepção europeia e não se aplicam integralmente às Américas, onde prevalece a soberania e o tratamento não discriminatório entre Estados ribeirinhos.
+
+Por exemplo, no caso do Amazonas, o Brasil não reconhece direito geral de navegação a potências estrangeiras, tratando-o como um rio doméstico ampliado, conforme o Decreto imperial de 7 de dezembro de 1866 que abriu as águas brasileiras do Amazonas para navegação mercante de todas as bandeiras.
+
+## 3. Regimes fluviais singulares
+
+### 3.1 Rios da América do Sul
+
+Os principais rios internacionais da América do Sul — **Amazonas, Paraná, Paraguai e Uruguai** — são abertos à navegação comercial em bases não discriminatórias por tratados antigos e atos unilaterais.
+
+Destacam-se dois tratados coletivos importantes firmados em Brasília:
+
+- **Tratado da Bacia do Prata (1969):** ratificado por Argentina, Bolívia, Brasil, Paraguai e Uruguai, objetiva o desenvolvimento harmônico, a avaliação e o uso racional dos recursos hídricos e a assistência à navegação fluvial.
+
+- **Tratado de Cooperação Amazônica (1978):** ratificado por Bolívia, Brasil, Colômbia, Equador, Guiana, Peru, Suriname e Venezuela, foca no desenvolvimento sustentável da região, preservação ambiental, intercâmbio de informações e ampla liberdade de navegação com base na reciprocidade.
+
+Estes tratados marcam um avanço no regime coletivo dos rios, permitindo a cooperação multilateral e gestão compartilhada.
+
+> **Nota:** Embora esses tratados promovam liberdade de navegação, o transporte de cabotagem permanece sob controle nacional — por exemplo, transporte entre portos brasileiros do Amazonas é reservado a embarcações nacionais.
+
+### 3.2 Outros regimes internacionais
+
+No contexto europeu, o rio Danúbio é um exemplo clássico de regime complexo, envolvendo múltiplos Estados ribeirinhos (Alemanha, Áustria, Hungria, entre outros) e uma Comissão Europeia do Danúbio que coordena administração, navegação, obras e litígios.
+
+Outros rios com regimes similares incluem:
+
+- Reno, Mosela, Escalda e Mosa na Europa;
+- Ganges, Indus e Mecong na Ásia;
+- Congo, Gâmbia, Níger, Nilo, Senegal e Zambeze na África;
+- Rio Grande, Colorado, Colúmbia e São Lourenço na América do Norte.
+
+Esses regimes demonstram a diversidade de arranjos jurídicos e administrativos para gestão de recursos hídricos internacionais, adaptados às condições políticas e geográficas de cada região.
+
+---
+
+# Espaço
+
+Nesta aula estudaremos a disciplina jurídica do espaço no Direito Internacional, distinguindo o espaço aéreo do espaço extra-atmosférico, além das normas sobre segurança, nacionalidade das aeronaves e as chamadas cinco liberdades do ar. A exposição segue as lições de Francisco Rezek (@rezek_direito_2025).
+
+## 1. Distinção preliminar: espaço aéreo e espaço extra-atmosférico
+
+Segundo Rezek (@rezek_direito_2025), o Direito Internacional distingue dois regimes jurídicos fundamentais:
+
+- **Espaço Aéreo:** regido pela soberania plena do Estado subjacente, isto é, aquele que possui a superfície terrestre ou hídrica abaixo.
+- **Espaço Extra-atmosférico:** também denominado espaço sideral, onde vigora um regime uniforme e análogo ao do alto-mar, sem sujeição à soberania estatal.
+
+O limite entre esses dois espaços é tecnicamente impreciso, mas na prática não afeta a regulamentação, visto que a órbita de satélites supera largamente a altitude máxima dos aviões convencionais.
+
+## 2. O espaço aéreo
+
+### 2.1. Princípios elementares
+
+Conforme o princípio clássico, **cada Estado exerce soberania plena sobre o espaço aéreo acima de seu território e mar territorial**. Isso significa que:
+
+- Não há direito de passagem inocente no espaço aéreo, diferentemente do que ocorre no mar territorial.
+- A aviação estrangeira só pode sobrevoar ou operar no espaço aéreo nacional mediante tratados ou permissões.
+
+Sobre espaços onde não há soberania estatal, como o **alto-mar** e a **Antártica**, a navegação aérea é livre, seja civil ou militar.
+
+#### Casos históricos relevantes
+
+- **1960:** avião U-2 dos EUA abatido na URSS.
+- **1983:** abate de avião civil coreano pela URSS.
+- **Década de 1980:** abate de avião civil líbio por Israel.
+
+Esses episódios destacam o conflito entre soberania e segurança, culminando na **emenda de 1984 às Convenções de Chicago**, que buscou restringir o uso da força contra aeronaves civis.
+
+### 2.2. Normas convencionais
+
+O Direito Internacional sobre aviação civil estruturou-se em três tratados multilaterais iniciais:
+
+1. **Convenção de Paris (1919):** primeira codificação ampla sobre a aviação civil.
+2. **Convenção de Havana (1928):** ratificada por poucos países e logo abandonada.
+3. **Convenção de Varsóvia (1929):** sobre responsabilidade civil do transportador aéreo, ainda vigente com modificações.
+
+O grande marco é o **Conjunto das Convenções de Chicago (1944)**, que:
+
+- Estabeleceu as bases atuais da aviação civil internacional.
+- Criou a **Organização da Aviação Civil Internacional (OACI)**, com sede em Montreal.
+- Regulamentou aspectos técnicos, operacionais e administrativos da aviação civil.
+
+A OACI não se confunde com a **IATA**, que é uma associação privada de empresas aéreas, voltada para questões comerciais como tarifas e serviços.
+
+### 2.3. Nacionalidade das aeronaves
+
+Toda aeronave internacional deve ter **uma única nacionalidade**, determinada pelo registro (ou matrícula), que vincula a responsabilidade estatal.
+
+Diferente dos navios, as **matrículas de complacência** não são comuns na aviação, possivelmente pelo histórico de estatização das companhias aéreas.
+
+Exemplo: companhias multinacionais como a **SAS** ou a **Air Afrique** exigem que cada aeronave tenha uma nacionalidade específica, comprovada pela matrícula.
+
+### 2.4. O sistema das cinco liberdades do ar
+
+Instituído nas Convenções de Chicago, o sistema das **cinco liberdades** regula os direitos de tráfego aéreo:
+
+1. **Sobrevoo** do território de outro Estado (sujeito a restrições não discriminatórias).
+2. **Escala técnica**, quando necessária.
+3. **Desembarque** de passageiros e mercadorias oriundos do Estado de matrícula.
+4. **Embarque** de passageiros e mercadorias com destino ao Estado de matrícula.
+5. **Embarque e desembarque** de passageiros ou mercadorias com origem ou destino a terceiros Estados (exige tratado especial).
+
+#### Exemplos práticos:
+
+- Relações **Brasil-Marrocos**: limitadas à terceira e quarta liberdades.
+- Relações **Brasil-Argentina**: incluem a quinta liberdade, permitindo que companhias brasileiras embarquem passageiros de terceiros países para Buenos Aires e vice-versa.
+
+Importante: a **cabotagem aérea** (transporte doméstico) é normalmente reservada a empresas nacionais, salvo acordo especial — como ocorre na **União Europeia**.
+
+## 3. Segurança do tráfego aéreo
+
+O crescimento dos atos ilícitos na aviação levou à adoção de tratados específicos:
+
+- **Convenção de Tóquio (1963):** crimes cometidos a bordo.
+- **Convenção de Haia (1970):** repressão ao sequestro de aeronaves.
+- **Convenção de Montreal (1971):** combate a atos contra a segurança da aviação.
+- **Protocolo de Montreal (1988):** estende proteção a aeroportos.
+- **Medidas pós-2001:** reforço das normas de segurança e prevenção contra o terrorismo, com destaque para as recomendações da **OACI**.
+
+O equilíbrio entre soberania, segurança e proteção dos direitos humanos é a tônica da disciplina internacional do espaço aéreo contemporâneo.
+
+## Conclusão
+
+O regime jurídico do espaço, especialmente do espaço aéreo, expressa uma articulação complexa entre soberania estatal, segurança internacional e liberdade de navegação. A OACI desempenha papel central na uniformização das regras, enquanto tratados multilaterais oferecem a estrutura normativa para a aviação civil e sua segurança.
+

@@ -322,7 +322,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Semana 14
 
-**Notas de aula**  
+[**Notas de aula**](notas_14.html)    
 **Bibliografia:** @rezek_direito_2024, parte III
 
 ### 19/05 - aula 14.1: domínio público internacional, parte 1

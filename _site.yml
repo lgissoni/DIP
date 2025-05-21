@@ -38,6 +38,8 @@ navbar:
           href: notas_11_2.html
         - text: "Semana 12"
           href: notas_12.html
+        - text: "Semana 14"
+          href: notas_14.html
     - text: "PAPs"
       menu:
         - text: "PAP 1.2"
