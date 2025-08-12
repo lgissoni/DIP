@@ -15,6 +15,8 @@ csl: abnt.csl
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+O programa abaixo também está disponível [aqui](resources/dip_programa.pdf).
+
 ## Semana 1
 
 [**Notas de aula**](notas_1.html)  
