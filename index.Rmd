@@ -1,7 +1,8 @@
 ---
 title: "Direito Internacional Público"
 description: |
-  Bacharelado em direito - Universidade Zumbi dos Palmares
+  **Bacharelado em Direito - 3º Semestre**
+  **Universidade Zumbi dos Palmares**
 site: distill::distill_website
 bibliography: dip.bib
 csl: abnt.csl
@@ -51,21 +52,21 @@ O curso contará com **aulas expositivas** e momentos de reflexão individual e 
 
 #### Bibliografia básica
 
-@brasil_decreto_1945  
-@brasil_decreto_2009  
-@rezek_direito_2025  
+- @brasil_decreto_1945  
+- @brasil_decreto_2009  
+- @rezek_direito_2025  
 
 #### Bibliografia complementar
 
-@accioly_manual_2019  
-@accioly_manual_2023  
-@brasil_constituicao_1988  
-@chimni_outline_2008  
-@gaeta_casseses_2020  
-@gonzalez_hauck_public_2024  
-@grieco_introduction_2015  
-@fukuyama_end_1989  
-@shaw_international_2021  
+- @accioly_manual_2019  
+- @accioly_manual_2023  
+- @brasil_constituicao_1988  
+- @chimni_outline_2008  
+- @gaeta_casseses_2020  
+- @gonzalez_hauck_public_2024  
+- @grieco_introduction_2015  
+- @fukuyama_end_1989  
+- @shaw_international_2021  
 
 ### Referências Adicionais
 
@@ -114,6 +115,29 @@ A média para aprovação no curso é de **6 pontos**. Caso não a alcance media
 - Se o/a estudante obtiver, no mínimo **3 pontos**, terá a oportunidade de avaliação extraordinária através do **exame** 
 
 - Se o/a estudante obtiver média inferior a **3 pontos**, estará automaticamente reprovado/a
+
+##### Nota bimestral
+
+A nota bimestral é simplesmente a soma das notas da PAP e da PAT:
+
+$$\text{Nota Bimestral} = \text{Nota PAP} + \text{Nota PAT} $$
+
+##### Média semestral
+
+A média do curso é a média aritmética simples das notas dos dois bimestres: 
+
+$$\text{Média Semestral} = \frac{\text{Nota Bimestre 1} + \text{Nota Bimestre 2}}{2} $$
+**Situações:**
+
+- Se a **Média Semestral** for, no mínimo, **6 pontos**, o estudante está aprovado/a
+- Se a **Média Semestral** for, no mínimo, **3 pontos**, mas inferior a **6**, o estudante terá a oportunidade de avaliação extraordinária através do **exame**
+- Se a **Média Semestral** for inferior a **3 pontos**, o estudante estará automaticamente reprovado/a 
+
+##### Nota final
+
+A nota final, caso o estudante faça o exame, é a média aritmética simples entre a Média Final do semestre e a nota do Exame: 
+
+$$\text{Nota Final} = \frac{\text{Média Semestral} + \text{Nota Exame}}{2} $$
 
 **Observação:** A média para aprovação no exame é de **5 pontos**.
 
