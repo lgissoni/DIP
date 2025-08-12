@@ -21,11 +21,11 @@ Este é o site da disciplina "**direito internacional público**", do 3º semest
 
 ## Informações básicas
 
-- **Período:** primeiro semestre, 2025
+- **Período:** segundo semestre, 2025
 - **Sala:** 1 - Mano Brown
 - **Horários:**
-  - segundas, 19h00-20h40
-  - quartas, 21h00-22h35
+  - segundas, 21h00-22h35
+  - sextas, 21h00-22h35
 - **Professor:** Luccas Gissoni
 
 ## Apresentação
@@ -77,21 +77,25 @@ Os alunos podem consultar materiais complementares nos seguintes sites:
 
 ### Aulas, leituras e materiais
 
-Teremos momentos de aulas expositivo-dialogadas em que discutiremos a bibliografia do curso. Neste site, também estarão disponíveis as notas de aula, elaboradas pelo professor, que servirão de material de apoio. A leitura de ambos os materiais é obigatória.
+Teremos momentos de aulas expositivo-dialogadas em que discutiremos a bibliografia do curso. Neste site, também estarão disponíveis as notas de aula, elaboradas pelo professor, que servirão de material de apoio. **A leitura de ambos os materiais é obrigatória**.
 
 ### Avaliação
 
 #### Tipos de avaliação
 
-A avaliação será dividida em dois bimestres, cada um dos quais contará com quatro **PAP**, cada uma valendo **1 ponto** e uma **PAT**, valendo **7 pontos**. A nota final será a **média aritmética dos dois bimestres** e haverá possibilidade de realização de **prova substitutiva** e **exame**. 
+A avaliação será dividida em dois bimestres, cada um dos quais contará com uma prova de avaliação prática (**PAP**) valendo **3 pontos** e uma prova de avaliação teórica (**PAT**), valendo **7 pontos**. A nota final será a **média aritmética dos dois bimestres** e haverá possibilidade de realização de prova substitutiva (**SUB**) e **exame**. 
 
 ##### PAP
 
-As PAP constituirão 4 atividades ou trabalhos escritos individuais por bimestre. Cada uma valerá 1 ponto e a pior nota será **descartada**. As PAP serão realizadas em casa. Em geral, o **prazo** de entrega da atividade será no **domingo seguinte** à sua explicação em sala. Os textos devem ser obrigatoriamente digitados e entregues (em pdf, odt ou doc) no email [**luccas.gissoni@gmail.com**](mailto:luccas.gissoni@gmail.com), com assunto **"DIP - PAP x.y - NOME DO/A ESTUDANTE"**, onde "x.y" é a numeração da PAP.
+As PAP constituirão duas **atividades ou trabalhos escritos individuais**, uma por bimestre. Cada uma valerá **3 pontos**. As PAP serão realizadas em sala.
 
-##### PAT
+##### PAT e SUB
 
-As PAT serão constituídas por dez **questões objetivas** valendo **5 pontos** e uma ou duas **questões dissertativas** valendo **2 pontos**. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
+As PAT serão constituídas por cinco **questões objetivas** valendo **5 pontos** e uma ou duas **questões dissertativas** valendo **2 pontos**. A SUB terá a mesma estrutura. Todas serão baseadas na experiência de prova do Exame de Ordem e do ENADE.
+
+##### Exame
+
+O Exame será composto por sete **questões objetivas** valendo **7 pontos** e duas ou três **questões dissertativas** valendo **3 pontos**.
 
 #### Critérios de Avaliação
 
@@ -103,9 +107,20 @@ As avaliações serão avaliadas com base nos seguintes critérios:
 
 - Originalidade da análise e uso de referências adequada
 
+#### Fórmula de cálculo da nota
+
+A média para aprovação no curso é de **6 pontos**. Caso não a alcance mediante a realização das avaliações ordinárias (PAP, PAT e, caso necessário, SUB), podem ocorrer as seguintes situações:
+
+- Se o/a estudante obtiver, no mínimo **3 pontos**, terá a oportunidade de avaliação extraordinária através do **exame** 
+
+- Se o/a estudante obtiver média inferior a **3 pontos**, estará automaticamente reprovado/a
+
+**Observação:** A média para aprovação no exame é de **5 pontos**.
+
 ## Plágio e uso indevido de IA em atividades acadêmicas
 
 O compromisso com a **autenticidade e integridade acadêmica** é essencial para seu aprendizado e desenvolvimento profissional. O uso indevido de **inteligência artificial (IA)** e a prática de **plágio** comprometem esse princípio e terão **consequências rigorosas**.
+
 
 ### Plágio
 
