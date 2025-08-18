@@ -11,61 +11,9 @@ bibliography: dip.bib
 csl: abnt.csl
 ---
 
-# Breve introdução às teorias das relações internacionais
+# Fundamento do direito internacional público e confronto entre direito internacional e direito interno
 
-Durante o século XX, emergiram no campo anglógono de relações internacionais (RIs) algumas tradições teóricas que merecem nossa análise.
-
-> Cada uma dessas tradições teóricas atribui diferentes níveis de importância aos aspectos fundamentais para a compreensão das relações internacionais. Cada uma estabelece uma série de pressupostos e, a partir deles, direciona a atenção para diferentes forças motrizes a fim de dar sentido à complexidade da política mundial. Realistas e construtivistas, ou liberais e marxistas, observam o mesmo mundo, mas cada um enfatiza aspectos muito distintos ou, mais precisamente, mecanismos causais diferentes para compreendê-lo [@grieco_introduction_2015, p. 71, tradução própria].
-
-## Realismo
-
-Os realistas veem as relaçõe internacionais como uma competição entre os Estados por poder em segurança em um mundo perigoso. Esse mundo é caracterizado pela **anarquia**: cada Estado precisa cuidar de sua própria segurança, daí decorrendo a inevitabilidade da competição e do conflito
-
-### Pressupostos
-
-1. Grupos humanos (atualmente Estados) existem em um mundo onde não há autoridade superior que possa assegurar a ordem ou o cumprimento das regras. Isto resulta numa permanência histórica - a competição e o conflito sempre estiveram presentes - a qual decorre não da natureza humana, mas da estrutura anárquica do sistema internacional.
-1. Uma vez que anarquia cria insegurança, as pesssoas organizam-se em grupos conflitantes para proteger-se e enfrentar os grupos rivais. Atualmente, esses grupos são os Estados. Os Estados são os principais atores nas RIs, pois são eles que coletam e organizam recuros para imprimir segurança. Outros tipos de atores internacionais (organizaçõs internacionais, empresas multinacionais, igrejas) podem exister e florescer, mas são secudárias.
-1. Estados são atores racionais que ponderam os custos e benefícios de suas ações ao fazer escolhas.
-1. Segurança é o problema central da política internacional.
-1. A luta pela segurança é um jogo de soma zero: se um Estado se fortalece, necessariamente outro(s) se enfraquece(m). Em política internacional, há ganhadores e perdedores.
-
-### Proposições
-
-1. A dinâmica básica do sistema internacional é o **balanço de poder**. Se um Estado se fortalece construindo um exército poderoso, seu vizinho se sentirá ameaçado e passará a fortalecer seu prórpio exército para contrabalancear. Estados também podem se fortalecer formando coalizões contra um inimigo em comum; por exemplo, no século XIX a França napoleônica emergiu concentrando uma enorme quantidade de poder, o que levou à aliança entre outros Estados, como a Áustria-Hungria, a Grã-Bretanha, a Prússia e a Rússia, a qual eventualmente empurrou as tropas francesas novamente para dentro de suas fronteiras.
-1. Um Estado nunca tem certeza sobre as intenções dos outros. Um Estado que aumenta seu poder o faz para se proteger porque se sente ameaçado, ou para subjugar seus vizinhos? Isso leva ao **dilema da segurança**: o Estado A sente-se ameaçado pelo B, o que o leva a aumentar seu poder, o que faz com que o Estado B sinta-se ameaçado e aumente o seu poder, o que leva o Estado A a se sentir mais ameaçado, e assim por diante, gerando uma corrida armamentista.
-1. Estados preocupam-se mais com **ganhos relativos** de poder que com ganhos absolutos. Os ganhos relativos referem aos ganhos de um Estado em relação aos demais. Atualmente, por exemplos, alguns teóricos realistas argumentam que ao se relacionar comercialmente com a China, os Estados Unidos a estão ajudando a obter ganhos relativos que ameaçarão sua segurança no futuro, embora, em termos absolutos, eles estejam ganhando também.
-1. Os realistas preocupam-se com as **transições de poder**, isto é, quando um Estado emergente aumenta seu poder até igualar ou ultrapassar o Estado anteriormente mais poderoso. Por exemplo, entre o final do século XIX e o início do século XX, a Alemanha emergiu e desafiou a hegemonia da Grã-Bretanha. Atualmente, a China ameaça a hegemonia estadunidense. Transições de poder são momentos perigosos que podem levar a uma guerra, como no caso da emergência da Alemanha, mas também podem ser pacíficas, como quando os Estados Unidos substituiram a Grã-Bretanha como potência hegemônica.
-1. O **nacionalismo** é uma força dinâmica nas RIs. Nacionalismo é a percepção de um grupo de pessoas com uma história e cultura comuns de que compartilham o mesmo destino político. Estados contam com o nacionalismo ao pedir sacrifícios das pessoas, por exemplo cobrando delas impostos ou as convocando para o serviço militar e para a guerra.
-
-## Liberalismo
-
-Se, de um lado, a guerra e o conflito tem sido uma costante na história, também o tem sido o comércio, a pacificação de disputas e a cooperação entre os Estados.  A tradição liberal enfatiza a expansão internacional do capitalismo e das relações de mercado, da democracia, e do direito e instituições internacionais.
-
-### Pressupostos
-
-1. O mundo e a humanidade está em constante evolução de suas tecnologias e instituições. Isto contrasta com o pensamento realista que enfatiza o caráter cíclico da história, com a humanidade cometendo sempre os mesmos erros. "Os realistas enfatizam a recorrência da guerra; os liberais buscam maneiras de transcendê-la" [@grieco_introduction_2015, p. 80, tradução própria].
-1. Indivíduos e grupos, e não Estados, são os atores básicos das RIs: pessoas, grupos societários, firmas, associações etc. operam no interior dos Estados e entre eles. Isto não significa que que os Estados não sejam importantes: indivíduos e grupos constroem grupos políticos maiores, como os Estados, e esses grupos também importam. Além disso, o tamanho e o caráter das comunidades humanas também evoluem e mudam: por exemplo, após a II Guerra Mundial, os europeus construíram a União Europeia (UE), isto é, um projeto de comunidade política que transcende o nacionalismo e soberania dos Estados europeus. Na verdade, a expansão da democracia liberal baseada na soberania popular e no Estado de direito constituiu o avanço histórico fundamental que permitiu aos indivíduos e grupos transcederem as antigas formas de nacionalismo e império e fortalecer o direito internacional e a cooperação entre os Estados. Assim, indivíduos e grupos são importantes justamente por terem a habilidade potencial de superar antigas formas de guerra e hotilidade entre os povos e estabelecer formas mais pacíficas e cooperativas de política internacional.
-1. Indivíduos têm incentivos e impulsos enraízados em profundas estruturas sociais para comercializar, negociar e buscar o compromisso em prol de benefícios mútuos. Eles podem ultrapassar os "ganhos relativos" e buscar oportunidades de "ganhos conjuntos". Embora as relações entre os Estados não sejam inerentemente pacíficas, há amplo espaço para que eles trabalhem por interesses comuns através da cooperação no interior de suas sociedades e através do sistema internacional.
-1. O avanço e a modernização tendem a levar as sociedades a um caminho comum em direção à democracia e a economia de mercado, pois produzem desafios e respostas comuns. Em outras palavras, o movimento da história produz um caminho comum mais ou menos linear em direção à democracia liberal e ao capitalismo. Na vanguarda desse movimento histórico estão as sociedade capitalistas avançadas; por meio do comércio, intercâmbio, inovação e aprendizado, todas as sociedades do mundo tendem a mover-se nessa direção.
-1. Em suma, existe progresso. A condição humana irá melhorar. Indivíduos e grupos aprendem. Eles respondem a incentivos para tornar o mundo melhor. Ao olhar para o mundo, o liberal vê que o progresso de fato ocorreu: a escravidão foi abolida, o genocídio agora é um crime contra a humanidade, o  despostismo é visto como profundamente ilegítimo.
-
-### Proposições
-
-1. A sociedade de mercado e a interdependência econômica têm efeitos pacificadores sobre as relações entre os Estados. Quando o intercâmbio comercial entre dois Estados cresce, surgem, em ambos, interesses estabelecidos na manutenção dessa realação, pois a guerra teria efeitos negativos sobre os lucros e o emprego. Apoiando-se na categoria de **liberalismo comercial**, de Adam Smith (filósofo escocês do século XVIII pioneiro da economia política), os liberais acreditam que a economia de mercado torna os indivíduos mais racionais e materialistas, para quem os custos da guerra seriam inaceitavelmente altos.
-1. A segunda proposição apoia-se no argumento que p filósofo alemão Immanuel Kant desenvolveu em seu ensaio "A paz perpétua", de 1795. Segundo ele, "Repúblicas", isto é, Estados que têm governos eleitos, imprensa livre, propriedade privada e direito, são pacíficas entre si. Modernizando a tese, os liberais propuseram várias razões para que democracias não entrariam em guerra contra outras democracias:
-  - Democracias têm aspirações parecidas para o sistema internacional: que ele seja aberto e baseado em regras e instituições. Assim, elas veriam as demais democracias como Estados legítimos cujos interesses e segurança devem ser honrados e respeitados. Seria difícil para elas declarar guerra entre si, tendo essa forte ligação e valores e interesses compartilhados.
-  - Em democracias, os cidadãos pagam o preço, em sangue e dinheiro, da guerra. Eles também escolhem seus líderes, os quais respondem por suas ações. Assim, os cidadãos estão numa posição de evitar os custos da guerra votando em líderes que defendam a paz.
-  - Governos demcráticos tende, a ser transparentes, tornando mais fácil a construção da confiança e cooperação entre eles.
-Essas características permitem aos governos democrátios transcenderem as inseguranças da anarquia internacional e construir zonas de paz integradas e cooperativas.
-3. Estados construirão relações internacionais em por meio do direito e instituições internacionais, os quais podem desempenhar um papel importante na definição do funcionamento das relações entre os Estados. 
-
-> Essa visão remonta a filósofos do século XVII, como John Locke, e aos primeiros teóricos modernos do direito internacional. Nessa época, surgiu um pensamento político que defendia os direitos legais e constitucionais dos indivíduos dentro das sociedades ocidentais. O poder do Estado – assim como o governo autocrático e monárquico – deveria ceder ao Estado de Direito e à soberania dos indivíduos. Os direitos individuais passaram a ser fundamentados no reconhecimento de que todas as pessoas são membros iguais da comunidade humana. Foi apenas um pequeno passo para reconhecer que as leis que orientavam e limitavam o exercício do poder dentro das sociedades liberais também possuíam relevância nas relações entre as democracias liberais. Os indivíduos de outros Estados também eram portadores de direitos como membros da humanidade, e, portanto, os líderes dos Estados liberais deveriam respeitar as leis que protegiam esses indivíduos dentro de seus próprios países [@grieco_introduction_2015, p. 84, tradução própria].
-
-Os Estados poderiam não cooperar por receio de que seu parceiro não cumpra sua parte do trato. Nessa situação, as instituições e o direito permitem dar razoável certeze de que o acordo será honrado, favorecendo a cooperação.
-
-> Quando os Estados concordam em seguir um conjunto de regras e instituições, eles aceitam limitar sua liberdade de ação. Os liberais argumentam que os Estados escolhem se vincular a acordos institucionais quando isso cria incentivos e obrigações para que outros Estados façam o mesmo. Esses acordos recíprocos para operar dentro de regras e instituições estabelecem um ambiente previsível e funcional, no qual todos os Estados podem perseguir seus interesses. Mesmo os Estados mais poderosos podem considerar o compromisso de atuar dentro de regras e instituições mutuamente acordadas como uma forma de proteger seus interesses globais e tornar seu papel de liderança internacional mais aceitável para os demais Estados [@grieco_introduction_2015, pp. 84-85, tradução própria].
-
-# Sociedade descentralizada e direito internacional
+## Sociedade descentralizada ou anárquica?
 
 - Sociedade internacional é descentralizada e não há autoridade superior aos Estados
 - Direito internacional público: ausência das comodidades próprias do direito interno
@@ -82,34 +30,51 @@ Os Estados poderiam não cooperar por receio de que seu parceiro não cumpra sua
 
 > Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções, em razão da falta de uma autoridade central provida de força física e de legitimidade para tanto. [...] Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas [@rezek_direito_2024, p. 7].
 
-# Fundamento do direito internacional público
+## Sociedade descentralizada e direito internacional
+
+- Sociedade internacional é descentralizada e não há autoridade superior aos Estados
+- Direito internacional público: ausência das comodidades próprias do direito interno
+- Menor objetividade e ausência de valores absolutos
+
+> No plano interno, a autoridade superior e o braço forte do Estado garantem a vigência da ordem jurídica, subordinando as proposições minoritárias à vontade da maioria, e fazendo valer, para todos, tanto o acervo legislativo quanto as situações e atos jurídicos que, mesmo no âmbito privado, se produzem na sua conformidade. [...] Não há representação, como no caso dos parlamentos nacionais que se propõem exprimir a voz dos povos, nem prevalece o princípio majoritário. A vontade singular de um Estado soberano somente sucumbe para dar lugar ao primado de outras vontades reunidas quando aquele mesmo Estado tenha, antes, concordado com a adoção de semelhante regra, qual sucede no quadro das organizações internacionais, a propósito de questões de importância secundária [@rezek_direito_2024, p. 7].
+
+|                     | **Direito Interno** | **Direito Internacional** |
+|---------------------|--------------------|--------------------------|
+| **Autoridade superior** | Presente           | Ausente                  |
+| **Criação de normas**   | Representação      | Obra dos destinatários   |
+| **Relações**           | Subordinação       | Coordenação              |
+| **Jurisdição**        | Aceitação obrigatória | Necessária aquiescência |
+
+> Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções, em razão da falta de uma autoridade central provida de força física e de legitimidade para tanto. [...] Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas [@rezek_direito_2024, p. 7].
+
+## Fundamento do direito internacional público
 
 - Repousa sobre o consentimento
 - Estados subordinam-se unicamente ao direito com o qual **consentiram**
 
 > Vale destacar, por outro lado, certas regras consolidadas com vigor no século XX, tais a proscrição do uso da força e os princípios da não intervenção e da autodeterminação, ou ainda um pouco antes, qual a condenação da escravatura. [...] Assim, o tráfico de escravos e a guerra de conquista, lícitos outrora, estão hoje condenados, sendo seguro que não voltarão, amanhã, à condição de licitude [@rezek_direito_2024, p. 7].
 
-# Confronto entre direito internacional e direito interno
+## Confronto entre direito internacional e direito interno
 
-## Dualismo
+### Dualismo
 
 - Carl Heinrich Triepel (Alemanha); Dionisio Anzilotti (Itália)
 - Direito internacional e direito interno de cada Estado são rigorosamente independentes e distintos
 - Validade da norma interna não se condiciona à sua sintonia com o direito internacional
 - Ênfase à diversidade das fontes de produção das normas jurídicas, aos limites de validade do direito nacional, e à circunstância de que a norma internacional não opera no interior do Estado nacional senão quando este, por tê-la aceitado, promove sua introdução no plano doméstico
 
-## Monismo
+### Monismo
 
 - Unicidade da ordem jurídica interna e internacional
 
-### Monismo internacionalista
+#### Monismo internacionalista
 
 - Hans Kelsen (Áustria)
 - Primado do direito internacional
 - Normas internas se ajustam a ele
 - Perspectiva idealista que um dia se instaure a ordem única internacional, e denúncia à ideia de que o Estado possa sobreviver de forma autárquica
 
-### Monismo nacionalista
+#### Monismo nacionalista
 
 - Juristas soviéticos
 - Primado do direito nacional do Estado soberano

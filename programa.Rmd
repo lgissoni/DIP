@@ -19,21 +19,17 @@ O programa abaixo também está disponível [aqui](resources/dip_programa.pdf).
 
 ## Semana 1
 
-[**Notas de aula**](notas_1.html)  
-**Bibliografia:** @rezek_direito_2024, introdução
-
 ### 15/08 - aula 1.1: introdução
 
   1. Apresentação do curso
   1. Leitura do programa
-  1. Características da sociedade internacional: sociedade descentralizada ou anárquica?
 
 ## Semana 2
 
-[**Notas de aula**](notas_2.html)  
-**Bibliografia:** @grieco_introduction_2015, cap. 3; @rezek_direito_2024, introdução
-
 ### 18/08 - aula 2.1: breve introdução às teorias das relações internacionais
+
+[**Notas de aula**](notas_1.html)  
+**Bibliografia:** @grieco_introduction_2015, cap. 3
 
   1. Breve introdução às teorias das relações internacionais
       a. Realismo
@@ -45,6 +41,10 @@ O programa abaixo também está disponível [aqui](resources/dip_programa.pdf).
 
 ### 22/08 - aula 2.2: o fundamento do direito internacional público
 
+[**Notas de aula**](notas_2.html)  
+**Bibliografia:** @rezek_direito_2024, introdução
+
+  1. Características da sociedade internacional: sociedade descentralizada ou anárquica?
   1. Sociedade descentralizada e direito internacional
   1. O fundamento do direito internacional público
   1. Confronto entre direito internacional e direito interno  
