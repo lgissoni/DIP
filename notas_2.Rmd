@@ -15,70 +15,72 @@ csl: abnt.csl
 
 ## Sociedade descentralizada ou anárquica?
 
-- Sociedade internacional é descentralizada e não há autoridade superior aos Estados
-- Direito internacional público: ausência das comodidades próprias do direito interno
-- Menor objetividade e ausência de valores absolutos
+A **sociedade internacional** é caracterizada pela **descentralização**: não existe autoridade superior aos Estados capaz de impor, de forma coercitiva e hierarquizada, a aplicação das normas jurídicas. Isso gera implicações:
 
-> No plano interno, a autoridade superior e o braço forte do Estado garantem a vigência da ordem jurídica, subordinando as proposições minoritárias à vontade da maioria, e fazendo valer, para todos, tanto o acervo legislativo quanto as situações e atos jurídicos que, mesmo no âmbito privado, se produzem na sua conformidade. [...] Não há representação, como no caso dos parlamentos nacionais que se propõem exprimir a voz dos povos, nem prevalece o princípio majoritário. A vontade singular de um Estado soberano somente sucumbe para dar lugar ao primado de outras vontades reunidas quando aquele mesmo Estado tenha, antes, concordado com a adoção de semelhante regra, qual sucede no quadro das organizações internacionais, a propósito de questões de importância secundária [@rezek_direito_2024, p. 7].
+- **Ausência de legislador central** – não há parlamento mundial.
+- **Carência de valores absolutos** – maior relativismo normativo.
+- **Fragilidade das sanções** – ausência de um poder central com força executiva.
 
-|                     | **Direito Interno** | **Direito Internacional** |
-|---------------------|--------------------|--------------------------|
-| **Autoridade superior** | Presente           | Ausente                  |
-| **Criação de normas**   | Representação      | Obra dos destinatários   |
-| **Relações**           | Subordinação       | Coordenação              |
-| **Jurisdição**        | Aceitação obrigatória | Necessária aquiescência |
+> *“No plano interno, a autoridade superior e o braço forte do Estado garantem a vigência da ordem jurídica (...). A vontade singular de um Estado soberano somente sucumbe para dar lugar ao primado de outras vontades reunidas quando aquele mesmo Estado tenha, antes, concordado com a adoção de semelhante regra”* [@rezek_direito_2024, p. 7].
 
-> Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções, em razão da falta de uma autoridade central provida de força física e de legitimidade para tanto. [...] Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas [@rezek_direito_2024, p. 7].
-
-## Sociedade descentralizada e direito internacional
-
-- Sociedade internacional é descentralizada e não há autoridade superior aos Estados
-- Direito internacional público: ausência das comodidades próprias do direito interno
-- Menor objetividade e ausência de valores absolutos
-
-> No plano interno, a autoridade superior e o braço forte do Estado garantem a vigência da ordem jurídica, subordinando as proposições minoritárias à vontade da maioria, e fazendo valer, para todos, tanto o acervo legislativo quanto as situações e atos jurídicos que, mesmo no âmbito privado, se produzem na sua conformidade. [...] Não há representação, como no caso dos parlamentos nacionais que se propõem exprimir a voz dos povos, nem prevalece o princípio majoritário. A vontade singular de um Estado soberano somente sucumbe para dar lugar ao primado de outras vontades reunidas quando aquele mesmo Estado tenha, antes, concordado com a adoção de semelhante regra, qual sucede no quadro das organizações internacionais, a propósito de questões de importância secundária [@rezek_direito_2024, p. 7].
+### Comparativo: Direito Interno x Direito Internacional
 
 |                     | **Direito Interno** | **Direito Internacional** |
-|---------------------|--------------------|--------------------------|
-| **Autoridade superior** | Presente           | Ausente                  |
-| **Criação de normas**   | Representação      | Obra dos destinatários   |
-| **Relações**           | Subordinação       | Coordenação              |
-| **Jurisdição**        | Aceitação obrigatória | Necessária aquiescência |
+|---------------------|----------------------|----------------------------|
+| **Autoridade superior** | Presente             | Ausente                    |
+| **Criação de normas**   | Representação (Parlamento) | Obra dos destinatários (Estados) |
+| **Relações**            | Subordinação         | Coordenação                |
+| **Jurisdição**          | Obrigatória          | Depende de consentimento   |
 
-> Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções, em razão da falta de uma autoridade central provida de força física e de legitimidade para tanto. [...] Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas [@rezek_direito_2024, p. 7].
+<div class="warning">
+<p><b>Para saber mais: anarquia e direito internacional</b></p>
+<p>A ideia de “anarquia” no direito internacional não significa caos, mas sim **ausência de autoridade central**, conceito próximo ao defendido por autores realistas nas Relações Internacionais. Essa característica explica a importância do consentimento como base da obrigatoriedade jurídica.</P>
+</div>
+
+> *“Frente aos atos ilícitos em que o Estado acaso incorra, não é exato supor que inexista no direito internacional um sistema de sanções (...). Dificilmente se poderiam aplicar, hoje, sanções a qualquer daqueles cinco Estados que detêm o poder de veto no Conselho de Segurança das Nações Unidas”* [@rezek_direito_2024, p. 7].
 
 ## Fundamento do direito internacional público
 
-- Repousa sobre o consentimento
-- Estados subordinam-se unicamente ao direito com o qual **consentiram**
+O **fundamento clássico** do Direito Internacional repousa sobre o **consentimento dos Estados**: nenhum Estado se submete a normas às quais não tenha, direta ou indiretamente, consentido.
 
-> Vale destacar, por outro lado, certas regras consolidadas com vigor no século XX, tais a proscrição do uso da força e os princípios da não intervenção e da autodeterminação, ou ainda um pouco antes, qual a condenação da escravatura. [...] Assim, o tráfico de escravos e a guerra de conquista, lícitos outrora, estão hoje condenados, sendo seguro que não voltarão, amanhã, à condição de licitude [@rezek_direito_2024, p. 7].
+- **Consentimento expresso** → tratados.
+- **Consentimento tácito** → costumes.
+
+> *“Vale destacar, por outro lado, certas regras consolidadas com vigor no século XX, tais a proscrição do uso da força e os princípios da não intervenção e da autodeterminação (...). Assim, o tráfico de escravos e a guerra de conquista, lícitos outrora, estão hoje condenados”* [@rezek_direito_2024, p. 7].
 
 ## Confronto entre direito internacional e direito interno
 
-### Dualismo
+A relação entre as duas ordens jurídicas é explicada por duas grandes teorias:
 
-- Carl Heinrich Triepel (Alemanha); Dionisio Anzilotti (Itália)
-- Direito internacional e direito interno de cada Estado são rigorosamente independentes e distintos
-- Validade da norma interna não se condiciona à sua sintonia com o direito internacional
-- Ênfase à diversidade das fontes de produção das normas jurídicas, aos limites de validade do direito nacional, e à circunstância de que a norma internacional não opera no interior do Estado nacional senão quando este, por tê-la aceitado, promove sua introdução no plano doméstico
+### **Dualismo**
+- Defensores: **Triepel** e **Anzilotti**.
+- Sustenta a independência absoluta entre direito interno e internacional.
+- A norma internacional só vale internamente se **transformada** pelo Estado.
 
-### Monismo
+### **Monismo**
+- Afirma a **unicidade da ordem jurídica**.
+- Duas correntes:
 
-- Unicidade da ordem jurídica interna e internacional
-
-#### Monismo internacionalista
-
-- Hans Kelsen (Áustria)
-- Primado do direito internacional
-- Normas internas se ajustam a ele
+#### **Monismo internacionalista**
+- **Hans Kelsen**: primado do direito internacional.
+- Normas internas inválidas se contrárias ao direito internacional.
 - Perspectiva idealista que um dia se instaure a ordem única internacional, e denúncia à ideia de que o Estado possa sobreviver de forma autárquica
 
-#### Monismo nacionalista
+#### **Monismo nacionalista**
+- Primado do direito interno.
+- Muito presente em países como **EUA e Brasil** (interpretação judicial).
+- Mesmo sem adesão teórica explícita, **jurisprudência confirma primado constitucional**.
 
-- Juristas soviéticos
-- Primado do direito nacional do Estado soberano
-- Adoção dos preceitos de direito internacional é faculdade do Estado nacional
-- Relevância da soberania e da descentralização da ordem internacional, bem como culto da constituição, cujo texto, ao qual nenhum outro pode-se sobrepor, afirmará o exato grau de prestígio das normas internacionais
+> *“Pouquíssimos autores, fora do contexto soviético, comprometeram-se com o monismo nacionalista, mas essa ideia norteia as convicções judiciárias em inúmeros países do Ocidente”* [@rezek_direito_2024, p. 8].
 
-> Se é certo que pouquíssimos autores, fora do contexto soviético, comprometeram-se doutrinariamente com o monismo nacionalista, não menos certo é que essa ideia norteia as convicções judiciárias em inúmeros países do ocidente — incluídos o Brasil e os Estados Unidos da América —, quando os tribunais enfrentam o problema do conflito entre normas de direito internacional e de direito interno [@rezek_direito_2024, p. 8].
+<div class="complementar">
+<p><b>Problema</b></p>
+<p>A Constituição (art. 5º, §3º) exige aprovação parlamentar para tratados de direitos humanos terem **status constitucional**.</p>
+<p><b>Qual das lógicas acima é a adotada pela constituição?</b></p>
+</div>
+
+<div class="warning">
+<p><b>Perspectiva crítica: TWAIL</b></p>
+<p>As abordagens críticas do Sul Global argumentam que tanto o monismo quanto o dualismo reforçam estruturas de poder que mantêm desigualdades entre Estados centrais e periféricos.</p>
+<p><b>O que você opina?</b></p>
+</div>
