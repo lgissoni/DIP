@@ -25,6 +25,8 @@ csl: abnt.csl
 
 -   Possibilidade do emprego da *equidade*
 
+---
+
 >  Artigo 38. 1. A Côrte, cuja função é decidir de acôrdo com o direito internacional as controvérsias que lhe forem submetidas, aplicará:<br>
 > a) as convenções internacionais, quer gerais, quer especiais. que estabeleçam regras expressamente reconhecidas pelos Estados litigantes;<br>
 > b) o costume internacional, como prova de uma prática geral aceita como sendo o direito;<br>
@@ -32,6 +34,8 @@ csl: abnt.csl
 > d) sob ressalva da disposição do art. 59, as decisões judiciárias e a doutrina dos publicistas mais qualificados das diferentes Nações, como meio auxiliar para a determinação das regras de direito [@brasil_decreto_1945].
 
 Nesta e nas próximas aulas trataremos dos **tratados**.
+
+---
 
 # Perspectiva histórica
 
@@ -49,10 +53,14 @@ Nesta e nas próximas aulas trataremos dos **tratados**.
     *constitucionalismo*, a erosão do protagonismo centrado no chefe de
     Estado
 
+---
+
 > Resultou induvidoso que essa *fase interna*, a da consulta ao
 > parlamento como preliminar de ratificação, impôs ao direito das gentes
 > uma importante remissão ao direito doméstico dos Estados
 > [@rezek_direito_2024 p. 12].
+
+---
 
 -   **Convenção de Havana sobre tratados (1928):** primeira formalização
     sobre o tema; texto sumário ainda vigente entre oito países
@@ -62,7 +70,11 @@ Nesta e nas próximas aulas trataremos dos **tratados**.
     em vigor em 1980, sendo ratificada pelo Brasil em 2009; a Convenção
     formaliza normas preexistentes de caráter costumeiro
 
+---
+
 # O fenômeno convencional
+
+---
 
 ## Conceito
 
@@ -74,11 +86,15 @@ Nesta e nas próximas aulas trataremos dos **tratados**.
 > Este --- como o da lei ordinária em uma ordem jurídica interna --- é
 > variável ao extremo [@rezek_direito_2024 p. 12].
 
+---
+
 ## Terminologia
 
 A terminologia empregada é vasta: *acordo, ajuste, arranjo, ata, ato,
 carta, código, compromisso, constituição, contrato, convenção, convênio,
 declaração, estatuto, memorando, pacto, protocolo e regulamento* etc.
+
+---
 
 > Esses termos são de uso livre e aleatório, não obstante certas
 > preferências denunciadas pela análise estatística: as mais das vezes,
@@ -92,6 +108,8 @@ declaração, estatuto, memorando, pacto, protocolo e regulamento* etc.
 > eclesiástica, missões apostólicas, relações entre a Igreja católica
 > local e o Estado copactuante [@rezek_direito_2024 p. 13].
 
+---
+
 Essa liberalidade no usto da terminologia não ocorre com alguns nomes
 compostos: por exemplo, *acordo de sede* refere-se necessariamente a um
 ajuste entre uma organização internacional e um Estado para instalação
@@ -99,10 +117,14 @@ física da sede da organização no território do referido Estado; já
 *compromisso arbital* designa um ajuste por meio do qual dois Estados
 decidem submeter litígio entre eles à arbitragem internacional.
 
+---
+
 ## Formalidade
 
 Tratado é um acordo *formal* e nisto reside sua principal diferença em
 relação ao costume. Ela também implica na *escritura*.
+
+---
 
 ## Atores
 
@@ -111,10 +133,14 @@ público*: Estados soberanos e organizações internacionais. Empresas
 privadas não tem personalidade jurídica de DIP e portanto tampouco
 capacidade para celebrar tratados.
 
+---
+
 ## Efeitos jurídicos
 
 Tratados geram vínculos obrigacionais de natureza jurídica. Para isto, é
 necessária a efetiva vontade de criá-los (*animus contrahendi*).
+
+---
 
 > A produção de efeitos de direito é essencial ao tratado, que não pode
 > ser visto senão na sua dupla qualidade de ato jurídico e de norma. O
@@ -122,6 +148,8 @@ necessária a efetiva vontade de criá-los (*animus contrahendi*).
 > por produzi-la desencadeia efeitos de direito, gera obrigações e
 > prerrogativas, caracteriza enfim, na plenitude de seus dois elementos,
 > o tratado internacional [@rezek_direito_2024 p. 13].
+
+---
 
 Os tratados devem, deste modo, ser distinguidos do acordo em sentido
 amplo, ainda que formalizado. Fala-se também no *gentlemen's agreement*,

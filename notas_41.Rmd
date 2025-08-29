@@ -11,116 +11,172 @@ bibliography: dip.bib
 csl: abnt.csl
 ---
 
-# Classificação
+# **Classificação dos Tratados Internacionais** 📜
 
-Os tratados podem ser classificados em função do que segue:
+Esta aula trata das classificações dos tratados internacionais segundo diferentes critérios, sua natureza, generalidade, número de partes e imperatividade. Além disso, serão abordados conceitos fundamentais como *jus cogens* e reflexões críticas.
 
-## Quanto ao número de Estados-parte:
+---
 
-(a) **bilaterais:** celebrados entre duas partes;
+## **Introdução** 🧐
 
-(b) **plurilaterais:** celebrados por mais de duas partes;
+A classificação dos tratados é essencial para compreender as diferentes modalidades e seus efeitos jurídicos.  
+Os tratados, como instrumentos normativos do Direito Internacional, **não possuem um único critério classificatório**, podendo ser analisados sob várias perspectivas:
 
-(c) **multilaterais:** celebrados por mais de duas partes, no interior
-    de uma organização internacional;
+- **Número de Estados-parte**
+- **Amplitude e generalidade das disposições**
+- **Natureza jurídica**
+- **Conformidade com normas imperativas (*jus cogens*)**
 
-## Quanto à generalidade de suas disposições:
+---
 
-(a) **convenções gerais:** "também conhecidas como **convenções-quadro
+## **1. Quanto ao número de Estados-parte** 🌍
+
+| Tipo             | Definição                                         | Exemplo                                  |
+|-----------------|--------------------------------------------------|------------------------------------------|
+| **Bilateral**   | Entre duas partes (Estados ou organizações)      | Tratado Brasil–Paraguai                 |
+| **Plurilateral**| Mais de duas partes, sem órgão central           | Tratado de Não Proliferação de Armas Nucleares (TNP)|
+| **Multilateral**| Mais de duas partes no âmbito de uma OI          | Carta da ONU (1945)                     |
+
+📌 **Observação:**  
+Os tratados multilaterais assumem grande importância no **direito internacional contemporâneo**, pois regulam matérias de interesse geral como **direitos humanos**, **meio ambiente**, **comércio internacional** e **desarmamento**.
+
+---
+
+## **2. Quanto à generalidade das disposições** 📌
+
+- **Convenções gerais** (*framework conventions*):  
+  Estabelecem **princípios amplos**, que serão desenvolvidos por **protocolos complementares**.  
+  **Exemplo:** Convenção-Quadro das Nações Unidas sobre Mudança do Clima (1992), que foi complementada pelo **Protocolo de Quioto (1997)** e pelo **Acordo de Paris (2015)**.
+  
+  > ...também conhecidas como **convenções-quadro
     ou guarda-chuva**: as quais estabelecem normas e princípios gerais
     que serão detalhados posteriormente por meio de tratados
     internacionais específicos, por meio de protocolos adicionais ou
     mesmo por meio de legislação interna; geralmente são utilizados em
     situações de difícil consenso político entre as partes (meio
     ambiente, saúde, minorias, entre outros)\" [@accioly_manual_2023
-    p. 153];
+    p. 153]
 
-(b) **convenções específicas:** "as quais adotam de forma detalhada
+- **Convenções específicas**:  
+  Tratam de maneira **exaustiva e completa** determinado tema, dispensando instrumentos adicionais.  
+  **Exemplo:** Convenção de Viena sobre Relações Diplomáticas (1961).
+  
+  > ...adotam de forma detalhada
     normas jurídicas específicas sobre o tema regulado, com o objetivo
     de esgotar em seu próprio instrumento tal regulação\"
-    [@accioly_manual_2023 p. 153];
+    [@accioly_manual_2023 p. 153]
 
-## Quanto à natureza jurídica:
+---
+
+## **3. Quanto à natureza jurídica ⚖️**
 
 Refere-se à natureza jurídica das normas consolidadas no tratado. Aqui,
 há duas subclassificações possíveis, em função do que segue:
 
-### Quanto à imperatividade da norma:
+### 3.1) Quanto à imperatividade da norma 🚨
 
-(a) **tratado de direito dispositivo:** normas podem ser derrogadas por
+- **Tratado de direito dispositivo:** normas podem ser derrogadas por
     meio de tratado posterior;
 
-(b) **tratado de direito cogente (*jus cogens*):** as **normas
+- **Tratado de direito cogente (*jus cogens*):** as **normas
     imperativas de direito internacional geral** sobre matérias cuja
     natureza não comportaria derrogação mesmo diante de acordo
-    formalizado em sentido diverso:
+    formalizado em sentido diverso.
+    
+---
+    
+<div class="warning">
+  <p><b>Para saber mais: <i>Jus cogens</i></b></p>
+  <p>**Artigo 53 – Convenção de Viena (1969)**  
+"É nulo um tratado que, no momento de sua conclusão, conflite com uma norma imperativa de Direito Internacional geral (*jus cogens*). Para os fins da presente Convenção, uma norma imperativa de Direito Internacional geral é uma norma aceita e reconhecida pela comunidade internacional dos Estados como um todo, da qual nenhuma derrogação é permitida e que só pode ser modificada por uma nova norma de Direito Internacional geral, com o mesmo caráter" [@brasil_decreto_2009].
+  </p>
+</div>
 
-> ::: center
-> Artigo 53
->
-> Tratado em Conflito com uma Norma Imperativa de Direito
->
-> Internacional Geral ([jus cogens]{.underline})
-> :::
->
-> É nulo um tratado que, no momento de sua conclusão, conflite com uma
-> norma imperativa de Direito Internacional geral. Para os fins da
-> presente Convenção, uma norma imperativa de Direito Internacional
-> geral é uma norma aceita e reconhecida pela comunidade internacional
-> dos Estados como um todo, como norma da qual nenhuma derrogação é
-> permitida e que só pode ser modificada por norma ulterior de Direito
-> Internacional geral da mesma natureza [@brasil_decreto_2009].
+#### ✅ **Exemplos de normas *jus cogens***
+- Proibição da escravidão  
+- Proibição da tortura  
+- Proibição da agressão armada  
+- Princípio da autodeterminação dos povos  
+    
+---
 
-### Quanto ao tipo de interesse juridicamente regulado:
+### 3.2) Quanto ao tipo de interesse juridicamente regulado:
 
-(a) **tratados-contratos:** regulam interesses recíprocos dos Estados,
-    geralmente de caráter bilateral (interesse bilateral barganhado);
+- **Tratados-contratos**  
+  Regulam **interesses recíprocos** entre as partes, estabelecendo direitos e deveres geralmente bilaterais.  
+  **Exemplo:** tratados de fronteira, como o Tratado de Petrópolis (1903).
 
-(b) **tratados-leis ou tratados-normativos:** fixam normas de direito
-    internacional geral (interesse geral).
+- **Tratados-normativos**  
+  Estabelecem **normas gerais de conduta** aplicáveis a todos os Estados-partes.  
+  **Exemplo:** tratados de direitos humanos, como o **Pacto Internacional sobre Direitos Civis e Políticos (1966)**.
 
-# Condições de validade
+---
 
-Para que o tratado seja considerado válido, é necessário que:
+## **Crítica e Discussão** 🧠
 
--   as partes (Estados ou organizações internacionais) tenham capacidade
-    para celebrá-los;
+<div class="complementar">
 
--   os agentes estejam habilitados;
+Apesar de serem instrumentos centrais do Direito Internacional, os tratados não são uniformemente interpretados e aplicados pelos Estados.  
+A classificação, embora útil, **não elimina os problemas práticos**, como:
+- A **fragmentação do direito internacional**, com tratados sobrepostos e divergentes.
+- A tensão entre **soberania estatal e normas imperativas**.
+- O **déficit democrático** nos processos de negociação e ratificação, especialmente em tratados multilaterais.
 
--   haja consentimento mútuo;
+📌 **Questão para reflexão:**  
+Será que a multiplicação de tratados multilaterais garante maior cooperação ou gera um sistema internacional mais complexo e menos eficiente?
 
--   o seu objeto seja lícito e possível.
+</div>
 
-## Capacidade das partes contratantes
+---
 
-> ::: center
-> Artigo 6
->
-> Capacidade dos Estados para Concluir Tratados
-> :::
->
-> Todo Estado tem capacidade para concluir tratados
-> [@brasil_decreto_2009].
+## **Resumo da Aula** ✅
 
-Tornou-se obsoleta a doutrina de que apenas os Estados têm capacidade de
-celebrar tratados. Com a Carta das Nações Unidas, passou-se a aceitar,
-de início timidamente, a capacidade das organizações internacionais.
-Atualmente, a questão foi pacificada, com destaque para a [Convenção de
-Viena sobre o Direito dos Tratados entre Estados e Organizações
-Internacionais ou entre Organizações Internacionais, de 1986](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://legis.senado.leg.br/norma/36586033/publicacao/36586052&ved=2ahUKEwiUh6aRsoCMAxVsgWEGHTATNvcQFnoECBgQAQ&usg=AOvVaw0686pMZPd1jP3mo7xUPKf-), que trata
-especificamente da questão.
+📌 **O que vimos hoje:**
+- **Critérios de classificação dos tratados**:  
+  - Número de partes (**bilateral, plurilateral, multilateral**)  
+  - Generalidade (**convenções gerais e específicas**)  
+  - Natureza jurídica (**contratos e normativos**)  
+  - Conformidade com normas imperativas (**jus cogens**)  
+- **Importância do Artigo 53 da Convenção de Viena**  
+- **Exemplo prático**: reservas à Convenção do Genocídio  
+- **Discussão crítica**: desafios contemporâneos dos tratados  
 
-## Habilitação dos agentes
+# ✅ **Condições de Validade dos Tratados** 
 
-> Para a adoção ou autenticação do texto de um tratado, ou para
-> expressar o consentimento do estado em obrigar-se a suas disposições,
-> é necessário que os representantes demonstrem deter a autorização para
-> tanto mediante a apresentação dos plenos poderes. Este documento
-> indica que determinada pessoa é reconhecida pelo estado que ela
-> representa como detendo plenos poderes para negociar e assinar um
-> tratado internacional especificamente indicado em tal documento
-> [@accioly_manual_2023 p. 155].
+Para que um tratado internacional seja considerado **válido**, são necessárias as seguintes condições:
+
+- **Capacidade das partes** (Estados ou organizações internacionais) para celebrá-lo.
+- **Habilitação dos agentes** que o subscrevem.
+- **Consentimento mútuo** entre as partes.
+- **Objeto lícito e possível**.
+
+---
+
+## **1. Capacidade das partes contratantes** 🌐
+
+::: center
+### **Artigo 6 – Capacidade dos Estados para Concluir Tratados**
+> Todo Estado tem capacidade para concluir tratados.
+[@brasil_decreto_2009]
+:::
+
+Inicialmente, prevalecia a doutrina segundo a qual **apenas os Estados** possuíam capacidade para celebrar tratados.  
+Com a **Carta das Nações Unidas (1945)**, reconheceu-se, ainda que de forma incipiente, a capacidade **das organizações internacionais**.  
+Esse entendimento foi consolidado pela **Convenção de Viena sobre o Direito dos Tratados entre Estados e Organizações Internacionais ou entre Organizações Internacionais (1986)**, que trata especificamente da matéria.
+
+📎 **Link para a Convenção de 1986**:  
+[Convenção de Viena (1986) – Senado Federal](https://legis.senado.leg.br/norma/36586033/publicacao/36586052)
+
+---
+
+## **2. Habilitação dos agentes** 👤
+
+Para **adotar ou autenticar** o texto de um tratado, ou para **manifestar o consentimento do Estado em obrigar-se**, o representante deve demonstrar estar devidamente autorizado por meio do **documento de plenos poderes**.
+
+> O documento de plenos poderes indica que determinada pessoa é reconhecida pelo Estado que ela representa como detentora de competência para **negociar e assinar um tratado internacional** específico.  
+[@accioly_manual_2023 p.155]
+
+---
 
 > ::: center
 > Artigo 7
@@ -132,42 +188,44 @@ especificamente da questão.
 >     ou autenticação do texto de um tratado ou para expressar o
 >     consentimento do Estado em obrigar-se por um tratado se:
 >
->     a)  apresentar plenos poderes apropriados; ou
+>     **a)**  apresentar plenos poderes apropriados; ou
 >
->     b)  a prática dos Estados interessados ou outras circunstâncias
->         indicarem que a intenção do Estado era considerar essa pessoa
->         seu representante para esses fins e dispensar os plenos
->         poderes.
+>     **b)**  a prática dos Estados interessados ou outras circunstâncias
+>             indicarem que a intenção do Estado era considerar essa pessoa
+>             seu representante para esses fins e dispensar os plenos
+>             poderes.
+> 
+---
 >
 > 2.  Em virtude de suas funções e independentemente da apresentação de
 >     plenos poderes, são considerados representantes do seu Estado:
 >
->     a)  os Chefes de Estado, os Chefes de Governo e os Ministros das
->         Relações Exteriores, para a realização de todos os atos
->         relativos à conclusão de um tratado;
+>     **a)**  os Chefes de Estado, os Chefes de Governo e os Ministros das
+>             Relações Exteriores, para a realização de todos os atos
+>             relativos à conclusão de um tratado;
 >
->     b)  os Chefes de missão diplomática, para a adoção do texto de um
->         tratado entre o Estado acreditante e o Estado junto ao qual
->         estão acreditados;
+>     **b)**  os Chefes de missão diplomática, para a adoção do texto de um
+>             tratado entre o Estado acreditante e o Estado junto ao qual
+>             estão acreditados;
 >
->     c)  os representantes acreditados pelos Estados perante uma
->         conferência ou organização internacional ou um de seus órgãos,
->         para a adoção do texto de um tratado em tal conferência,
->         organização ou órgão.
+>     **c)**  os representantes acreditados pelos Estados perante uma
+>             conferência ou organização internacional ou um de seus órgãos,
+>             para a adoção do texto de um tratado em tal conferência,
+>             organização ou órgão.
 >
 > [@brasil_decreto_2009]
 
-> No que se refere às organizações internacionais, o órgão habilitado a
-> negociar tratados internacionais está usualmente definido no texto de
-> seu tratado constitutivo. Cada organização internacional possui um
-> tratado internacional que a constitui e, por esse motivo, cada uma
-> delas estabelece um procedimento próprio para se vincular
-> juridicamente a um tratado internacional [@accioly_manual_2023
-> pp. 155-156].
+---
 
-## Consentimento mútuo
+📌 **No caso das organizações internacionais**:  
+A competência para concluir tratados geralmente está prevista no **tratado constitutivo da organização**, com regras próprias para vinculação jurídica.  
+[@accioly_manual_2023 pp.155-156]
 
-O tratado é acordo de vontades, efetivando-se pelo consentimento:
+---
+
+## **3. Consentimento mútuo** 🤝
+
+O tratado é **acordo de vontades**, formalizado pelo consentimento expresso:
 
 > ::: center
 > Artigo 9
@@ -186,83 +244,63 @@ O tratado é acordo de vontades, efetivando-se pelo consentimento:
 >
 > [@brasil_decreto_2009]
 
-## Objeto lícito e possível
+---
 
-Assim como no direito interno, só se pode visar coisa materialmente
-possível e permitida peo direito e pela moral. A doutrina menciona o
-Acordo de Munique, de 1938, em que o Reino Unido, a França, a Alemanha e
-a Itália negociaram a entrega dos Sudetos tchecos a Berlim sem a
-participação da Checoslováquia (Figuras
+## **4. Objeto lícito e possível** ✔️
+
+Assim como no direito interno, o objeto deve ser **lícito** e **materialmente possível**.  
+Exemplo clássico:  
+O **Acordo de Munique (1938)**, pelo qual Reino Unido, França, Alemanha e Itália negociaram a entrega dos Sudetos à Alemanha sem participação da Checoslováquia — situação contestada juridicamente e politicamente (Figuras
 [1](#fig:acordo_munique){reference-type="ref"
 reference="fig:acordo_munique"} e
 [2](#fig:particao_checoslovaquia){reference-type="ref"
 reference="fig:particao_checoslovaquia"}).
 
-![Fig. 1: Da esquerda para direita: Chamberlain, Daladier, Hitler, Mussolini e
-Ciano após a assinatura do Acordo de Munique. Por Bundesarchiv, Bild
-183-R69173 / CC-BY-SA 3.0](images\acordo_munique.jpg){#fig:acordo_munique
-width="85%"}
+---
 
-![Fig. 2: Partição da Checoslováquia
-(1938)](images\particao_checoslovaquia.jpg){#fig:particao_checoslovaquia
-width="85%"}
+![Fig. 1: Da esquerda para direita: Chamberlain, Daladier, Hitler, Mussolini e Ciano após a assinatura do Acordo de Munique.](images/acordo_munique.jpg){#fig:acordo_munique width="85%"}
 
-# Efeitos em relação a terceiros
+---
 
-> ::: center
-> SEÇÃO 4
->
-> Tratados e Terceiros Estados
->
-> Artigo 34
->
-> Regra Geral com Relação a Terceiros Estados
-> :::
->
-> Um tratado não cria obrigações nem direitos para um terceiro Estado
-> sem o seu consentimento. [@brasil_decreto_2009]
+![Fig. 2: Partição da Checoslováquia (1938).](images/particao_checoslovaquia.jpg){#fig:particao_checoslovaquia width="85%"}
 
-Decorre da soberania dos Estados e da autonomia da vontade o princípio
-de que "um tratado só faz lei entre os estados que nele são parte".
-Trata-se da regra *res inter alios acta aliis neque nocere neque
-prodesse potest* (coisa pactuada não pode causar danos nem vantagens a
-terceiros).
+---
 
-> Todavia, se um tratado não pode ser fonte nem de direitos nem de
-> obrigações para terceiros, não se deve deixar de notar que os tratados
-> podem produzir consequências a estados terceiros:
->
-> 1.  se **nocivas**, o estado lesado tem o direito de protestar e de
->     procurar assegurar os seus direitos, bem como o de pedir
->     reparações; se, entretanto, o tratado não viola direitos de estado
->     não contratante e é apenas prejudicial a seus interesses, ou lhe
->     causa dano legal, ou antes damnum sine injuria, o estado lesado
->     poderá reclamar diplomaticamente contra o fato, mas contra o mesmo
->     não terá recurso jurídico;
->
-> 2.  caso sejam as consequências **favoráveis** para estados que do
->     tratado não participem, ou que os contratantes, por manifestação
->     de vontade expressa, concedam direito ou privilégio a terceiros
->     (arts. 36 a 38). A bem dizer, essa é a única hipótese de exceção
->     ao princípio de que o tratado só produz efeitos entre as partes
->     contratantes.
->
-> [@accioly_manual_2023 p. 157]
+# **Efeitos em Relação a Terceiros** 🔍
 
-# Assinatura, ratificação e reservas
+::: center
+### **Artigo 34 – Regra Geral**
+> Um tratado não cria obrigações nem direitos para um terceiro Estado sem o seu consentimento.  
+[@brasil_decreto_2009]
+:::
 
-> ::: center
-> Artigo 11
->
-> Meios de Manifestar Consentimento em Obrigar-se por um Tratado
-> :::
->
-> O consentimento de um Estado em obrigar-se por um tratado pode
-> manifestar-se pela assinatura, troca dos instrumentos constitutivos do
-> tratado, ratificação, aceitação, aprovação ou adesão, ou por quaisquer
-> outros meios, se assim acordado. [@brasil_decreto_2009]
+---
 
-## Assinatura
+📌 **Princípio:** *res inter alios acta aliis neque nocere neque prodesse potest*  
+(um ato entre partes não prejudica nem beneficia terceiros).
+
+**Exceções e consequências:**
+
+  1. Se os efeitos forem **nocivos**, o Estado lesado pode protestar e buscar reparação.
+
+  2. Se forem **favoráveis**, os contratantes podem **conceder direitos** a terceiros por manifestação expressa (Arts. 36 a 38 da     Convenção).  
+  [@accioly_manual_2023 p.157]
+
+---
+
+# **Assinatura, Ratificação e Reservas** ✍️
+
+::: center
+### **Artigo 11 – Meios de Manifestar Consentimento**
+> O consentimento de um Estado em obrigar-se pode ocorrer por assinatura, troca de instrumentos, ratificação, aceitação, aprovação ou adesão, ou por outros meios acordados.  
+[@brasil_decreto_2009]
+:::
+
+---
+
+### **Assinatura**
+- Geralmente **não vincula juridicamente** o Estado, possuindo valor **político** e não jurídico.  
+[@accioly_manual_2023 p.159]
 
 > Em regra, a simples assinatura não vincula juridicamente um estado ao
 > tratado internacional. A assinatura por si só possui um sentido muito
@@ -275,7 +313,11 @@ terceiros).
 > tem o papel de vincular juridicamente o estado [@accioly_manual_2023
 > p. 159].
 
-## Ratificação
+### **Ratificação**
+- Em regra, a vinculação ocorre pela **ratificação**, ato do Chefe de Estado condicionado à **aprovação legislativa** (CF/88: Arts. 49, I e 84, VIII).  
+- Formaliza-se pelo **depósito da carta de ratificação** ou troca de instrumentos equivalentes.
+
+---
 
 > (E)m regra,[^1] a vinculação jurídica de um estado a um tratado apenas
 > ocorre por meio da ratificação. Esta consiste em um ato administrativo
@@ -287,19 +329,19 @@ Normalmente, a ratificação (pelo chefe do Poder Executivo) fica
 condicionada à **aprovação** do tratado pelo Poder Legislativo. No caso
 da Constituição Federal de 1988:
 
-> Art. 84. Compete privativamente ao Presidente da República:\
+> **Art. 84.** Compete privativamente ao Presidente da República:\
 > (\...)\
-> VIII - celebrar tratados, convenções e atos internacionais, sujeitos a
+> **VIII -** celebrar tratados, convenções e atos internacionais, sujeitos a
 > referendo do Congresso Nacional;
 
 E ainda:
 
-> Art. 49. É da competência exclusiva do Congresso Nacional:\
-> I - resolver definitivamente sobre tratados, acordos ou atos
+> **Art. 49.** É da competência exclusiva do Congresso Nacional:\
+> **I -** resolver definitivamente sobre tratados, acordos ou atos
 > internacionais que acarretem encargos ou compromissos gravosos ao
 > patrimônio nacional;
 
-O direito internacional nção prescreve forma necessária à ratificação.
+O direito internacional não prescreve forma necessária à ratificação.
 Normalmente, contudo, ela ocorre por meio do depósito da **carta de
 ratificação** junto ao organismo multilateral pertinente, ou pela sua
 troca por outro documento idêntico, produzido pela outra parte
@@ -308,145 +350,102 @@ Relações Exteriores, contém a promessa de que o tratado será cumprido
 inviolavelmente, mas é a troca em si, que expressa o consentimento, o
 que torna o tratado perfeito e acabado.
 
-## Reservas
+---
 
-> Quando da assinatura ou da vinculação jurídica a um tratado
-> (ratificação ou adesão), um estado por apresentar reservas ao
-> documento. A reserva é um ato unilateral de estado, por meio do qual
-> ele afasta ou modifica a aplicação de uma disposição de um tratado em
-> relação a ele mesmo. Em outras palavras, ele se reserva o direito a
-> não se vincular a determinado trecho do tratado.\
-> O problema das reservas a tratados bi ou multilaterais tem sido um dos
-> mais complexos em direito internacional. Durante muito tempo a
-> doutrina era no sentido de que um tratado só podia ser ratificado tal
-> qual foi assinado: ou deveria ser aprovado integralmente, ou rejeitado
-> (single undertaking), pois as disposições apenas fazem sentido como um
-> todo integrado e devidamente negociado como um conjunto.\
-> O problema das reservas a tratados multilaterais agravou-se com as
-> Nações Unidas e o aumento dos estados-membros da comunidade
-> internacional, e constatou-se que a antiga regra tornara-se
-> inexequível. Em 1951, a CIJ foi chamada a opinar sobre as reservas
-> formuladas à Convenção sobre genocídio, e em seu parecer manifestou-se
-> no sentido de que um estado, parte numa convenção, tem o direito de
-> objetar às reservas que considere incompatíveis com o objeto e a
-> finalidade da citada convenção e considerar o estado que formulou as
-> reservas como não vinculado à Convenção[@accioly_manual_2023 p. 162].
+## **Reservas** ⚠️
 
-> ::: center
-> Artigo 19
->
-> Formulação de Reservas
-> :::
->
-> Um Estado pode, ao assinar, ratificar, aceitar ou aprovar um tratado,
-> ou a ele aderir, formular uma reserva, a não ser que:
->
-> a)  a reserva seja proibida pelo tratado;
->
-> b)  o tratado disponha que só possam ser formuladas determinadas
->     reservas, entre as quais não figure a reserva em questão; ou
->
-> c)  nos casos não previstos nas alíneas a e b, a reserva seja
->     incompatível com o objeto e a finalidade do tratado.
->
+> A reserva é um ato unilateral pelo qual o Estado **afasta ou modifica a aplicação de determinada disposição** do tratado em relação a si próprio.  
+[@accioly_manual_2023 p.162]
+
+---
+
+::: center
+### **Artigo 19 – Formulação de Reservas**
+> Um Estado pode formular reserva ao assinar, ratificar ou aderir, salvo se:  
+> **a)** a reserva for proibida pelo tratado;  
+> **b)** só puderem ser formuladas reservas específicas (e esta não estiver entre elas);  
+> **c)** a reserva for incompatível com o objeto e a finalidade do tratado.  
 > [@brasil_decreto_2009]
+:::
 
-# Interpretação
+📌 **Parecer da CIJ (1951) – Caso das reservas à Convenção do Genocídio**  
+Reconheceu-se que Estados podem **objetar a reservas incompatíveis com o objeto e a finalidade do tratado**, considerando o reservante como não parte.
 
-Como regra geral, o tratado deve ser interpretado segundo o princípio da
-boa-fé.
+---
 
-> ::: center
-> Artigo 31
->
-> Regra Geral de Interpretação
-> :::
->
-> 1.  Um tratado deve ser interpretado de boa fé segundo o sentido comum
->     atribuível aos termos do tratado em seu contexto e à luz de seu
->     objetivo e finalidade
->
-> [@brasil_decreto_2009]
+<div class="warning">
+  <p><b>Para saber mais: Caso das Reservas à Convenção do Genocídio (CIJ, 1951)</b></p>
 
-## Questão do idioma
+  <p>Após a adoção da **Convenção do Genocídio (1948)**, alguns Estados apresentaram **reservas**, por exemplo, recusando a jurisdição da CIJ para resolver disputas sobre interpretação do tratado.</p> 
 
-> Se num tratado bilateral redigido em duas línguas houver discrepância
-> entre os dois textos que fazem fé, cada parte contratante é obrigada
-> apenas pelo texto em sua própria língua, salvo disposição expressa em
-> contrário. Com o objetivo de evitar semelhantes discrepâncias é comum
-> a escolha de terceira língua que fará fé.\
-> A questão poderá tornar-se mais complexa no caso dos tratados
-> multilaterais firmados sob os auspícios das Nações Unidas, em que
-> diversas línguas podem fazer fé, como é o caso da Convenção sobre o
-> direito dos tratados que menciona o chinês, o espanhol, o francês, o
-> inglês e o russo, visto que a Convenção de 1986 menciona ainda o
-> árabe. A Convenção sobre o direito dos tratados adota norma
-> interpretativa que, infelizmente, não pode ser considerada
-> satisfatória, porquanto simplesmente "presume que os termos do tratado
-> têm o mesmo sentido nos diversos textos autênticos", o que,
-> certamente, é desejável, mas pode nem sempre ser efetivamente
-> alcançado.[@accioly_manual_2023 p. 164]
+  <p>A **Assembleia Geral da ONU** solicitou um parecer à Corte Internacional de Justiça para esclarecer:</p>
+  
+  <p> > Um Estado que formula reservas (não previstas) pode ser considerado parte do tratado? E os outros Estados podem aceitar ou rejeitar essa adesão com reservas?</p>
 
-# Tratados sucessivos sobre a mesma matéria
+  <p>✅ **Conclusão da CIJ:**  
+  - Reservas são **permitidas**, desde que **não contrariem o objeto e a finalidade do tratado** (*object and purpose test*).  
+  - Cada Estado decide se aceita ou rejeita a reserva feita por outro Estado.  
+  - O núcleo de proteção do tratado, no caso a prevenção do genocídio, não pode ser comprometido.</p>
 
-No caso de **tratados bilaterais**, prioriza-se a interpretação segundo
-a boa-fé. A questão se complica no conflito entre tratado bilateral e
-outro multilateral, ou entre dois tratados multilaterais.
+  <p>📌 **Relevância:** Esse parecer é um marco na doutrina moderna das reservas e originou a regra hoje consagrada no **Artigo 19 da Convenção de Viena sobre o Direito dos Tratados (1969)**, que estabelece:</p>
 
-De acordo com a Carta das Nações Unidas, "(n)o caso de conflito entre as
-obrigações dos membros das Nações Unidas em virtude da presente Carta e
-as obrigações resultantes de qualquer outro acordo internacional,
-prevalecerão as obrigações assumidas em virtude da presente Carta" (art.
-103).
+  <blockquote>
+  "Uma reserva incompatível com o objeto e a finalidade do tratado não é permitida."
+  </blockquote>
+</div>
 
-> A Convenção de 1969, ao reconhecer no artigo 53 a existência em
-> direito internacional de normas de direito cogente (jus cogens),
-> estabelece ser nulo o tratado que conflite com norma imperativa de
-> direito internacional geral. O jus cogens também prevalece sobre
-> tratados que o violem [@accioly_manual_2023 p. 165].
+---
 
-# Nulidade, extinção e suspensão de aplicação
+# **Interpretação dos Tratados** 📖
 
-## Nulidade
+::: center
+### **Artigo 31 – Regra Geral**
+> Um tratado deve ser interpretado **de boa-fé**, segundo o sentido comum dos termos, no contexto e à luz do objetivo e da finalidade.  
+[@brasil_decreto_2009]
+:::
 
-> A nulidade ocorre em virtude de erro, dolo, corrupção do representante
-> do estado, coerção exercida sobre o referido representante e coerção
-> decorrente de ameaça ou emprego de força, além da adoção de tratado
-> com desconhecimento do jus cogens.\
-> O erro ou o dolo capazes de viciar o consentimento na ordem interna
-> são habitualmente excluídos, quando se trata de acordos
-> internacionais, porque, segundo se alega, as partes contratantes, na
-> ordem externa, costumam operar com grandes precauções, com perfeito
-> conhecimento de causa. Tem-se admitido com frequência que erro de fato
-> possa ocorrer, em caso de fronteira. Foi o argumento apresentado pela
-> Argentina e pela França, mas sem sucesso, para modificar os
-> respectivos limites com o Brasil.
->
-> O artigo 51 menciona a coação como causa de nulidade, embora seja
-> difícil prová-la. Ocorre principalmente nos tratados de paz. HITLER,
+---
+
+### **Questão do idioma**
+- Em tratados bilaterais, prevalece o texto na **língua própria** de cada parte, salvo disposição em contrário.
+- Nos multilaterais (ex.: ONU), vários idiomas são autênticos, o que pode gerar ambiguidades.  
+[@accioly_manual_2023 p.164]
+
+---
+
+# **Tratados Sucessivos e Conflitos Normativos** ⚖️
+
+- Em conflitos entre **tratados bilaterais e multilaterais**, ou entre dois multilaterais, aplica-se:
+  - **Art. 103 da Carta da ONU:** prevalece a Carta em caso de conflito.
+  - **Art. 53 da Convenção de Viena:** normas de *jus cogens* invalidam tratados incompatíveis.
+
+---
+
+# **Nulidade, Extinção e Suspensão** ❌
+
+### **Nulidade**
+
+**Causas:**  
+
+- Erro, dolo, corrupção do representante.  
+- Coação física ou ameaça de uso da força (Art. 52).  
+- Violação de *jus cogens* (Art. 53).  
+[@accioly_manual_2023 pp.166-167]
+
+---
+
+📌 **Exemplo histórico:**  
+
+> HITLER,
 > em mais de uma oportunidade, alegou que houvera coação quando da
 > assinatura do Tratado de Versalhes, que pôs fim à primeira guerra
 > mundial. Seria antes exemplo de coação o Acordo de Munique de 1938,
 > relativo à cessão da região dos sudetos (Sudetenland) na antiga
 > Tchecoslováquia, a tal ponto que este foi declarado nulo pela
-> Grã-Bretanha e pela França em 1942.
->
-> O artigo 52 estipula ser "nulo o tratado cuja conclusão foi obtida
-> pela ameaça ou com o emprego da força em violação dos princípios de
-> direito internacional incorporados na Carta das Nações Unidas". Foi
-> esse dispositivo dos mais controvertidos, visto que algumas delegações
-> defenderam a extensão do artigo a fim de nele serem incluídas as
-> pressões políticas e econômicas. A adoção da frase final "direito
-> internacional incorporado na Carta das Nações Unidas" permitiu a sua
-> aceitação.
->
-> O artigo 53 relativo ao jus cogens, como causa de nulidade, representa
-> avanço conceitual relevante do direito internacional, embora aceito
-> com muita cautela pela Conferência, sob a alegação de que a seus
-> verdadeiros limites ainda hoje não se acham esclarecidos, e a suposta
-> tendência de considerar como jus cogens regras que não poderiam ser
-> tidas como tal. A matéria comporta cuidadosa consideração
-> [@accioly_manual_2023 pp. 166-167]
+> Grã-Bretanha e pela França em 1942
+> [@accioly_manual_2023 pp. 166-167].
+
+---
 
 ## Extinção
 
@@ -460,7 +459,6 @@ prevalecerão as obrigações assumidas em virtude da presente Carta" (art.
 > tacitamente pelo próprio tratado; 8) a inexecução do tratado, por uma
 > das partes contratantes; 9) a guerra sobrevinda entre as partes
 > contratantes; e 10) a prescrição liberatória.
->
 > Ainda cabe mencionar a denúncia unilateral, na hipótese de modificação
 > fundamental das circunstâncias que deram origem ao tratado. Assim,
 > qualquer tratado poderá ser denunciado unilateralmente à vontade livre
@@ -471,145 +469,26 @@ prevalecerão as obrigações assumidas em virtude da presente Carta" (art.
 > tanto assim que o artigo é redigido de forma negativa
 > [@accioly_manual_2023 p. 167-168].
 
-# Crítica
+## **Resumo Final** ✅
+- Condições de validade (capacidade, habilitação, consentimento, objeto lícito).
+- Efeitos para terceiros (regra geral + exceções).
+- Assinatura, ratificação e reservas (Artigos 11 e 19).
+- Interpretação (Art. 31).
+- Nulidade, extinção e jus cogens.
 
-> O MILS, como é seu costume, oferece uma definição formal de tratados.
-> Ele geralmente remete o leitor ao Artigo 2(1)(a) da Convenção de Viena
-> sobre o Direito dos Tratados de 1969, que define um tratado como 'um
-> acordo internacional concluído entre Estados em forma escrita e regido
-> pelo direito internacional, seja incorporado em um único instrumento
-> legal ou em dois ou mais instrumentos relacionados, e qualquer que
-> seja sua designação particular'. 38 Há pouca indicação nesta definição
-> abstrata das relações sociais encapsuladas em um tratado. Compare isso
-> com as definições oferecidas pelos estudiosos soviéticos Korovin e
-> Pashukanis: 'Todo acordo internacional é a expressão de uma ordem
-> social estabelecida, com um certo equilíbrio de interesses coletivos';
-> 39 'Uma obrigação de tratado não é nada mais do que uma forma especial
-> de concretização de relações econômicas e políticas.' 40 Essas
-> definições, por meio do uso da realidade extratextual, oferecem maior
-> percepção do significado de um tratado do que a definição formal
-> oferecida pelo MILS. Elas nos remetem tanto ao fato de uma ordem
-> social (capitalista) estabelecida quanto sua concretização como regras econômicas e políticas que incorporam um
-> certo equilíbrio de interesses coletivos (de classe). Um tratado é
-> alcançado na matriz das regras já existentes do 'jogo do tratado' que
-> esclarecem o que é permitido e o que é questionável no curso da
-> negociação e adoção de acordos internacionais. Essas regras,
-> codificadas no 'tratado de tratados', ou seja, a Convenção de Viena
-> sobre o Direito dos Tratados de 1969, favorecem participantes
-> poderosos no processo de elaboração de tratados. Primeiro, a Convenção
-> de Viena não exige nada mais do que a adesão formal às regras da
-> democracia deliberativa. Assim, ela não impede a coerção silenciosa
-> dos estados --- um fato que tende a ser ignorado pelo MILS. 41 Em
-> outras palavras, como Brilmayer aponta, 'argumentos baseados no
-> consentimento são enganosamente simples' como explicação para a
-> natureza vinculativa dos acordos. 42 Seu 'poder teórico reside na
-> sugestão de que talvez nada realmente precise ser justiﬁcado'. 43 Mas,
-> como é evidente para qualquer observador de negociações
-> internacionais, 'a barganha frequentemente ocorre em um mundo de
-> recursos desiguais e custos de oportunidade'. 44 Ela fornece o solo no
-> qual a coerção silenciosa floresce. Segundo, há a questão de quem está
-> consentindo: o estado ou as pessoas que o constituem? O MILS não
-> aborda essa questão, pois a norma do 'direito à governança
-> democrática' não exige que a democracia participativa seja institucionalizada. Nas
-> circunstâncias, o tratado frequentemente oculta os interesses de
-> certas classes sociais, mesmo quando o MILS finge que incorpora
-> compromissos acordados de diferentes 'interesses nacionais'. Embora
-> seja reconhecidamente difícil capturar a dimensão de classe dos
-> tratados na linguagem do direito internacional quando se trata do
-> processo de elaboração de leis, 45 não há razão para que o MILS não
-> possa preocupa-se com a exclusão de alguns assuntos de interesse para
-> classes subalternas do processo de elaboração de tratados, 46 aborda a
-> questão da ausência de democracia substantiva em estados consentidores
-> e endossa a ideia de responsabilidade transnacional do estado (um
-> assunto ao qual retornaremos mais tarde), a fim de promover a causa de
-> grupos marginais e oprimidos. 47 Foi apropriadamente observado que
-> 'tratados e instrumentos semelhantes a tratados no final do século XX
-> tornaram-se muito importantes para o funcionamento da sociedade
-> internacional para permanecer ou se tornarem propriedade de qualquer
-> disciplina ou subdisciplina'. 48 Pois não há na era da globalização
-> nenhum aspecto das relações internacionais que não seja regulado pelo
-> direito internacional dos tratados. Portanto, exige abordagens mais
-> sofisticadas para os tratados do que as oferecidas pelo MILS. De
-> acordo com Johnston, uma 'mudança substancial no tratamento de
-> tratados por parte da disciplina legal deve ser premissa\... com base
-> na lógica funcional -- não formal -- . . . '. 49 A visão funcionalista
-> que ele propõe 'enfatiza a relevância de considerações inerentes ao
-> contexto em que a questão ou problema ocorre, para que as normas
-> legais sejam mantidas em equilíbrio com as realidades institucionais e
-> políticas'. 50 Também compartilhamos o entendimento de que é: útil
-> distinguir três tipos de consentimento, variando com o instrumento e
-> as circunstâncias de sua negociação: consentimento para ser
-> juridicamente responsável em um tribunal, consentimento para ser
-> considerado operacionalmente responsável na arena diplomática e
-> consentimento para ser moralmente vinculado aos olhos da opinião
-> pública progressista. 51 CMILS entende o último como um chamado para a
-> avaliação e reformulação de um tratado à luz de seu impacto em certos
-> grupos na vida social, a saber a classe trabalhadora, mulheres,
-> camponeses e sem-terra, crianças, povos indígenas e assim por diante.
-> O CMILS, no entanto, vai além da abordagem funcionalista para promover
-> uma estratégia abrangente que promova os interesses das classes
-> subalternas, sem minar totalmente uma abordagem orientada para regras.
-> Os seguintes elementos, entre outros, constituem tal estratégia.
-> Primeiro, o CMILS pede uma codificação adicional das regras da
-> democracia deliberativa. A Convenção de Viena sobre o Direito dos
-> Tratados precisa ser alterada para incluir disposições que proíbam o
-> uso de todas as formas de coerção (por exemplo, coerção econômica e diplomática) em negociações
-> internacionais. 52 A CMILS também, para promover a democracia
-> deliberativa, exigiria uma maior representação das classes subalternas
-> nas equipes de negociação enviadas pelos estados. Segundo, a CMILS
-> gostaria de introduzir uma forma de sistema de avaliação de impacto
-> social baseado em pessoas. Em apoio a tal processo, a CMILS exigiria,
-> inter alia, que os tratados fossem negociados e ratificados com a
-> consulta e consentimento dos representantes eleitos do povo. Embora
-> essa ação ainda possa não impedir o consentimento a tratados que não
-> sejam do interesse das classes subalternas, ela ajudaria a tornar o
-> processo mais transparente e passível de dissidência e mobilização
-> política. Terceiro, quando se trata de implementação de tratados, o
-> CMILS prescreveria um conjunto de ferramentas legais que ofereceriam
-> aos estados dependentes e dominados flexibilidade para implementar
-> suas obrigações de uma maneira que salvaguardasse os interesses das
-> classes subalternas. Assim, por exemplo, no contexto da OMC, o CMILS
-> defenderia uma maior deferência às interpretações nacionais e
-> implementação de regras em vez de um modo uniforme insistido pelo
-> Órgão de Solução de Controvérsias (DSB) da OMC. Pois o princípio da
-> deferência nacional se traduz em maior autonomia para os estados em um
-> momento em que está sendo subvertido por uma rede de acordos
-> internacionais. 53 Ele permitiria que as classes subalternas
-> pressionassem o estado a adotar interpretações que salvaguardassem
-> seus interesses. Quarto, o CMILS exigiria o esclarecimento e o
-> desenvolvimento de regras de interpretação do direito internacional
-> consuetudinário para revelar, e, posteriormente, limitar, a influência
-> do poder no exercício interpretativo. Seguindo Wittgenstein, o CMILS
-> acredita que, uma vez que o significado de uma palavra reside em seu
-> uso na linguagem, não existe tal coisa como
-> determinância/indeterminação fora do mundo das práticas sociais.54
-> Consequentemente, o que deve ser problematizado são as práticas
-> sociais (de classe) e não o conceito abstrato de significado. Tal
-> problematização ajudaria a focar nas raízes sociais (de classe) da
-> interpretação. Posteriormente, há uma necessidade de desenvolver e
-> usar 'normas intersticiais' que reconheçam as raízes sociais (de
-> classe) de interpretações conflitantes (como manifestadas, inter alia,
-> na resistência a interpretações particulares) e chegar ao fechamento
-> após tomar conhecimento de as consequências sociais de ambos. 55 As normas intersticiais podem
-> ser legais (princípio da boa-fé) ou morais (equidade na resolução de
-> reivindicações conflitantes). 56 Quinto, o CMILS reexaminaria e
-> destacaria a doutrina rebus sic stantibus ou mudança material nas
-> circunstâncias e a tornaria parte integrante do conceito de um tratado
-> equilibrado e justo, embora em sua forma consensual. 57 Isso está em
-> contraste com o MILS, que afirma que \"nos tempos modernos, é acordado
-> que a regra se aplica apenas nas circunstâncias mais excepcionais,
-> caso contrário poderia ser usada como uma desculpa para fugir de todos
-> os tipos de obrigações inconvenientes\". 58 Essa visão ignora o fato
-> de que estados dependentes e dominados podem apenas recorrer à
-> doutrina rebus sic stantibus para abordar o problema de tratados
-> injustos. Claro que, na análise final, a invocação da cláusula
-> dependeria tanto das consequências sociais de obedecer a uma regra
-> quanto da resistência coletiva a ela pelos povos afetados. Neste
-> contexto, o direito internacional dos direitos humanos é de relevância
-> óbvia, e o CMILS sugere que ele deve ser cada vez mais utilizado para
-> dar suporte à invocação da doutrina rebus sic stantibus
-> [@chimni_outline_2008 p. 66-70, tradução por IA].
+---
 
+## **Perguntas para reflexão** 🤔
+1. Como o *jus cogens* impacta a validade dos tratados?
+2. Quais são as diferenças entre assinatura e ratificação?
+3. Por que as reservas são consideradas um tema polêmico?
+
+---
+
+## **Leituras recomendadas** 📚
+- [Convenção de Viena (1969) – Texto completo](https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf)
+- ACCIOLY, Hildebrando; SILVA, G.E.; CASELLA, P.B. *Manual de Direito Internacional Público*.  
+- REZEK, José Francisco. *Direito Internacional Público: Curso Elementar*.  
 
 [^1]: "Todavia, quando a assinatura for considerada pelo próprio tratado
     como definitiva, isso significa que as partes compreendem ser
