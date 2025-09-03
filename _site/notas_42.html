@@ -117,8 +117,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2025-03-12"/>
-  <meta property="article:created" itemprop="dateCreated" content="2025-03-12"/>
+  <meta property="article:published" itemprop="datePublished" content="2025-09-03"/>
+  <meta property="article:created" itemprop="dateCreated" content="2025-09-03"/>
   <meta name="article:author" content="Luccas Gissoni"/>
   <meta name="article:author" content=""/>
   <meta name="article:author" content=""/>
@@ -137,12 +137,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   <!--/radix_placeholder_meta_tags-->
   
+  <meta name="citation_reference" content="citation_title=Manual de direito internacional público;citation_publisher=SaraivaJur;citation_author=Hildebrando Accioly;citation_author=G. E. Do Nascimento E. Silva;citation_author=Paulo Borba Casella"/>
+  <meta name="citation_reference" content="citation_title=International Law;citation_publisher=Cambridge University Press;citation_doi=10.1017/9781108774802;citation_author=Malcolm N. Shaw"/>
   <meta name="citation_reference" content="citation_title=Decreto nº 19.841;citation_author=Presidência da República Brasil"/>
   <meta name="citation_reference" content="citation_title=Direito internacional público: Curso elementar;citation_publisher=SaraivaJur;citation_author=Francisco Rezek"/>
+  <meta name="citation_reference" content="citation_title=Cassese’s international law;citation_publisher=Oxford University Press;citation_author=Paola Gaeta;citation_author=Jorge E. Viñuales;citation_author=Salvatore Zappalà;citation_author=Antonio Cassese"/>
+  <meta name="citation_reference" content="citation_title=Customary International Law: A Third World Perspective;citation_volume=112;citation_doi=10.1017/ajil.2018.12;citation_issn=0002-9300, 2161-7953;citation_author=B. S. Chimni"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Notas de aula 4 - aula 2"]},{"type":"character","attributes":{},"value":["Fontes do direito internacional público: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["https://zumbidospalmares.edu.br/"]}]}]},{"type":"character","attributes":{},"value":["2025-03-12"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Notas de aula 4 - aula 2"]},{"type":"character","attributes":{},"value":["Fontes do direito internacional público: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["https://zumbidospalmares.edu.br/"]}]}]},{"type":"character","attributes":{},"value":["2025-09-03"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2289,6 +2293,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: #ca225e;
   }
 
+  /* Estiliza os números de listas ordenadas */
+  ol {
+    list-style-type: decimal;
+    padding-left: 1.5em;
+  }
+
+  ol li::marker {
+    font-weight: bold;
+    color: #ca225e;
+  }
+
+
   .distill-site-header { 
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -2300,16 +2316,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   h1 {
-      font-size: 2em !important;
+    font-size: 2em !important;
   }
 
   h2 {
-      font-size: 1.5em !important;
+    font-size: 1.5em !important;
   }
 
   h3 {
-      font-size: 1.2em !important;
+    font-size: 1.2em !important;
   }
+
+  h4 {
+    font-size: 1em !important;
+    font-weight: 1700; /* Negrito para se destacar */
+  }
+
+  h5 {
+    font-size: 1em !important;
+  }
+
 
 
   .distill-site-header .logo img{
@@ -2336,6 +2362,57 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   strong {
       color: #ca225e; /* Ou outra cor da sua paleta */
+  }
+
+  /* Caixa de aviso (warning) personalizada */
+
+  /* Caixa de aviso (warning) com texto mais suave */
+  /* Utilizado para "Atenção", "Importante" e "Para saber mais" */
+  .warning {
+    background-color: #fdf3f7;
+    color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
+    border-left: 4px solid #ca225e;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1.5em 0;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .warning p {
+    margin: 0.5em 0 0.5em 1em;
+  }
+  .warning p:first-child {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ca225e; /* título da caixa continua em destaque */
+  }
+
+  /* Caixa de texto complementar (ex: jurisprudência, doutrina longa, TWAIL) */
+  /* Visual unificado com .warning, com fundo cinza */
+  .complementar {
+    background-color: #f2f2f2;
+    color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
+    border-left: 4px solid #ca225e;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1.5em 0;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .complementar p {
+    margin: 0.5em 0 0.5em 1em;
+  }
+  .complementar p:first-child {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ca225e;
+  }
+  .complementar b {
+    color: #ca225e;
   }</style>
   <style type="text/css">
   /* base style */
@@ -2512,7 +2589,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Notas de aula 4 - aula 2","description":"Fontes do direito internacional público: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"https://zumbidospalmares.edu.br/","affiliationURL":"https://zumbidospalmares.edu.br/","orcidID":""}],"publishedDate":"2025-03-12T00:00:00.000-03:00","citationText":"Gissoni, et al., 2025"}
+{"title":"Notas de aula 4 - aula 2","description":"Fontes do direito internacional público: formas extraconvencionais de expressão do direito internacional e instrumentos de interpretação e compensação","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"https://zumbidospalmares.edu.br/","affiliationURL":"https://zumbidospalmares.edu.br/","orcidID":""}],"publishedDate":"2025-09-03T00:00:00.000-03:00","citationText":"Gissoni, et al., 2025"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2540,6 +2617,14 @@ NOTAS DE AULA
 <a href="notas_3.html">Semana 3</a>
 <a href="notas_41.html">Semana 4 - aula 1</a>
 <a href="notas_42.html">Semana 4 - aula 2</a>
+<a href="notas_5.html">Semana 5</a>
+<a href="notas_6.html">Semana 6</a>
+<a href="notas_8.html">Semana 8</a>
+<a href="notas_9.html">Semana 9</a>
+<a href="notas_11.html">Semana 11 - aula 1</a>
+<a href="notas_11_2.html">Semana 11 - aula 2</a>
+<a href="notas_12.html">Semana 12</a>
+<a href="notas_14.html">Semana 14</a>
 </div>
 </div>
 <div class="nav-dropdown">
@@ -2550,6 +2635,10 @@ PAPs
 </button>
 <div class="nav-dropdown-content">
 <a href="pap_12.html">PAP 1.2</a>
+<a href="pap_13.html">PAP 1.3</a>
+<a href="pap_14.html">PAP 1.4</a>
+<a href="pap_21.html">PAP 2.1</a>
+<a href="pap_22.html">PAP 2.2</a>
 </div>
 </div>
 <a href="https://github.com/lgissoni/DIP">
@@ -2580,7 +2669,7 @@ PAPs
 ,   
   true
   
-<br/>2025-03-12
+<br/>2025-09-03
 </div>
 
 <div class="d-article">
@@ -2592,14 +2681,23 @@ PAPs
 <ul>
 <li><a href="#elementos-do-costume" id="toc-elementos-do-costume">Elementos do costume</a>
 <ul>
-<li><a href="#elemento-material" id="toc-elemento-material">Elemento material</a></li>
-<li><a href="#elemento-subjetivo" id="toc-elemento-subjetivo">Elemento subjetivo</a></li>
+<li><a href="#o-elemento-material" id="toc-o-elemento-material">O elemento material</a></li>
+<li><a href="#o-elemento-subjetivo-opinio-juris" id="toc-o-elemento-subjetivo-opinio-juris">O elemento subjetivo: opinio juris</a></li>
 </ul></li>
+<li><a href="#generalidade-e-costumes-regionais" id="toc-generalidade-e-costumes-regionais">Generalidade e costumes regionais</a></li>
+<li><a href="#prova-do-costume" id="toc-prova-do-costume">Prova do costume</a></li>
+<li><a href="#relação-entre-costume-e-tratado" id="toc-relação-entre-costume-e-tratado">Relação entre costume e tratado</a>
+<ul>
+<li><a href="#quadro-comparativo" id="toc-quadro-comparativo">Quadro comparativo</a></li>
 </ul></li>
+<li><a href="#codificação-do-direito-costumeiro" id="toc-codificação-do-direito-costumeiro">Codificação do direito costumeiro</a></li>
+<li><a href="#fundamento-de-validade" id="toc-fundamento-de-validade">Fundamento de validade</a></li>
+</ul></li>
+<li><a href="#leitura-complementar" id="toc-leitura-complementar">Leitura complementar</a></li>
 </ul>
 </nav>
 </div>
-<p>Nesta aula vamos tratar das fontes de direito internacional público diversas dos tratados. Continuamos observando a ordem elencada no art. 38 do Estatuto da Corte da Haia: vistos os tratados, veremos agora as fontes não escritas (<strong>costume</strong> e <strong>princípios gerais do direito</strong>). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os <strong>atos unilaterais</strong> e as <strong>decisões normativas</strong> que se editam no âmbito das organizações internacionais.</p>
+<p>Nesta aula vamos iniciar o estudo das fontes de direito internacional público diversas dos tratados. Continuamos observando a ordem elencada no <strong>art. 38</strong> do <strong>Estatuto da Corte Internacional de Justiça</strong> (CIJ): vistos os tratados, veremos agora as fontes não escritas (<strong>costume</strong> e <strong>princípios gerais do direito</strong>). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os <strong>atos unilaterais</strong> e as <strong>decisões normativas</strong> que se editam no âmbito das organizações internacionais.</p>
 <blockquote>
 <p>Artigo 38. 1. A Côrte, cuja função é decidir de acôrdo com o direito internacional as controvérsias que lhe forem submetidas, aplicará:<br>
 a) as convenções internacionais, quer gerais, quer especiais. que estabeleçam regras expressamente reconhecidas pelos Estados litigantes;<br>
@@ -2608,29 +2706,128 @@ c) os princípios gerais de direito reconhecidos pelas Nações civilizadas;<br>
 d) sob ressalva da disposição do art. 59, as decisões judiciárias e a doutrina dos publicistas mais qualificados das diferentes Nações, como meio auxiliar para a determinação das regras de direito <span class="citation" data-cites="brasil_decreto_1945">(<a href="#ref-brasil_decreto_1945" role="doc-biblioref">BRASIL, 1945</a>)</span>.</p>
 </blockquote>
 <h1 id="costume">Costume</h1>
+<p>O <strong>costume internacional</strong> é, ao lado dos tratados, a principal fonte formal do Direito Internacional Público. Sua definição está expressa no <strong>art. 38, § 1º</strong> do <strong>Estatuto da CIJ</strong>: “o costume internacional, como prova de uma prática geral aceita como sendo o direito”. Essa fórmula revela a necessidade de dois elementos essenciais: <strong>(i) uma prática reiterada</strong> (elemento material) e <strong>(ii) a convicção de obrigatoriedade jurídica</strong> (elemento subjetivo: <em>opinio juris</em>).</p>
+<p>O ponto de partida, conforme <strong>Rezek</strong> <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">2025</a>)</span>, é que o costume internacional resulta da <strong>prática reiterada dos Estados</strong>, acompanhada da <strong><em>opinio juris sive necessitatis</em></strong>. Essa concepção clássica enxerga o costume como fonte de igual hierarquia em relação aos tratados, ambos previstos no <strong>art. 38, § 1º</strong> do <strong>Estatuto da CIJ</strong>.</p>
+<p>Segundo <strong>Accioly, Silva e Casella</strong> <span class="citation" data-cites="accioly_manual_2023">(<a href="#ref-accioly_manual_2023" role="doc-biblioref">2023</a>)</span>, o costume se caracteriza como “uso geral, constante e uniforme, aceito como direito”, dando ênfase à prática da CIJ como espaço de verificação desse processo. A clareza conceitual da obra reforça que a dificuldade central é identificar a existência da <em>opinio juris</em>, diferenciando o simples hábito da convicção de obrigatoriedade jurídica.</p>
+<p><strong>Shaw</strong> <span class="citation" data-cites="shaw_international_2021">(<a href="#ref-shaw_international_2021" role="doc-biblioref">2021</a>)</span>, por sua vez, enfatiza o <strong>caráter gradual</strong> do costume, que exige prática extensiva e coerente, de modo que não se pode falar em “<em>instant custom</em>”. Para ele, mesmo em contextos de mudança rápida, como o direito espacial ou ambiental, ainda há a necessidade de formação progressiva que passe por aceitação estatal.</p>
+<p><strong>Cassese</strong> <span class="citation" data-cites="gaeta_casseses_2020">(<a href="#ref-gaeta_casseses_2020" role="doc-biblioref">GAETA et al., 2020</a>)</span> chama atenção para a <strong>codificação pós-1945</strong>, sobretudo pela Comissão de Direito Internacional da ONU, que sistematizou práticas preexistentes e reduziu ambiguidades. Ao mesmo tempo, alerta que a cristalização de costumes frequentemente reflete interesses das potências, tensionando a ideia de universalidade.</p>
+<p>A crítica de <strong>Chimni</strong> <span class="citation" data-cites="chimni_customary_2018">(<a href="#ref-chimni_customary_2018" role="doc-biblioref">2018</a>)</span> e da literatura conhecida como “<em>Third World Aproaches to International Law</em>” (<strong>TWAIL</strong>) é incisiva: o costume foi historicamente construído a partir de experiências <strong>eurocêntricas</strong>, marginalizando a prática e a normatividade do Sul Global. Ao universalizar normas oriundas de um grupo restrito de Estados, o costume reforça desigualdades no sistema internacional, mascarando relações de poder sob a aparência de consensualidade.</p>
+<div class="complementar">
+<p>
+<b>Texto complementar: Jurisprudência da CIJ</b>
+</p>
+<p><strong>North Sea Continental Shelf (1969):</strong></p>
+<p>“Embora a prática de alguns Estados possa apontar para a existência de uma regra costumeira emergente, não se pode considerar consolidada enquanto não houver aceitação geral e representativa, acompanhada da convicção de obrigatoriedade jurídica (opinio juris). O mero fato de diversos Estados agirem de determinada forma por conveniência ou cortesia não basta para que se configure uma norma costumeira.”</p>
+<p><strong>Asylum Case (Colômbia vs. Peru, 1950):</strong></p>
+<p>“Um costume regional pode constituir fonte de direito internacional vinculante, mas requer uma prática constante e uniforme dos Estados da região. No caso concreto, não se demonstrou a existência de prática suficientemente generalizada e aceita como obrigatória que reconhecesse o direito de conceder asilo diplomático unilateralmente.”</p>
+</div>
 <h2 id="elementos-do-costume">Elementos do costume</h2>
-<p>Como visto no artigo 38 acima, a norma jurídica costumeira resulta de “uma prática geral aceita como sendo o direito”. Daí resultam seus elementos:</p>
-<ul>
-<li><strong>Elemento material:</strong> a <em>prática</em> - “a repetição, ao longo do tempo, de certo modo de proceder ante determinado quadro de fato” <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 133</a>)</span></li>
-<li><strong>Elemento subjetivo:</strong> “a convicção de que assim se procede não sem motivo, mas por ser necessário, justo, e consequentemente <em>jurídico</em>” <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 133</a>)</span></li>
-</ul>
-<h3 id="elemento-material">Elemento material</h3>
-<ul>
-<li><strong>Natureza:</strong> o procedimento regularmente repetido pode ser <em>positivo</em> - uma ação - ou <em>negativo</em> - uma omissão.</li>
-<li><strong>Sujeitos:</strong> necessariamente sujeitos de direito internacional público: <em>Estados soberanos</em> e <em>organizações internacionais</em>. Indivíduos, empresas e outras entidades não produzem direito das gentes.</li>
-<li><strong>Tempo:</strong> a norma diz “repetição, <em>ao longo do tempo</em>”. Quanto tempo? Veja-se, a esse respeito, a opinião de Rezek:</li>
-</ul>
+<p>Segundo Rezek:</p>
 <blockquote>
-<p>Regras costumeiras existem — por exemplo, no domínio do direito relativo ao alto-mar, à guerra, à gênese dos tratados — que se forjaram em passado remoto, e que se supõem consolidadas só ao cabo de alguns séculos de uma prática rarefeita, em razão das circunstâncias. Observe-se, porém, que a celeridade das coisas contemporâneas contagiou o processo de produção do direito costumeiro. No julgamento do caso da plataforma continental do mar do Norte, a Corte Internacional de Justiça teve ocasião de estatuir que “…o transcurso de um período de tempo reduzido não é necessariamente, ou não constitui em si mesmo, um impedimento à formação de uma nova norma de direito internacional consuetudinário…” <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 133</a>)</span>.</p>
+<p>“A norma jurídica costumeira resulta de ‘uma prática geral aceita como sendo o direito’.” <span class="citation" data-cites="rezek_direito_2025">(<a href="#ref-rezek_direito_2025" role="doc-biblioref">REZEK, 2025, p. 133</a>)</span></p>
 </blockquote>
-<h3 id="elemento-subjetivo">Elemento subjetivo</h3>
+<p>Isso corresponde a:</p>
+<ul>
+<li><strong>Elemento material:</strong> a repetição, ao longo do tempo, de certo modo de proceder ante determinado quadro de fato.<br />
+</li>
+<li><strong>Elemento subjetivo (opinio juris):</strong> a convicção de que essa prática não é mero hábito, mas obrigação de natureza jurídica.</li>
+</ul>
+<h3 id="o-elemento-material">O elemento material</h3>
+<p>O procedimento pode ser <strong>positivo</strong> (ação) ou <strong>negativo</strong> (abstenção). Os sujeitos dessa prática são, necessariamente, pessoas jurídicas de direito internacional:<br />
+- <strong>Estados soberanos</strong>, tradicionalmente;<br />
+- <strong>Organizações internacionais</strong>, mais recentemente reconhecidas como capazes de participar da formação do direito consuetudinário.</p>
+<p>Quanto ao <strong>tempo</strong>, Rezek lembra que há regras forjadas em passado remoto, consolidadas ao longo de séculos (alto-mar, guerra, tratados). Porém, a CIJ afirmou no caso <em>Plataforma Continental do Mar do Norte</em> que:</p>
+<blockquote>
+<p>…o transcurso de um período de tempo reduzido não constitui, em si mesmo, impedimento à formação de uma nova norma costumeira. ( CIJ, <em>North Sea Continental Shelf</em>, 1969, p. 43)</p>
+</blockquote>
+<h3 id="o-elemento-subjetivo-opinio-juris">O elemento subjetivo: opinio juris</h3>
+<p>A prática só se converte em norma se acompanhada da convicção de obrigatoriedade. Não basta a repetição habitual — como ocorre em protocolos diplomáticos motivados por cortesia.</p>
+<p>No caso <em>Plataforma Continental do Mar do Norte</em>, a CIJ estabeleceu que:</p>
+<blockquote>
+<p>…os atos devem constituir uma prática estabelecida, mas também devem demonstrar, ou ser acompanhados, da crença de que essa prática é obrigatória em virtude de uma regra de direito. ( CIJ, <em>North Sea Continental Shelf</em>,1969, p. 44)</p>
+</blockquote>
+<p>Rezek recorda a observação de Josef Kunz: toda regra costumeira nasce de um “erro jurídico”. Antes mesmo de existir, os Estados já a exercitam como se fosse obrigatória — e por isso ela acaba existindo.</p>
+<p>A <strong>TWAIL</strong>, por outro lado, insiste que a <em>opinio juris</em> deve ser lida à luz de assimetria de poder; aceita objeção persistente de novos Estados como dado relevante para não universalizar indevidamente uma prática.</p>
+<h2 id="generalidade-e-costumes-regionais">Generalidade e costumes regionais</h2>
+<p>O Estatuto fala em prática “geral”. Isso não significa universalidade, mas <strong>pluralidade mínima de sujeitos</strong>.</p>
+<div class="warning">
+<p>A noção de costume regional é essencial para compreender a diversidade do direito internacional. O exemplo clássico é o <strong>asilo diplomático</strong> na América Latina. Contudo, a tentativa de apresentar costumes europeus como universais — como a regra das três milhas para o mar territorial — revelou a natureza <strong>parcial e localizada</strong> de muitas práticas consuetudinárias.</p>
+</div>
+<h2 id="prova-do-costume">Prova do costume</h2>
+<p>O <strong>ônus da prova</strong> recai sobre quem alega a existência da norma costumeira.</p>
+<p>No caso <strong>Direito de Asilo</strong> (Colômbia x Peru), a CIJ foi clara:</p>
+<blockquote>
+<p>Cabe ao Estado que invoca um costume regional demonstrar sua existência e seu reconhecimento geral. (CIJ, <em>Asylum Case</em>, 1950, p. 276)</p>
+</blockquote>
+<p>A prova pode vir de:</p>
+<ul>
+<li><p><strong>Atos estatais:</strong> prática diplomática, legislação interna, decisões judiciais.</p></li>
+<li><p><strong>Tratados:</strong> que frequentemente declaram normas costumeiras preexistentes ou em formação.</p></li>
+<li><p><strong>Jurisprudência internacional e doutrina:</strong> como meios auxiliares de apuração.</p></li>
+</ul>
+<p>Exemplo: a <strong>Convenção de Viena sobre Direito dos Tratados (1969)</strong> consolidou muitas normas costumeiras preexistentes, mas também estimulou a formação de novos costumes.</p>
+<h2 id="relação-entre-costume-e-tratado">Relação entre costume e tratado</h2>
+<p>Não há hierarquia entre normas costumeiras e convencionais:</p>
+<ul>
+<li><p>Um tratado pode derrogar norma costumeira entre as partes.</p></li>
+<li><p>Um costume pode modificar tratado por desuso.</p></li>
+</ul>
+<p>Historicamente, até o século XIX, o direito internacional foi predominantemente costumeiro. O direito convencional tinha alcance limitado, de natureza bilateral. A partir do século XIX, multiplicaram-se os tratados multilaterais, e iniciou-se a tentativa de <strong>codificação do direito costumeiro</strong>.</p>
+<div class="warning">
+<p>
+<b>Para saber mais: relação entre costume e tratado</b>
+</p>
+<p>Alguns autores (como Shaw e Cassese) veem os tratados como mais importantes por razões de certeza e segurança jurídica. Já perspectivas críticas (como a TWAIL) questionam se o costume não é, muitas vezes, um instrumento de imposição de práticas eurocêntricas sob aparência de universalidade.</p>
+</div>
+<h3 id="quadro-comparativo">Quadro comparativo</h3>
+<ul>
+<li><p><strong>Accioly/Silva:</strong> tendência a ver complementaridade entre tratado e costume; sem primazia abstrata.</p></li>
+<li><p><strong>Shaw:</strong> destaca vantagem operacional do tratado; mas reconhece a persistência e a resiliência do costume (especialmente em lacunas regulatórias).</p></li>
+<li><p><strong>Cassese:</strong> enfatiza o papel do pós-1945 na normatividade programática que empurra costumes (direitos humanos, jus cogens, crimes internacionais).</p></li>
+<li><p><strong>Chimni/TWAIL:</strong> alerta para codificações que congelam assimetrias; propõe leitura atenta a reservas e práticas divergentes do Sul.</p></li>
+</ul>
+<h2 id="codificação-do-direito-costumeiro">Codificação do direito costumeiro</h2>
+<p>O processo de codificação foi lento e cheio de dificuldades. O exemplo mais bem-sucedido foi a codificação dos regimes diplomático e consular (Convenções de Viena de 1961 e 1963), que consolidaram práticas já sólidas.</p>
+<p>Em outros temas, como o asilo diplomático, a codificação revelou a precariedade do costume preexistente, exigindo que os tratados preenchessem lacunas.</p>
+<p>Rezek conclui que não se deve <strong>hipertrofiar</strong> o papel do costume — muitas vezes marcado por imprecisão e contestação — embora sua validade como fonte seja incontestável.</p>
+<h2 id="fundamento-de-validade">Fundamento de validade</h2>
+<p>Qual o fundamento da obrigatoriedade do costume?</p>
+<ul>
+<li><p><strong>Tese consensualista (voluntarista):</strong> o costume obriga porque resulta do assentimento dos Estados, mesmo tácito.</p></li>
+<li><p><strong>Tese objetivista:</strong> o costume é regra objetiva, independente da vontade estatal, aproximando-se de uma concepção jusnaturalista.</p></li>
+</ul>
+<div class="warning">
+<p>
+<b>Para saber mais: o fundamento de validade do costume e o problema dos novos Estados</b>
+</p>
+<p>O problema dos <strong>novos Estados</strong> é central aqui. Se adotada a tese objetivista, eles estariam vinculados a normas costumeiras forjadas em períodos coloniais, sem terem participado de sua formação. A leitura consensualista atenua esse problema, reconhecendo que protestos e objeções persistentes podem afastar a aplicação de determinados costumes.</p>
+</div>
+<h1 id="leitura-complementar">Leitura complementar</h1>
+<ul>
+<li><a href="https://www.icj-cij.org/case/52">Caso <em>North Sea Continental Shelf (Federal Republic of Germany/Netherlands)</em></a> - em inglês</li>
+<li><a href="https://www.icj-cij.org/fr/affaire/52">Caso <em>Plateau continental de la mer du Nord (République fédérale d’Allemagne/Pays-Bas)</em></a> - em francês</li>
+<li><a href="https://www.icj-cij.org/case/7">Caso <em>Asylum (Colombia/Peru)</em></a> - em inglês</li>
+<li><a href="https://www.icj-cij.org/fr/affaire/7">Caso <em>Droit d’asile (Colombie/Pérou)</em></a> - em francês</li>
+</ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
+<div id="ref-accioly_manual_2023" class="csl-entry" role="listitem">
+ACCIOLY, H.; SILVA, G. E. D. N. E.; CASELLA, P. B. <strong><a href="https://integrada.minhabiblioteca.com.br/#/books/9786553624542/">Manual de direito internacional público</a></strong>. 26. ed. São Paulo: SaraivaJur, 2023.
+</div>
 <div id="ref-brasil_decreto_1945" class="csl-entry" role="listitem">
 BRASIL, P. DA R. <strong>Decreto nº 19.841</strong>., out. 1945. Disponível em: &lt;<a href="https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d19841.htm">https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d19841.htm</a>&gt;. Acesso em: 12 mar. 2025
 </div>
+<div id="ref-chimni_customary_2018" class="csl-entry" role="listitem">
+CHIMNI, B. S. <a href="https://doi.org/10.1017/ajil.2018.12">Customary <span>International</span> <span>Law</span>: <span>A</span> <span>Third</span> <span>World</span> <span>Perspective</span></a>. <strong>American Journal of International Law</strong>, v. 112, n. 1, p. 1–46, jan. 2018.
+</div>
+<div id="ref-gaeta_casseses_2020" class="csl-entry" role="listitem">
+GAETA, P. et al. <strong>Cassese’s international law</strong>. Third edition ed. Oxford: Oxford University Press, 2020.
+</div>
 <div id="ref-rezek_direito_2025" class="csl-entry" role="listitem">
 REZEK, F. <strong><a href="https://integrada.minhabiblioteca.com.br/reader/books/9788553624997/">Direito internacional público: curso elementar</a></strong>. 20. ed. São Paulo, SP: SaraivaJur, 2025.
+</div>
+<div id="ref-shaw_international_2021" class="csl-entry" role="listitem">
+SHAW, M. N. <strong><a href="https://doi.org/10.1017/9781108774802">International <span>Law</span></a></strong>. 9. ed. [s.l.] Cambridge University Press, 2021.
 </div>
 </div>
 <!--radix_placeholder_article_footer-->

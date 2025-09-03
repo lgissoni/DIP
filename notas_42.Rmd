@@ -11,7 +11,7 @@ bibliography: dip.bib
 csl: abnt.csl
 ---
 
-Nesta aula vamos tratar das fontes de direito internacional público diversas dos tratados. Continuamos observando a ordem elencada no art. 38 do Estatuto da Corte da Haia: vistos os tratados, veremos agora as fontes não escritas (**costume** e **princípios gerais do direito**). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os **atos unilaterais** e as **decisões normativas** que se editam no âmbito das organizações internacionais.
+Nesta aula vamos iniciar o estudo das fontes de direito internacional público diversas dos tratados. Continuamos observando a ordem elencada no **art. 38** do **Estatuto da Corte Internacional de Justiça** (CIJ): vistos os tratados, veremos agora as fontes não escritas (**costume** e **princípios gerais do direito**). Em seguida, estudaremos duas fontes escritas não mencionadas no rol estaturário, refletindo o caráter controvertido de sua classificação enquanto tal: os **atos unilaterais** e as **decisões normativas** que se editam no âmbito das organizações internacionais.
 
 >  Artigo 38. 1. A Côrte, cuja função é decidir de acôrdo com o direito internacional as controvérsias que lhe forem submetidas, aplicará:<br>
 > a) as convenções internacionais, quer gerais, quer especiais. que estabeleçam regras expressamente reconhecidas pelos Estados litigantes;<br>
@@ -21,19 +21,151 @@ Nesta aula vamos tratar das fontes de direito internacional público diversas do
 
 # Costume
 
+O **costume internacional** é, ao lado dos tratados, a principal fonte formal do Direito Internacional Público. Sua definição está expressa no **art. 38, § 1º** do **Estatuto da CIJ**: “o costume internacional, como prova de uma prática geral aceita como sendo o direito”. Essa fórmula revela a necessidade de dois elementos essenciais: **(i) uma prática reiterada** (elemento material) e **(ii) a convicção de obrigatoriedade jurídica** (elemento subjetivo: *opinio juris*).  
+
+O ponto de partida, conforme **Rezek** [-@rezek_direito_2025], é que o costume internacional resulta da **prática reiterada dos Estados**, acompanhada da ***opinio juris sive necessitatis***. Essa concepção clássica enxerga o costume como fonte de igual hierarquia em relação aos tratados, ambos previstos no **art. 38, § 1º** do **Estatuto da CIJ**.
+
+Segundo **Accioly, Silva e Casella** [-@accioly_manual_2023], o costume se caracteriza como “uso geral, constante e uniforme, aceito como direito”, dando ênfase à prática da CIJ como espaço de verificação desse processo. A clareza conceitual da obra reforça que a dificuldade central é identificar a existência da *opinio juris*, diferenciando o simples hábito da convicção de obrigatoriedade jurídica.
+
+**Shaw** [-@shaw_international_2021], por sua vez, enfatiza o **caráter gradual** do costume, que exige prática extensiva e coerente, de modo que não se pode falar em “*instant custom*”. Para ele, mesmo em contextos de mudança rápida, como o direito espacial ou ambiental, ainda há a necessidade de formação progressiva que passe por aceitação estatal.
+
+**Cassese** [@gaeta_casseses_2020] chama atenção para a **codificação pós-1945**, sobretudo pela Comissão de Direito Internacional da ONU, que sistematizou práticas preexistentes e reduziu ambiguidades. Ao mesmo tempo, alerta que a cristalização de costumes frequentemente reflete interesses das potências, tensionando a ideia de universalidade.
+
+A crítica de **Chimni** [-@chimni_customary_2018] e da literatura conhecida como "*Third World Aproaches to International Law*" (**TWAIL**) é incisiva: o costume foi historicamente construído a partir de experiências **eurocêntricas**, marginalizando a prática e a normatividade do Sul Global. Ao universalizar normas oriundas de um grupo restrito de Estados, o costume reforça desigualdades no sistema internacional, mascarando relações de poder sob a aparência de consensualidade.
+
+
+<div class="complementar">
+
+<p><b>Texto complementar: Jurisprudência da CIJ</b></p>
+
+**North Sea Continental Shelf (1969):**
+
+“Embora a prática de alguns Estados possa apontar para a existência de uma regra costumeira emergente, não se pode considerar consolidada enquanto não houver aceitação geral e representativa, acompanhada da convicção de obrigatoriedade jurídica (opinio juris). O mero fato de diversos Estados agirem de determinada forma por conveniência ou cortesia não basta para que se configure uma norma costumeira.”
+
+**Asylum Case (Colômbia vs. Peru, 1950):**
+
+“Um costume regional pode constituir fonte de direito internacional vinculante, mas requer uma prática constante e uniforme dos Estados da região. No caso concreto, não se demonstrou a existência de prática suficientemente generalizada e aceita como obrigatória que reconhecesse o direito de conceder asilo diplomático unilateralmente.”
+
+</div>
+
 ## Elementos do costume
 
-Como visto no artigo 38 acima, a norma jurídica costumeira resulta de "uma prática geral aceita como sendo o direito". Daí resultam seus elementos:
+Segundo Rezek:  
 
-- **Elemento material:** a *prática* - "a repetição, ao longo do tempo, de certo modo de proceder ante determinado quadro de fato" [@rezek_direito_2025, p. 133]
-- **Elemento subjetivo:** "a convicção de que assim se procede não sem motivo, mas por ser necessário, justo, e consequentemente *jurídico*" [@rezek_direito_2025, p. 133]
+> “A norma jurídica costumeira resulta de ‘uma prática geral aceita como sendo o direito’.” [@rezek_direito_2025, p. 133]
 
-### Elemento material
+Isso corresponde a:
 
-- **Natureza:** o procedimento regularmente repetido pode ser *positivo* - uma ação - ou *negativo* - uma omissão.
-- **Sujeitos:** necessariamente sujeitos de direito internacional público: *Estados soberanos* e *organizações internacionais*. Indivíduos, empresas e outras entidades não produzem direito das gentes.
-- **Tempo:** a norma diz "repetição, *ao longo do tempo*". Quanto tempo? Veja-se, a esse respeito, a opinião de Rezek:
+- **Elemento material:** a repetição, ao longo do tempo, de certo modo de proceder ante determinado quadro de fato.  
+- **Elemento subjetivo (opinio juris):** a convicção de que essa prática não é mero hábito, mas obrigação de natureza jurídica.  
 
-> Regras costumeiras existem — por exemplo, no domínio do direito relativo ao alto-mar, à guerra, à gênese dos tratados — que se forjaram em passado remoto, e que se supõem consolidadas só ao cabo de alguns séculos de uma prática rarefeita, em razão das circunstâncias. Observe-se, porém, que a celeridade das coisas contemporâneas contagiou o processo de produção do direito costumeiro. No julgamento do caso da plataforma continental do mar do Norte, a Corte Internacional de Justiça teve ocasião de estatuir que “...o transcurso de um período de tempo reduzido não é necessariamente, ou não constitui em si mesmo, um impedimento à formação de uma nova norma de direito internacional consuetudinário...” [@rezek_direito_2025, p. 133].
+### O elemento material
 
-### Elemento subjetivo
+O procedimento pode ser **positivo** (ação) ou **negativo** (abstenção). Os sujeitos dessa prática são, necessariamente, pessoas jurídicas de direito internacional:  
+- **Estados soberanos**, tradicionalmente;  
+- **Organizações internacionais**, mais recentemente reconhecidas como capazes de participar da formação do direito consuetudinário.  
+
+Quanto ao **tempo**, Rezek lembra que há regras forjadas em passado remoto, consolidadas ao longo de séculos (alto-mar, guerra, tratados). Porém, a CIJ afirmou no caso *Plataforma Continental do Mar do Norte* que:  
+
+> ...o transcurso de um período de tempo reduzido não constitui, em si mesmo, impedimento à formação de uma nova norma costumeira. ( CIJ, *North Sea Continental Shelf*, 1969, p. 43)
+
+### O elemento subjetivo: opinio juris
+
+A prática só se converte em norma se acompanhada da convicção de obrigatoriedade. Não basta a repetição habitual — como ocorre em protocolos diplomáticos motivados por cortesia.  
+
+No caso *Plataforma Continental do Mar do Norte*, a CIJ estabeleceu que:  
+
+> ...os atos devem constituir uma prática estabelecida, mas também devem demonstrar, ou ser acompanhados, da crença de que essa prática é obrigatória em virtude de uma regra de direito. ( CIJ, *North Sea Continental Shelf*,1969, p. 44)
+
+Rezek recorda a observação de Josef Kunz: toda regra costumeira nasce de um “erro jurídico”. Antes mesmo de existir, os Estados já a exercitam como se fosse obrigatória — e por isso ela acaba existindo.  
+
+A **TWAIL**, por outro lado, insiste que a *opinio juris* deve ser lida à luz de assimetria de poder; aceita objeção persistente de novos Estados como dado relevante para não universalizar indevidamente uma prática.
+
+## Generalidade e costumes regionais
+
+O Estatuto fala em prática “geral”. Isso não significa universalidade, mas **pluralidade mínima de sujeitos**.  
+
+<div class="warning">
+
+A noção de costume regional é essencial para compreender a diversidade do direito internacional. O exemplo clássico é o **asilo diplomático** na América Latina. Contudo, a tentativa de apresentar costumes europeus como universais — como a regra das três milhas para o mar territorial — revelou a natureza **parcial e localizada** de muitas práticas consuetudinárias.
+
+</div>
+
+## Prova do costume
+
+O **ônus da prova** recai sobre quem alega a existência da norma costumeira.  
+
+No caso **Direito de Asilo** (Colômbia x Peru), a CIJ foi clara:  
+
+> Cabe ao Estado que invoca um costume regional demonstrar sua existência e seu reconhecimento geral. (CIJ, *Asylum Case*, 1950, p. 276)
+
+A prova pode vir de:  
+
+- **Atos estatais:** prática diplomática, legislação interna, decisões judiciais.  
+
+- **Tratados:** que frequentemente declaram normas costumeiras preexistentes ou em formação.  
+
+- **Jurisprudência internacional e doutrina:** como meios auxiliares de apuração.  
+
+Exemplo: a **Convenção de Viena sobre Direito dos Tratados (1969)** consolidou muitas normas costumeiras preexistentes, mas também estimulou a formação de novos costumes.  
+
+
+## Relação entre costume e tratado
+
+Não há hierarquia entre normas costumeiras e convencionais:  
+
+- Um tratado pode derrogar norma costumeira entre as partes.  
+
+- Um costume pode modificar tratado por desuso.  
+
+Historicamente, até o século XIX, o direito internacional foi predominantemente costumeiro. O direito convencional tinha alcance limitado, de natureza bilateral. A partir do século XIX, multiplicaram-se os tratados multilaterais, e iniciou-se a tentativa de **codificação do direito costumeiro**.  
+
+<div class="warning">
+
+<p><b>Para saber mais: relação entre costume e tratado</b></p>
+
+Alguns autores (como Shaw e Cassese) veem os tratados como mais importantes por razões de certeza e segurança jurídica. Já perspectivas críticas (como a TWAIL) questionam se o costume não é, muitas vezes, um instrumento de imposição de práticas eurocêntricas sob aparência de universalidade.  
+
+</div>
+
+### Quadro comparativo
+
+- **Accioly/Silva:** tendência a ver complementaridade entre tratado e costume; sem primazia abstrata.  
+
+- **Shaw:** destaca vantagem operacional do tratado; mas reconhece a persistência e a resiliência do costume (especialmente em lacunas regulatórias).  
+
+- **Cassese:** enfatiza o papel do pós-1945 na normatividade programática que empurra costumes (direitos humanos, jus cogens, crimes internacionais).  
+
+- **Chimni/TWAIL:** alerta para codificações que congelam assimetrias; propõe leitura atenta a reservas e práticas divergentes do Sul.
+
+## Codificação do direito costumeiro
+
+O processo de codificação foi lento e cheio de dificuldades. O exemplo mais bem-sucedido foi a codificação dos regimes diplomático e consular (Convenções de Viena de 1961 e 1963), que consolidaram práticas já sólidas.  
+
+Em outros temas, como o asilo diplomático, a codificação revelou a precariedade do costume preexistente, exigindo que os tratados preenchessem lacunas.  
+
+Rezek conclui que não se deve **hipertrofiar** o papel do costume — muitas vezes marcado por imprecisão e contestação — embora sua validade como fonte seja incontestável.  
+
+## Fundamento de validade
+
+Qual o fundamento da obrigatoriedade do costume?  
+
+- **Tese consensualista (voluntarista):** o costume obriga porque resulta do assentimento dos Estados, mesmo tácito.  
+
+- **Tese objetivista:** o costume é regra objetiva, independente da vontade estatal, aproximando-se de uma concepção jusnaturalista.  
+
+<div class="warning">
+
+<p><b>Para saber mais: o fundamento de validade do costume e o problema dos novos Estados</b></p>
+
+O problema dos **novos Estados** é central aqui. Se adotada a tese objetivista, eles estariam vinculados a normas costumeiras forjadas em períodos coloniais, sem terem participado de sua formação. A leitura consensualista atenua esse problema, reconhecendo que protestos e objeções persistentes podem afastar a aplicação de determinados costumes.  
+
+</div>
+
+# Leitura complementar
+
+- [Caso *North Sea Continental Shelf (Federal Republic of Germany/Netherlands)*](https://www.icj-cij.org/case/52) - em inglês
+- [Caso *Plateau continental de la mer du Nord (République fédérale d'Allemagne/Pays-Bas)*](https://www.icj-cij.org/fr/affaire/52) - em francês
+- [Caso *Asylum (Colombia/Peru)*](https://www.icj-cij.org/case/7) - em inglês
+- [Caso *Droit d'asile (Colombie/Pérou)*](https://www.icj-cij.org/fr/affaire/7) - em francês
+

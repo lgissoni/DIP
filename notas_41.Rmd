@@ -469,6 +469,8 @@ Reconheceu-se que Estados podem **objetar a reservas incompatíveis com o objeto
 > tanto assim que o artigo é redigido de forma negativa
 > [@accioly_manual_2023 p. 167-168].
 
+---
+
 ## **Resumo Final** ✅
 - Condições de validade (capacidade, habilitação, consentimento, objeto lícito).
 - Efeitos para terceiros (regra geral + exceções).
