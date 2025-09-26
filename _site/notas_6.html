@@ -111,29 +111,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>DIP: Notas de aula 6</title>
+  <title>DIP: Notas de Aula 6</title>
 
-  <meta property="description" itemprop="description" content="O Estado: dimensão pessoal do Estado"/>
+  <meta property="description" itemprop="description" content="O Estado: Dimensão Pessoal e Nacionalidade"/>
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2025-04-07"/>
-  <meta property="article:created" itemprop="dateCreated" content="2025-04-07"/>
+  <meta property="article:published" itemprop="datePublished" content="2025-09-26"/>
+  <meta property="article:created" itemprop="dateCreated" content="2025-09-26"/>
   <meta name="article:author" content="Luccas Gissoni"/>
   <meta name="article:author" content=""/>
   <meta name="article:author" content=""/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="DIP: Notas de aula 6"/>
+  <meta property="og:title" content="DIP: Notas de Aula 6"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="O Estado: dimensão pessoal do Estado"/>
+  <meta property="og:description" content="O Estado: Dimensão Pessoal e Nacionalidade"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="DIP"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="DIP: Notas de aula 6"/>
-  <meta property="twitter:description" content="O Estado: dimensão pessoal do Estado"/>
+  <meta property="twitter:title" content="DIP: Notas de Aula 6"/>
+  <meta property="twitter:description" content="O Estado: Dimensão Pessoal e Nacionalidade"/>
 
   <!--/radix_placeholder_meta_tags-->
   
@@ -141,7 +141,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Notas de aula 6"]},{"type":"character","attributes":{},"value":["O Estado: dimensão pessoal do Estado"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["https://zumbidospalmares.edu.br/"]}]}]},{"type":"character","attributes":{},"value":["2025-04-07"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","bibliography","csl"]}},"value":[{"type":"character","attributes":{},"value":["Notas de Aula 6"]},{"type":"character","attributes":{},"value":["O Estado: Dimensão Pessoal e Nacionalidade"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Luccas Gissoni"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Universidade Zumbi dos Palmares"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["affiliation_url"]}},"value":[{"type":"character","attributes":{},"value":["https://zumbidospalmares.edu.br/"]}]}]},{"type":"character","attributes":{},"value":["2025-09-26"]},{"type":"character","attributes":{},"value":["distill::distill_article"]},{"type":"character","attributes":{},"value":["dip.bib"]},{"type":"character","attributes":{},"value":["abnt.csl"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2288,6 +2288,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: #ca225e;
   }
 
+  /* Estiliza os números de listas ordenadas */
+  ol {
+    list-style-type: decimal;
+    padding-left: 1.5em;
+  }
+
+  ol li::marker {
+    font-weight: bold;
+    color: #ca225e;
+  }
+
+
   .distill-site-header { 
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -2299,16 +2311,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   h1 {
-      font-size: 2em !important;
+    font-size: 2em !important;
   }
 
   h2 {
-      font-size: 1.5em !important;
+    font-size: 1.5em !important;
   }
 
   h3 {
-      font-size: 1.2em !important;
+    font-size: 1.2em !important;
   }
+
+  h4 {
+    font-size: 1em !important;
+    font-weight: 1700; /* Negrito para se destacar */
+  }
+
+  h5 {
+    font-size: 1em !important;
+  }
+
 
 
   .distill-site-header .logo img{
@@ -2335,6 +2357,57 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   strong {
       color: #ca225e; /* Ou outra cor da sua paleta */
+  }
+
+  /* Caixa de aviso (warning) personalizada */
+
+  /* Caixa de aviso (warning) com texto mais suave */
+  /* Utilizado para "Atenção", "Importante" e "Para saber mais" */
+  .warning {
+    background-color: #fdf3f7;
+    color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
+    border-left: 4px solid #ca225e;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1.5em 0;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .warning p {
+    margin: 0.5em 0 0.5em 1em;
+  }
+  .warning p:first-child {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ca225e; /* título da caixa continua em destaque */
+  }
+
+  /* Caixa de texto complementar (ex: jurisprudência, doutrina longa, TWAIL) */
+  /* Visual unificado com .warning, com fundo cinza */
+  .complementar {
+    background-color: #f2f2f2;
+    color: rgba(0, 0, 0, 0.6); /* texto no tom das citações */
+    border-left: 4px solid #ca225e;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1.5em 0;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .complementar p {
+    margin: 0.5em 0 0.5em 1em;
+  }
+  .complementar p:first-child {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ca225e;
+  }
+  .complementar b {
+    color: #ca225e;
   }</style>
   <style type="text/css">
   /* base style */
@@ -2511,7 +2584,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Notas de aula 6","description":"O Estado: dimensão pessoal do Estado","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"https://zumbidospalmares.edu.br/","affiliationURL":"https://zumbidospalmares.edu.br/","orcidID":""}],"publishedDate":"2025-04-07T00:00:00.000-03:00","citationText":"Gissoni, et al., 2025"}
+{"title":"Notas de Aula 6","description":"O Estado: Dimensão Pessoal e Nacionalidade","authors":[{"author":"Luccas Gissoni","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"Universidade Zumbi dos Palmares","affiliationURL":"#","orcidID":""},{"author":"","authorURL":"#","affiliation":"https://zumbidospalmares.edu.br/","affiliationURL":"https://zumbidospalmares.edu.br/","orcidID":""}],"publishedDate":"2025-09-26T00:00:00.000-03:00","citationText":"Gissoni, et al., 2025"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2542,6 +2615,11 @@ NOTAS DE AULA
 <a href="notas_5.html">Semana 5</a>
 <a href="notas_6.html">Semana 6</a>
 <a href="notas_8.html">Semana 8</a>
+<a href="notas_9.html">Semana 9</a>
+<a href="notas_11.html">Semana 11 - aula 1</a>
+<a href="notas_11_2.html">Semana 11 - aula 2</a>
+<a href="notas_12.html">Semana 12</a>
+<a href="notas_14.html">Semana 14</a>
 </div>
 </div>
 <div class="nav-dropdown">
@@ -2553,6 +2631,9 @@ PAPs
 <div class="nav-dropdown-content">
 <a href="pap_12.html">PAP 1.2</a>
 <a href="pap_13.html">PAP 1.3</a>
+<a href="pap_14.html">PAP 1.4</a>
+<a href="pap_21.html">PAP 2.1</a>
+<a href="pap_22.html">PAP 2.2</a>
 </div>
 </div>
 <a href="https://github.com/lgissoni/DIP">
@@ -2567,11 +2648,11 @@ PAPs
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Notas de aula 6</h1>
+<h1>Notas de Aula 6</h1>
 
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>O Estado: dimensão pessoal do Estado</p>
+<p>O Estado: Dimensão Pessoal e Nacionalidade</p>
 </div>
 
 <div class="d-byline">
@@ -2583,7 +2664,7 @@ PAPs
 ,   
   true
   
-<br/>2025-04-07
+<br/>2025-09-26
 </div>
 
 <div class="d-article">
@@ -2591,320 +2672,279 @@ PAPs
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#introdução-população-e-comunidade-nacional" id="toc-introdução-população-e-comunidade-nacional">Introdução: população e comunidade nacional</a>
+<li><a href="#i.-introdução-população-e-comunidade-nacional" id="toc-i.-introdução-população-e-comunidade-nacional">I. Introdução: População e Comunidade Nacional</a>
 <ul>
 <li><a href="#população" id="toc-população">População</a></li>
-<li><a href="#comunidade-nacional" id="toc-comunidade-nacional">Comunidade nacional</a></li>
+<li><a href="#comunidade-nacional" id="toc-comunidade-nacional">Comunidade Nacional</a></li>
 </ul></li>
-<li><a href="#nacionalidade" id="toc-nacionalidade">Nacionalidade</a>
+<li><a href="#ii.-nacionalidade-em-direito-internacional-dip" id="toc-ii.-nacionalidade-em-direito-internacional-dip">II. Nacionalidade em Direito Internacional (DIP)</a>
 <ul>
-<li><a href="#a-nacionalidade-em-direito-internacional" id="toc-a-nacionalidade-em-direito-internacional">A nacionalidade em direito internacional</a>
-<ul>
-<li><a href="#princípios-gerais" id="toc-princípios-gerais">Princípios gerais</a></li>
-<li><a href="#normas-costumeiras" id="toc-normas-costumeiras">Normas costumeiras</a></li>
-<li><a href="#tratados-multilaterais" id="toc-tratados-multilaterais">Tratados multilaterais</a></li>
+<li><a href="#a.-conceito-e-titularidade" id="toc-a.-conceito-e-titularidade">A. Conceito e Titularidade</a></li>
+<li><a href="#b.-princípios-e-normas-costumeiras" id="toc-b.-princípios-e-normas-costumeiras">B. Princípios e Normas Costumeiras</a></li>
+<li><a href="#c.-meios-de-atribuição" id="toc-c.-meios-de-atribuição">C. Meios de Atribuição</a></li>
+<li><a href="#d.-tratados-multilaterais-combate-à-apatria-e-polipatria" id="toc-d.-tratados-multilaterais-combate-à-apatria-e-polipatria">D. Tratados Multilaterais: Combate à Apatria e Polipatria</a></li>
 </ul></li>
-<li><a href="#a-nacionalidade-brasileira" id="toc-a-nacionalidade-brasileira">A nacionalidade brasileira</a>
+<li><a href="#iii.-a-nacionalidade-brasileira-cf88" id="toc-iii.-a-nacionalidade-brasileira-cf88">III. A Nacionalidade Brasileira (CF/88)</a>
 <ul>
-<li><a href="#brasileiros-natos" id="toc-brasileiros-natos">Brasileiros natos</a></li>
-<li><a href="#brasileiros-naturalizados" id="toc-brasileiros-naturalizados">Brasileiros naturalizados</a></li>
-<li><a href="#perda-da-nacionalidade-brasileira" id="toc-perda-da-nacionalidade-brasileira">Perda da nacionalidade brasileira</a></li>
+<li><a href="#a.-brasileiros-natos-art.-12-i" id="toc-a.-brasileiros-natos-art.-12-i">A. Brasileiros Natos (Art. 12, I)</a></li>
+<li><a href="#b.-brasileiros-naturalizados-art.-12-ii" id="toc-b.-brasileiros-naturalizados-art.-12-ii">B. Brasileiros Naturalizados (Art. 12, II)</a></li>
+<li><a href="#c.-perda-da-nacionalidade-brasileira-art.-12-4º" id="toc-c.-perda-da-nacionalidade-brasileira-art.-12-4º">C. Perda da Nacionalidade Brasileira (Art. 12, § 4º)</a></li>
 </ul></li>
+<li><a href="#iv.-o-estatuto-de-igualdade-brasil---portugal" id="toc-iv.-o-estatuto-de-igualdade-brasil---portugal">IV. O Estatuto de Igualdade (Brasil - Portugal)</a>
+<ul>
+<li><a href="#padrões-de-igualdade" id="toc-padrões-de-igualdade">Padrões de Igualdade</a></li>
 </ul></li>
 </ul>
 </nav>
 </div>
-<h1 id="introdução-população-e-comunidade-nacional">Introdução: população e comunidade nacional</h1>
+<p><strong>Objetivo de Aprendizagem:</strong> Ao final desta aula, você será capaz de distinguir a dimensão pessoal do Estado (<strong>Comunidade Nacional</strong>) e compreender os princípios do Direito Internacional e as regras constitucionais brasileiras sobre <strong>Nacionalidade</strong>.</p>
+<hr />
+<h1 id="i.-introdução-população-e-comunidade-nacional">I. Introdução: População e Comunidade Nacional</h1>
+<p>O elemento humano do Estado soberano se manifesta em duas dimensões.</p>
 <h2 id="população">População</h2>
-<p>População do Estado é o conjunto das pessoas instaladas em caráter
-permanente sobre seu território:</p>
+<p>A <strong>População</strong> do Estado é o conjunto das pessoas instaladas em caráter permanente sobre seu território, englobando a vasta maioria de nacionais e o contingente minoritário de estrangeiros residentes.</p>
+<h2 id="comunidade-nacional">Comunidade Nacional</h2>
+<p>A <strong>Comunidade Nacional</strong> é o conjunto de <strong>nacionais do Estado</strong>, residam estes no interior de seu território ou no estrangeiro.</p>
+<div class="alert alert-info">
+<h4>
+Ponto-Chave em DIP
+</h4>
+<p>
+A dimensão pessoal do Estado soberano é a <strong>Comunidade Nacional</strong>, não a População.
+</p>
 <ul>
-<li><p>Nacionais;</p></li>
-<li><p>Estrangeiros residentes</p></li>
+<li>
+<strong>População</strong> (Estrangeiros Residentes): Base da <strong>Jurisdição Territorial</strong>.
+</li>
+<li>
+<strong>Comunidade Nacional</strong> (Nacionais): Base da <strong>Jurisdição Pessoal</strong>, fundada no vínculo de nacionalidade, independentemente do território. (<span class="citation" data-cites="rezek_direito_2024">REZEK (<a href="#ref-rezek_direito_2024" role="doc-biblioref">2024</a>)</span>, § 101)
+</li>
 </ul>
-<h2 id="comunidade-nacional">Comunidade nacional</h2>
-<p>Comunidade nacional é conjunto de nacionais do Estado, residam estes no
-interior de seu território ou no estrangeiro.</p>
-<blockquote>
-<p>Importante lembrar que a dimensão pessoal do Estado soberano (seu
-elemento constitutivo, ao lado do território e do governo) não é a
-respectiva população, mas a comunidade nacional, ou seja, o conjunto
-de seus nacionais, incluindo aqueles, minoritários, que se tenham
-estabelecido no exterior. Sobre os estrangeiros residentes o Estado
-exerce inúmeras competências inerentes à sua jurisdição territorial.
-Sobre seus nacionais distantes o Estado exerce jurisdição pessoal,
-fundada no vínculo de nacionalidade, e independente do território onde
-se encontrem <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 79</a>)</span>.</p>
-</blockquote>
-<h1 id="nacionalidade">Nacionalidade</h1>
-<blockquote>
-<p>Nacionalidade é um vínculo político entre o Estado soberano e o
-indivíduo, que faz deste um membro da comunidade constitutiva da
-dimensão pessoal do Estado <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 79</a>)</span>.</p>
-</blockquote>
-<p>A nacionalidade é importante conceito de direito internacional, mas
-recebe uma disciplina jurídica de direito interno: cada Estado legisla
-sobre sua própria nacionalidade, ressalvadas as regras gerais e
-específicas com as quais tenha se comprometido.</p>
-<p>O titular da nacionalidade é a pessoa humana, que através dela tem
-vínculo político com o Estado nacional. A nacionalidade das pessoas
-jurídicas constitui uma sujeição de ordem administrativa, mutável com a
-compra e venda ou sede da empresa; a nacionalidade das coisas é
-meramente metafórica.</p>
-<h2 id="a-nacionalidade-em-direito-internacional">A nacionalidade em direito internacional</h2>
-<h3 id="princípios-gerais">Princípios gerais</h3>
+</div>
+<hr />
+<h1 id="ii.-nacionalidade-em-direito-internacional-dip">II. Nacionalidade em Direito Internacional (DIP)</h1>
+<p>A <strong>Nacionalidade</strong> é um <strong>vínculo político</strong> entre o Estado soberano e o indivíduo, que o torna membro da comunidade constitutiva da dimensão pessoal do Estado. Embora vital para o Direito das Gentes, sua disciplina é primariamente de <strong>Direito Interno</strong>.</p>
+<h2 id="a.-conceito-e-titularidade">A. Conceito e Titularidade</h2>
 <ul>
-<li><p>A dimensão humana ou pessoal é elemento inerente ao Estado: o Estado
-necessita manifestar-se em determinadas pessoas;</p></li>
-<li><p>Todo indivíduo tem direito a uma nacionalidade; o Estado não pode
-arbitrariamente privar o indivíduo de sua nacionalidade, nem do
-direito de mudar de nacionalidade (art. 15; Declaralção Universal
-dos Direitos do Homem/1948);</p></li>
-<li><p>Princípio da efetividade: o vínculo patrial não deve fundar-se na
-pura formalidade ou no artifício, mas na existência de laços sociais
-consistentes entre o indivíduo e o Estado</p></li>
+<li><strong>Titularidade:</strong> O <strong>ser humano</strong> (o uso para Pessoas Jurídicas ou Coisas é, por essência, uma extensão ou metáfora).</li>
+<li><strong>Disciplina:</strong> Cada Estado legisla sobre sua própria nacionalidade, respeitando as regras gerais do Direito Internacional.</li>
+</ul>
+<h2 id="b.-princípios-e-normas-costumeiras">B. Princípios e Normas Costumeiras</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Princípio</th>
+<th style="text-align: left;">Descrição e Impacto</th>
+<th style="text-align: left;">Observação em DIP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Elemento Inerente</strong></td>
+<td style="text-align: left;">O Estado tem a necessidade elementar de distinguir entre seus nacionais e os estrangeiros. (Pontes de Miranda, contra Kelsen)</td>
+<td style="text-align: left;">O Estado deve se manifestar em determinadas pessoas (mínimo, o chefe de Estado).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Direito Humano</strong></td>
+<td style="text-align: left;">Todo indivíduo tem direito a uma nacionalidade (Art. 15, DUDH/1948).</td>
+<td style="text-align: left;">Proíbe a <strong>privação arbitrária</strong> e garante o <strong>direito de mudar</strong> de nacionalidade (superando o conceito de <em>allégeance perpétuelle</em>).</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Efetividade</strong></td>
+<td style="text-align: left;">O vínculo patrial deve se fundar na <strong>existência de laços sociais consistentes</strong>, não em mera formalidade.</td>
+<td style="text-align: left;"><strong>Caso Nottebohm:</strong> Naturalização carente de apoio em fatos sociais pode não ser reconhecida por outros Estados e foros internacionais.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Proibição de Banimento</strong></td>
+<td style="text-align: left;">Nenhum Estado pode expulsar nacional seu para território estrangeiro.</td>
+<td style="text-align: left;">O Estado tem a obrigação de <strong>acolher</strong> seus nacionais em qualquer circunstância.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="c.-meios-de-atribuição">C. Meios de Atribuição</h2>
+<p>A nacionalidade pode ser atribuída de duas formas principais:</p>
+<ol type="1">
+<li><strong>Nacionalidade Originária:</strong> Aquela atribuída ao nascer, que se baseia em:
+<ul>
+<li><strong><span class="math inline">\(\text{Jus}\)</span> <span class="math inline">\(\text{Soli}\)</span></strong>: Considera o <strong>lugar do nascimento</strong>.</li>
+<li><strong><span class="math inline">\(\text{Jus}\)</span> <span class="math inline">\(\text{Sanguinis}\)</span></strong>: Considera a <strong>nacionalidade dos pais</strong>.</li>
 </ul>
 <blockquote>
-<p>De modo geral a <em>nacionalidade originária</em> (aquela que a pessoa se vê
-atribuir quando nasce) resulta da consideração, em grau variado, do
-lugar do nascimento (<em>jus soli</em>) e da nacionalidade dos pais (<em>jus
-sanguinis</em>). A manifestação de vontade — que opera às vezes como
-elemento acessório para a determinação da nacionalidade originária —
-é pressuposto indispensável da aquisição ulterior de outro vínculo
-patrial, mas deve apoiar-se sobre fatos sociais indicativos da relação
-indivíduo-Estado. Com efeito, a <em>nacionalidade derivada</em>, que se obtém
-mediante naturalização e na maioria dos casos implica a ruptura do
-vínculo anterior, há de ter requisitos como alguns anos de residência
-no país, o domínio do idioma, e outros mais, ora alternativos ora
-cumulativos. Quando um Estado concede a alguém sua nacionalidade por
-naturalização carente de apoio em fatos sociais, não se discute seu
-direito de prestigiar esse gracioso vínculo dentro de seu próprio
-território. Lá fora, contudo, outros governos, e destacadamente os
-foros internacionais, tenderão a negar reconhecimento a essa
-nacionalidade, considerada inefetiva <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 80</a>)</span>.</p>
-</blockquote>
-<h3 id="normas-costumeiras">Normas costumeiras</h3>
-<ul>
-<li><p>Exclui-se da atribuição de nacionalidade <em>jure soli</em> os filhos de
-agentes de Estados estrangeiros;</p></li>
-<li><p>É proibido o <em>banimento</em>: “Nenhum Estado pode expulsar nacional seu,
-com destino a território estrangeiro ou a espaço de uso comum. Há,
-pelo contrário, uma obrigação, para o Estado, de acolher seus
-nacionais em qualquer circunstância, incluída a hipótese de que
-tenham sido expulsos de onde se encontravam" <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 80</a>)</span>.</p></li>
-</ul>
-<h3 id="tratados-multilaterais">Tratados multilaterais</h3>
-<blockquote>
-<p>O direito internacional escrito tem, de modo esparso e avulso,
-procurado reduzir os problemas da apatria e da polipatria, ora
-trazendo à ordem geral certos Estados excessivamente absorventes, ou,
-pelo contrário, refratários demais à outorga da nacionalidade, ora
-tendendo a proscrever, nesse âmbito, a distinção entre os sexos e a
-repercussão automática do casamento, ou de sua dissolução, sobre o
-vínculo patrial <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 80</a>)</span>.</p>
-</blockquote>
-<ul>
-<li><p><strong>Convenção da Haia</strong> de 12 de abril de 1930: liberdade do Estado
-para determinar em direito interno quais são seus nacionais,
-ponderando, embora, que tal determinação só é oponível aos demais
-Estados quando revestida de um mínimo de efetividade, à base de
-fatores ditados pelo costume pertinente (lugar do nascimento,
-filiação, tempo razoá­vel de residência ou outro indicativo de
-vínculo como pressuposto da naturalização);</p></li>
-<li><p><strong>Convenção da Haia</strong> de 12 de abril de 1930: condenação da
-repercussão de pleno direito sobre a mulher, na constância do
-casamento, da eventual mudança de nacionalidade do marido, e a
-determinar aos Estados cuja lei subtrai a nacionalidade à mulher em
-razão do casamento com estrangeiro, que se certifiquem da aquisição,
-por aquela, da nacionalidade do marido, prevenindo desse modo a
-perda não compensada, vale dizer a apatria;</p></li>
-<li><p><strong>7ª Conferência Interamericana</strong>: condenação de qualquer legislação
-ou prática discriminatória sobre os direitos da mulher;</p></li>
-<li><p><strong>Convenção de Nova York</strong> de 20 de fevereiro de 1957: imuniza a
-nacionalidade da mulher contra todo efeito automático do casamento,
-do divórcio, ou das alterações da nacionalidade do marido na
-constância do vínculo;</p></li>
-<li><p><strong>Assembleia Geral das Nações Unidas</strong> de 1948: trazia a
-nacionalidade à área dos direitos funda­mentais da pessoa humana,
-tendo como premissa maior a consideração do desamparo e dos
-transtornos resultantes da apatria;</p></li>
-<li><p><strong>Declaração Universal dos Direitos do Homem</strong>, art. 15: “todo homem
-tem direito a uma nacionalidade”; “ninguém será arbitrariamente
-privado de sua nacionalidade, nem do direito de mudar de
-nacionalidade”;</p></li>
-<li><p><strong>Convenção americana sobre direitos humanos de São José da Costa
-Rica</strong> de em 1969, art. 20: repete o art. 15 da Declaração Universal
-dos Direitos do Homem e inova: “Toda pessoa tem direito à
-nacionalidade do Estado em cujo território houver nascido, se não
-tiver direito a outra”.</p></li>
-</ul>
-<h2 id="a-nacionalidade-brasileira">A nacionalidade brasileira</h2>
-<h3 id="brasileiros-natos">Brasileiros natos</h3>
-<p>Brasileiro nato é aquele que, <em>nascido no Brasil ou no exterior</em>, teve a
-nacionalidade brasileira atribuída <strong>ao nascer</strong> ou “a perspectiva de
-consolidá-la mediante opção, de efeitos retroativos"
-<span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 81</a>)</span>.</p>
-<ul>
-<li><p>CF/88, art. 12, I, a): <strong>os nascidos na República Federativa do
-Brasil</strong>, ainda que de pais estrangeiros, desde que estes não
-estejam a serviço de seu país;</p>
-<blockquote>
-<p>Um problema vestibular, mais complicado do que se poderia à
-primeira vista supor, é o da noção do que seja território
-brasileiro. Seria prático compreendê-lo no mais estrito dos
-sentidos, ou seja, como a massa territorial contínua dividida em
-unidades federadas. Desse modo, nascer no Brasil significaria,
-necessariamente, ter a naturalidade fixada em uma das quase seis
-mil circunscrições municipais em que o solo pátrio se subdivide.
-De outro modo, ter-se-ia nascido fora do território brasileiro, o
-que excluiria o jus soli mas não a perspectiva de atribuição da
-nacionalidade originária por outra das fórmulas constitucionais. O
-constituinte nada disse acerca dos espaços hídricos, aéreos, ou
-mesmo terrestres, imunes a qualquer incidência de soberania (o
-alto-mar, o espaço aéreo, o continente antártico). Mas quem aí vem
-ao mundo também não pode ser considerado por nós como nascido no
-estrangeiro, visto que tais espaços são neutros, e de uso comum
-disciplinado pelo direito internacional. Transferido o problema à
-doutrina, Pontes de Miranda propôs solução convincente:
-entendem-se nascidos no Brasil os nascidos a bordo de navios ou
-aeronaves de bandeira brasileira quando trafeguem por espaços
-neutros. O mesmo não ocorre, obviamente, em espaços afetos à
-soberania de outro Estado, mesmo se público o engenho onde
-acontece o nascimento. Há também a hipótese de alguém nascer a
-bordo, no mar territorial brasileiro ou em nosso espaço aéreo,
-qualquer que seja a bandeira do navio ou aeronave. Esses espaços
-nada têm de estrangeiros ou de neutros, de modo que justificam a
-atribuição da nacionalidade jure soli. Mas é também de Pontes de
-Miranda a lembrança de que, em tais casos, é pouco provável que se
-reclame a nacionalidade brasileira se nenhum outro vínculo existe
-entre a família e o Brasil. Se assim não for, não há como recusar
-a nacionalidade brasileira originária, solicitada pelos genitores
-ou pelo próprio interessado no futuro. Vale recordar que nosso
-sistema não impõe preclusões, não impõe perda de direitos, quanto
-à nacionalidade, pelo decurso do tempo. Países existem em que a
-partir de certa idade (25 anos na França) já não é possível
-discutir esse tema nem modificar a nacionalidade originária
-consolidada. Entre nós, é juridicamente possível que alguém por
-aqui apareça já idoso, provando, entretanto, que nasceu em Viena,
-ou em Xangai, da união informal entre o cônsul do Brasil e uma
-nacional da terra; ou que nasceu a bordo de um engenho
-norte-americano em trânsito no espaço aéreo ou no mar territorial
-brasileiro; ou que nasceu em plena selva, junto da fronteira,
-quando sua mãe, colombiana, alcançava o território brasileiro numa
-fuga à polícia, ou à guerrilha, ou ao narcotráfico. Em qualquer
-dessas hipóteses, provada a materialidade do fato, o
-reconhecimento da nacionalidade originária se impõe
-<span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024</a> pp. 81-82)</span>.</p>
+<p><strong><span class="math inline">\(\text{Norma}\)</span> <span class="math inline">\(\text{Costumeira}\)</span>:</strong> Exclui da atribuição <em><span class="math inline">\(\text{Jus}\)</span> <span class="math inline">\(\text{Soli}\)</span></em> os filhos de <strong>agentes de Estados estrangeiros</strong> (diplomatas, cônsules, etc.), presumindo que terão o vínculo patrial dos pais.</p>
 </blockquote></li>
-<li><p>A regra constitucional do <em>jus soli</em> comporta exceção expressa em
-seu desfecho: não são brasileiros, embora nascidos no Brasil, os
-filhos de pais estrangeiros que aqui se encontrem a serviço de seu
-país. O serviço, desde que público e afeto a potência estrangeira,
-não precisa implicar permanência em nosso território, nem cobertura
-das imunidades diplomáticas;</p>
-<blockquote>
-<p>Há, na exceção ao jus soli, outro aspecto relevante, em torno do
-qual os autores não discrepam: os pais, estrangeiros, devem estar
-a serviço do país cuja nacionalidade possuem para que não ocorra a
-atribuição da nacionalidade brasileira. Seria brasileiro, dessa
-forma, o filho de um egípcio que cuidasse no Brasil da
-representação de Catar ou de Omã. A quem estranhe essa
-particularidade, convém lembrar que o constituinte não tencionou
-abrir exceção ao jus soli senão quando em presença de uma
-contundente presunção de que o elemento aqui nascido terá outra
-na­cionalidade, merecedora, por razões naturais, de sua
-preferência, e de que assim a atribuição da nacionalidade local
-iria originar quase que seguramente uma incômoda bipatria, a seu
-tempo resolvida em favor da nacionalidade estrangeira. Mas, se o
-Estado patrial dos genitores não é aquele mesmo a cujo serviço se
-encontram, a presunção perde sua energia, de modo que a recusa da
-nacionalidade local jure soli poderia não raro dar origem a uma
-situação que a todo custo tem de ser evitada, qual seja a apatria
-de um natural do Brasil <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 82</a>)</span>.</p>
-</blockquote></li>
-<li><p>CF/88, art. 12, I, b): <strong>os nascidos no estrangeiro, de pai
-brasileiro ou mãe brasileira, desde que qualquer deles esteja a
-serviço da República Federativa do Brasil</strong>;</p></li>
-<li><p>CF/88, art. 12, I, c): <strong>os nascidos no estrangeiro de pai
-brasileiro ou de mãe brasileira, desde que sejam registrados em
-repartição brasileira competente ou venham a residir na República
-Federativa do Brasil e optem, em qualquer tempo, depois de atingida
-a maioridade, pela nacionalidade brasileira</strong></p></li>
-</ul>
-<h3 id="brasileiros-naturalizados">Brasileiros naturalizados</h3>
+<li><strong>Nacionalidade Derivada (Naturalização):</strong> Adquirida em momento posterior ao nascimento.
 <ul>
-<li><p>CF/88, art. 12, II, a): os que, na forma da lei, adquiram a
-nacionalidade brasileira, exigidas aos originários de países de
-língua portuguesa apenas residência por um ano ininterrupto e
-idoneidade moral;</p></li>
-<li><p>CF/88, art. 12, II, b): os estrangeiros de qualquer nacionalidade,
-residentes na República Federativa do Brasil há mais de quinze anos
-ininterruptos e sem condenação penal, desde que requeiram a
-nacionalidade brasileira</p>
+<li>Exige <strong>manifestação de vontade</strong> e deve se apoiar em <strong>fatos sociais</strong> indicativos de vínculo (como residência, domínio do idioma, etc.), conforme o <strong>Princípio da Efetividade</strong>.</li>
+</ul></li>
+</ol>
+<h2 id="d.-tratados-multilaterais-combate-à-apatria-e-polipatria">D. Tratados Multilaterais: Combate à Apatria e Polipatria</h2>
+<p>O Direito Internacional busca reduzir a <strong>Apatria</strong> (ausência de nacionalidade) e a <strong>Polipatria</strong> (múltiplas nacionalidades).</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Instrumento</th>
+<th style="text-align: left;">Foco Principal</th>
+<th style="text-align: left;">Disposição Chave</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Convenção da Haia (1930)</strong></td>
+<td style="text-align: left;">Efetividade e Discriminação de Gênero.</td>
+<td style="text-align: left;">A determinação da nacionalidade só é <strong>oponível</strong> a outros Estados se tiver <strong>mínimo de efetividade</strong>; Condena a repercussão automática da mudança de nacionalidade do marido sobre a mulher.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Convenção de Nova York (1957)</strong></td>
+<td style="text-align: left;">Igualdade da Mulher.</td>
+<td style="text-align: left;">Imuniza a nacionalidade da mulher contra <strong>todo efeito automático</strong> do casamento, divórcio ou alterações da nacionalidade do marido.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Convenção de São José da Costa Rica (1969) Art. 20</strong></td>
+<td style="text-align: left;">Prevenção da Apatria.</td>
+<td style="text-align: left;">“Toda pessoa tem direito à nacionalidade do Estado em cujo território houver nascido, <strong>se não tiver direito a outra</strong>.” (Norma dotada de incontestável eficácia).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="iii.-a-nacionalidade-brasileira-cf88">III. A Nacionalidade Brasileira (CF/88)</h1>
+<p>A Constituição de 1988 traça as normas básicas da nacionalidade brasileira.</p>
+<h2 id="a.-brasileiros-natos-art.-12-i">A. Brasileiros Natos (Art. 12, I)</h2>
+<p>O brasileiro <strong>nato</strong> é aquele cuja nacionalidade é atribuída <strong>ao nascer</strong>, com efeitos retroativos.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Hipótese Constitucional</th>
+<th style="text-align: left;">Critério Principal</th>
+<th style="text-align: left;">Exceção/Requisito Crucial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>a) Jus Soli (Território)</strong></td>
+<td style="text-align: left;">Nascidos na <strong>RFB</strong>.</td>
+<td style="text-align: left;"><strong>Exceção:</strong> Filhos de pais estrangeiros <strong>que estejam a serviço de seu país</strong>.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>b) Jus Sanguinis (Serviço)</strong></td>
+<td style="text-align: left;">Nascidos no <strong>estrangeiro</strong> de pai ou mãe brasileira <strong>que esteja a serviço da RFB</strong>.</td>
+<td style="text-align: left;">Não importa a nacionalidade do outro genitor.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>c) Jus Sanguinis (Opção Confirmatória)</strong></td>
+<td style="text-align: left;">Nascidos no <strong>estrangeiro</strong> de pai ou mãe brasileira, desde que:</td>
+<td style="text-align: left;"><strong>Registro</strong> em repartição brasileira competente <strong>OU</strong> <strong>Residência</strong> na RFB e <strong>Opção</strong> pela nacionalidade, a qualquer tempo após a maioridade.</td>
+</tr>
+</tbody>
+</table>
 <blockquote>
-<p>A Constituição do Brasil cuida, ela própria, de favorecer a
-naturalização dos imigrantes que se fixaram no país há mais de
-quinze anos, sem quebra de continuidade e sem condenação penal;
-bem assim a dos originários de países de língua portuguesa, aos
-quais se exige como prazo de residência no Brasil apenas um ano
-ininterrupto e idoneidade moral. Dos demais estrangeiros a lei
-ordinária exige, em regra, quatro anos de residência no Brasil,
-idoneidade, boa saúde e domínio do idioma. O requisito cronológico
-é atenuado em certas hipóteses, como a de casamento com pessoa
-local ou prestação de bons serviços ao país. <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024</a> pp. 82-83)</span>.</p>
-</blockquote></li>
-</ul>
-<h3 id="perda-da-nacionalidade-brasileira">Perda da nacionalidade brasileira</h3>
+<p><strong>Doutrina de Pontes de Miranda:</strong> Entendem-se nascidos no Brasil os nascidos a bordo de navios ou aeronaves de bandeira brasileira quando trafeguem por <strong>espaços neutros</strong> (alto-mar, espaço aéreo internacional).</p>
+</blockquote>
+<h2 id="b.-brasileiros-naturalizados-art.-12-ii">B. Brasileiros Naturalizados (Art. 12, II)</h2>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Tipo de Naturalização</th>
+<th style="text-align: left;">Requisitos (Mínimos)</th>
+<th style="text-align: left;">Base Legal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Privilegiada</strong></td>
+<td style="text-align: left;">Originários de <strong>países de língua portuguesa</strong>: <strong>Um ano ininterrupto</strong> de residência e idoneidade moral.</td>
+<td style="text-align: left;">CF/88, Art. 12, II, “a”</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Extraordinária</strong></td>
+<td style="text-align: left;">Estrangeiros de qualquer nacionalidade: <strong>Mais de quinze anos ininterruptos</strong> de residência e sem condenação penal.</td>
+<td style="text-align: left;">CF/88, Art. 12, II, “b”</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ordinária (Geral)</strong></td>
+<td style="text-align: left;">Demais estrangeiros: Em regra, 4 anos de residência, idoneidade, boa saúde e domínio do idioma.</td>
+<td style="text-align: left;">Lei n. 13.445/2017</td>
+</tr>
+</tbody>
+</table>
+<h2 id="c.-perda-da-nacionalidade-brasileira-art.-12-4º">C. Perda da Nacionalidade Brasileira (Art. 12, § 4º)</h2>
+<div class="alert alert-danger">
+<h4>
+Alteração Crítica: Emenda Constitucional nº 131/2023
+</h4>
+<p>
+A regra bicentenária de perda automática por naturalização voluntária no exterior <strong>foi alterada</strong>.
+</p>
+</div>
+<ol type="1">
+<li><strong>Aquisição de Outra Nacionalidade:</strong>
 <ul>
-<li><p>“A extinção do vínculo patrial pode atingir tanto o brasileiro nato
-quanto o naturalizado em caso de aquisição de outra nacionalidade,
-por naturalização voluntária. Nesta hipótese, em face da prova da
-naturalização concedida lá fora, o presidente da República se limita
-a declarar a perda da nacionalidade brasileira. Seu ato não tem
-caráter constitutivo, vale dizer, não é dele que deriva a perda, mas
-da naturalização, que o antecede, e por força da qual se rompe o
-primitivo vínculo, restringindo-se o chefe do governo, a posteriori,
-a dar publicidade ao fato consumado. Para que acarrete a perda da
-nossa nacionalidade, a naturalização voluntária, no exterior, deve
-necessariamente envolver uma conduta ativa e específica"
-<span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 83</a>)</span>.</p>
+<li>A perda da nacionalidade brasileira <strong>não é mais automática</strong> pela aquisição de outra nacionalidade.</li>
+<li>A perda só será declarada se a pessoa apresentar <strong>pedido expresso e formal</strong> à autoridade brasileira competente, demonstrando ter ou estar na iminência de obter outra nacionalidade (evitando apatria).</li>
+<li>A antiga exceção (naturalização imposta como condição de permanência ou exercício de direitos civis) foi incorporada pela nova regra mais ampla, que prioriza a vontade do nacional.</li>
+</ul></li>
+<li><strong>Cancelamento da Naturalização (Apenas Naturalizados):</strong>
+<ul>
+<li>Ocorre por <strong>sentença judicial</strong> transitada em julgado, em virtude de:
+<ul>
+<li>Fraude relacionada ao processo de naturalização.</li>
+<li>Atentado contra a ordem constitucional e o Estado Democrático.</li>
+</ul></li>
+</ul></li>
+</ol>
+<hr />
+<h1 id="iv.-o-estatuto-de-igualdade-brasil---portugal">IV. O Estatuto de Igualdade (Brasil - Portugal)</h1>
+<p>O Estatuto de Igualdade, regido pelo Tratado de Amizade, Cooperação e Consulta (2000), é uma inovação jurídica que altera a clássica noção da nacionalidade como pressuposto da cidadania.</p>
+<h2 id="padrões-de-igualdade">Padrões de Igualdade</h2>
+<p>O Tratado oferece dois procedimentos:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Padrão</th>
+<th style="text-align: left;">Requisitos para Português no Brasil</th>
+<th style="text-align: left;">Direitos e Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Igualdade Civil</strong></td>
+<td style="text-align: left;">Prova de nacionalidade, capacidade civil e admissão permanente.</td>
+<td style="text-align: left;">Garante os direitos e obrigações civis.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Igualdade Plena</strong></td>
+<td style="text-align: left;">Igualdade Civil + Prova de gozo de direitos políticos em Portugal + <strong>Residência no Brasil por 3 anos</strong>.</td>
+<td style="text-align: left;">Garante direitos políticos (votar e ser votado, acesso a cargos públicos não exclusivos de natos).</td>
+</tr>
+</tbody>
+</table>
 <blockquote>
-<p>Se, ao contrair matrimônio com um francês, uma brasileira é
-informada de que se lhe concede a nacionalidade francesa em razão
-do matrimônio, a menos que, dentro de certo prazo, compareça ela
-ante o juízo competente para, de modo expresso, recusar o
-benefício, sua inércia não importa naturalização voluntária. Não
-terá havido, de sua parte, conduta específica visando à obtenção
-de outro vínculo pátrio, uma vez que o desejo de contrair
-matrimônio é, por natureza, estranho à questão da nacionalidade.
-Nem se poderá imputar procedimento ativo a quem não mais fez que
-calar. Outra seria a situação se, consumado o matrimônio, a
-autoridade estrangeira oferecesse, nos termos da lei, à nubente
-brasileira a nacionalidade do marido, mediante simples declaração
-de vontade, de pronto reduzida a termo. Aqui teríamos autêntica
-naturalização voluntária, resultante de procedimento específico
-— visto que o benefício não configurou efeito automático do
-matrimônio —, e de conduta ativa, ainda que consistente no
-pronunciar de uma palavra de aquiescência <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 83</a>)</span>.</p>
-</blockquote></li>
-<li><p>“O art. 12, § 4º, 2, b, da Constituição de 1988 ressalva a
-naturalização voluntária do brasileiro residente no exterior quando
-ela constitui, segundo o direito local, um pressuposto da simples
-permanência ou do mero exercício de direitos civis. Não ocorre mais,
-nessa hipótese, a perda da nacionalidade brasileira"
-<span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 83</a>)</span>;</p></li>
-<li><p>“O brasileiro naturalizado, e ele apenas, encontra-se sujeito a uma
-segunda espécie de medida excludente, qual seja o cancelamento da
-naturalização, por exercer atividade contrária ao interesse
-nacional. É óbvio que a variante implica processo capaz de comportar
-amplos meios de defesa" <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 83</a>)</span>.</p></li>
-<li><p>“À margem de todo esse complexo, cabe ao presidente da República
-anular, por decreto, a aquisição fraudulenta da qualidade de
-brasileiro. Não se trata, aqui, de uma hipótese de perda da
-nacionalidade: esta se entenderá nula, e, pois, inexistente desde o
-início. Ninguém pode perder algo que jamais tenha possuído a não ser
-em equívoca aparência" <span class="citation" data-cites="rezek_direito_2024">(<a href="#ref-rezek_direito_2024" role="doc-biblioref">REZEK, 2024, p. 83</a>)</span>.</p></li>
-</ul>
+<p><strong>Observação:</strong> O titular do Estatuto de Igualdade <strong>não</strong> é brasileiro naturalizado. Ele <strong>conserva incólume o vínculo de nacionalidade com Portugal</strong>. Continua sujeito à expulsão/extradição e é protegido diplomaticamente por Portugal. O gozo de direitos políticos no país de residência <strong>suspende</strong> esses direitos no país de origem (evitando o duplo gozo).</p>
+</blockquote>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
 <div id="ref-rezek_direito_2024" class="csl-entry" role="listitem">
@@ -2918,6 +2958,15 @@ REZEK, F. <strong><a href="https://integrada.minhabiblioteca.com.br/#/books/9788
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
