@@ -1,0 +1,82 @@
+---
+title: "DP - Aula 1 - Introdução e Fundamentos do DIP"
+description: "A Natureza do Direito Internacional, suas Teorias e Fontes Essenciais"
+author:
+  - name: Luccas Gissoni
+  - affiliation: Universidade Zumbi dos Palmares
+  - affiliation_url: https://zumbidospalmares.edu.br/
+date: "r Sys.Date()"
+output: distill::distill_article
+bibliography: dip.bib
+csl: abnt.csl
+---
+
+**Objetivo de Aprendizagem:** Ao final desta aula, você será capaz de definir o Direito Internacional Público, entender seu fundamento obrigatório e listar as fontes primárias, com foco nos Tratados.
+
+---
+
+# I. O Direito Internacional e Suas Teorias (Semana 2)
+
+O Direito Internacional Público ($\text{DIP}$) é o conjunto de regras e princípios que regem as relações entre os sujeitos da comunidade internacional, principalmente os **Estados** e as **Organizações Internacionais**.
+
+## A. O Fundamento da Obrigatoriedade
+
+Uma questão central no $\text{DIP}$ é: por que os Estados soberanos se sentem obrigados a cumprir as normas internacionais? A resposta reside em duas correntes teóricas principais:
+
+### 1. Corrente Voluntarista
+Obrigação baseada na **vontade dos Estados**. O $\text{DIP}$ existe porque os Estados querem que ele exista e manifestam seu consentimento em tratados ou costumes.
+* **Foco:** Soberania e consentimento.
+* **Crítica:** Se a vontade cria a norma, a mesma vontade pode desfazê-la, fragilizando a estabilidade jurídica.
+
+### 2. Corrente Objetivista
+Obrigação baseada em fatores externos à vontade estatal, como a necessidade social ou uma norma fundamental superior.
+* **Foco:** Necessidade da convivência internacional (*Pacta sunt servanda* como norma básica, Escola de Viena, etc.).
+* **Fator Chave:** A própria existência da comunidade internacional impõe um sistema de regras para garantir a coexistência e a cooperação.
+
+---
+
+# II. As Fontes do Direito Internacional (Semanas 3 e 4)
+
+As fontes do $\text{DIP}$ são os mecanismos pelos quais as normas internacionais são criadas e reconhecidas. A lista mais aceita é a do **$\text{Art.}$ 38 do $\text{Estatuto}$ da $\text{Corte}$ $\text{Internacional}$ de $\text{Justiça}$ ($\text{CIJ}$)**.
+
+## A. Fontes Primárias
+
+O $\text{Art.}$ 38 lista as fontes que a $\text{CIJ}$ deve aplicar para decidir as controvérsias.
+
+| Fonte | Descrição | Importância |
+| :--- | :--- | :--- |
+| **1. Tratados Internacionais** | Acordos formais e escritos entre sujeitos de $\text{DIP}$ (bilaterais ou multilaterais). | É a fonte mais abundante, precisa e moderna do $\text{DIP}$. |
+| **2. Costume Internacional** | Prática geral e reiterada dos Estados ($\text{elemento}$ material) aceita como sendo o direito ($\text{elemento}$ psicológico - *opinio juris*). | Fonte tradicional e não escrita, fundamental para o $\text{DIP}$ clássico. |
+| **3. Princípios Gerais de Direito** | Princípios comuns aos sistemas jurídicos internos das nações civilizadas (*ex.:* boa-fé, coisa julgada, reparação do dano). | Utilizada para preencher lacunas e interpretar normas. |
+
+## B. Foco Principal: Os Tratados Internacionais
+
+Os tratados são a principal ferramenta de criação de normas internacionais hoje.
+
+### 1. Conceito e Classificação
+* **Definição:** Um acordo concluído entre Estados em forma escrita e regido pelo $\text{DIP}$ (Convenção de $\text{Viena}$ sobre o $\text{Direito}$ dos $\text{Tratados}$ - $\text{CVDT}$/1969).
+* **Classificação $\text{Geral}$:**
+    * **$\text{Número}$ de $\text{Partes}$:** Bilaterais (duas partes) ou Multilaterais (várias partes).
+    * **$\text{Natureza}$ $\text{das}$ $\text{Normas}$:** Tratados-Lei (estabelecem normas gerais, como convenções de $\text{Direitos}$ $\text{Humanos}$) ou Tratados-Contrato (estabelecem obrigações recíprocas).
+
+### 2. Etapas de Conclusão de um Tratado (no Brasil)
+
+| Etapa | Descrição | Responsável |
+| :--- | :--- | :--- |
+| **1. $\text{Negociação}$** | Elaboração do texto e discussão das cláusulas. | Poder Executivo ($\text{Itamaraty}$). |
+| **2. $\text{Assinatura}$** | Autentica o texto, tornando-o definitivo. Não gera obrigação de cumprimento imediato. | Poder Executivo. |
+| **3. $\text{Aprovação}$** | O Congresso Nacional aprova o texto por meio de **Decreto Legislativo**. | Poder Legislativo. |
+| **4. $\text{Ratificação}$** | Ato solene e definitivo do $\text{Chefe}$ de $\text{Estado}$ (ou $\text{Executivo}$) confirmando o compromisso de vincular o $\text{Estado}$. | Poder Executivo. |
+| **5. $\text{Promulgação}$** | Publicação do texto no $\text{Diário}$ $\text{Oficial}$ (no $\text{Brasil}$, por **Decreto Presidencial**), incorporando-o ao Direito Interno. | Poder Executivo. |
+
+---
+
+# III. Fontes Auxiliares e Instrumentos de Interpretação
+
+O $\text{Art.}$ 38, I, "d" do $\text{Estatuto}$ da $\text{CIJ}$ também menciona a:
+* **Doutrina:** Escritos de juristas e especialistas.
+* **Jurisprudência:** Decisões de cortes e tribunais internacionais.
+
+Estes não criam a norma em si, mas ajudam a **interpretar** e **determinar** o conteúdo das normas primárias.
+
+**Próxima Aula:** Na próxima aula, aprofundaremos nos **sujeitos** do $\text{DIP}$, começando pelo **Estado** e seus elementos constitutivos: $\text{Território}$ e $\text{Nacionalidade}$.
